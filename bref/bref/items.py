@@ -9,4 +9,6 @@ import scrapy
 class BrefItem(scrapy.Item):
     year = scrapy.Field()
     name = scrapy.Field()
+    team = scrapy.Field()
     points = scrapy.Field()
+    league = scrapy.Field()
