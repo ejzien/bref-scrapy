@@ -29,7 +29,6 @@ class BrefSpider(Spider):
 
 
     def parse(self, response):
-        #years = [2017,2018,2019]
         years = list(range(1950,2020))
         years = [2017,2018,2019]
 
@@ -53,6 +52,24 @@ class BrefSpider(Spider):
                 item['name'] = row.xpath('./td[1]').extract_first().split('csk="')[-1].split('"')[0]
                 item['team'] = row.xpath('./td[2]/text()').extract_first()
                 item['points'] = row.xpath('./td[3]/text()').extract_first()
+                item['first_place_votes'] = row.xpath('./td[4]/text()').extract_first()
+                item['vote_share'] = row.xpath('./td[5]/text()').extract_first()
+                item['war'] = row.xpath('./td[6]/text()').extract_first()
+                item['at_bats'] = row.xpath('./td[8]/text()').extract_first()
+                item['runs'] = row.xpath('./td[9]/text()').extract_first()
+                item['home_runs'] = row.xpath('./td[11]/text()').extract_first()
+                item['rbi'] = row.xpath('./td[12]/text()').extract_first()
+                item['sb'] = row.xpath('./td[13]/text()').extract_first()
+                item['walks'] = row.xpath('./td[14]/text()').extract_first()
+                item['average'] = row.xpath('./td[15]/text()').extract_first()
+                item['obp'] = row.xpath('./td[16]/text()').extract_first()
+                item['slg'] = row.xpath('./td[17]/text()').extract_first()
+                item['ops'] = row.xpath('./td[18]/text()').extract_first()
+                item['wins'] = row.xpath('./td[19]/text()').extract_first()
+                item['era'] = row.xpath('./td[21]/text()').extract_first()
+                item['saves'] = row.xpath('./td[25]/text()').extract_first()
+                item['innings'] = row.xpath('./td[26]/text()').extract_first()
+                item['strike_outs'] = row.xpath('./td[30]/text()').extract_first()
                 yield item
 
 
