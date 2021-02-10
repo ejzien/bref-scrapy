@@ -30,7 +30,7 @@ class BrefSpider(Spider):
 
     def parse(self, response):
         years = list(range(1950,2020))
-        years = [2017,2018,2019]
+        #years = [2017,2018,2019]
 
         for year in years:
             url = 'https://www.baseball-reference.com/awards/awards_%s.shtml' % year
