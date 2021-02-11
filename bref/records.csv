@@ -1,1743 +1,1759 @@
-year,team_full,league,team_wins,team_losses,team_ties,team
-1950,Boston Braves,NL,83,71,2,BSN
-1950,St. Louis Browns,AL,58,96,0,SLB
-1950,Boston Red Sox,AL,94,60,0,BOS
-1950,Chicago Cubs,NL,64,89,1,CHC
-1950,Chicago White Sox,AL,60,94,2,CHW
-1950,Cincinnati Reds,NL,66,87,0,CIN
-1950,Cleveland Indians,AL,92,62,1,CLE
-1950,Detroit Tigers,AL,95,59,3,DET
-1950,Brooklyn Dodgers,NL,89,65,1,BRO
-1950,Washington Senators,AL,67,87,1,WSH
-1950,New York Yankees,AL,98,56,1,NYY
-1950,Philadelphia Athletics,AL,52,102,0,PHA
-1950,Philadelphia Phillies,NL,91,63,3,PHI
-1950,Pittsburgh Pirates,NL,57,96,1,PIT
-1950,New York Giants,NL,86,68,0,NYG
-1950,St. Louis Cardinals,NL,78,75,0,STL
-1951,Boston Braves,NL,76,78,1,BSN
-1951,St. Louis Browns,AL,52,102,0,SLB
-1951,Boston Red Sox,AL,87,67,0,BOS
-1951,Chicago Cubs,NL,62,92,1,CHC
-1951,Chicago White Sox,AL,81,73,1,CHW
-1951,Cincinnati Reds,NL,68,86,1,CIN
-1951,Cleveland Indians,AL,93,61,1,CLE
-1951,Detroit Tigers,AL,73,81,0,DET
-1951,Brooklyn Dodgers,NL,97,60,1,BRO
-1951,Washington Senators,AL,62,92,0,WSH
-1951,New York Yankees,AL,98,56,0,NYY
-1951,Philadelphia Athletics,AL,70,84,0,PHA
-1951,Philadelphia Phillies,NL,73,81,0,PHI
-1951,Pittsburgh Pirates,NL,64,90,1,PIT
-1951,New York Giants,NL,98,59,0,NYG
-1951,St. Louis Cardinals,NL,81,73,1,STL
-1952,Boston Braves,NL,64,89,2,BSN
-1952,St. Louis Browns,AL,64,90,1,SLB
-1952,Boston Red Sox,AL,76,78,0,BOS
-1952,Chicago Cubs,NL,77,77,1,CHC
-1952,Chicago White Sox,AL,81,73,2,CHW
-1952,Cincinnati Reds,NL,69,85,0,CIN
-1952,Cleveland Indians,AL,93,61,1,CLE
-1952,Detroit Tigers,AL,50,104,2,DET
-1952,Brooklyn Dodgers,NL,96,57,2,BRO
-1952,Washington Senators,AL,78,76,3,WSH
-1952,New York Yankees,AL,95,59,0,NYY
-1952,Philadelphia Athletics,AL,79,75,1,PHA
-1952,Philadelphia Phillies,NL,87,67,0,PHI
-1952,Pittsburgh Pirates,NL,42,112,1,PIT
-1952,New York Giants,NL,92,62,0,NYG
-1952,St. Louis Cardinals,NL,88,66,0,STL
-1953,Milwaukee Braves,NL,92,62,3,MLN
-1953,St. Louis Browns,AL,54,100,0,SLB
-1953,Boston Red Sox,AL,84,69,0,BOS
-1953,Chicago Cubs,NL,65,89,1,CHC
-1953,Chicago White Sox,AL,89,65,2,CHW
-1953,Cincinnati Reds,NL,68,86,1,CIN
-1953,Cleveland Indians,AL,92,62,1,CLE
-1953,Detroit Tigers,AL,60,94,4,DET
-1953,Brooklyn Dodgers,NL,105,49,1,BRO
-1953,Washington Senators,AL,76,76,0,WSH
-1953,New York Yankees,AL,99,52,0,NYY
-1953,Philadelphia Athletics,AL,59,95,3,PHA
-1953,Philadelphia Phillies,NL,83,71,2,PHI
-1953,Pittsburgh Pirates,NL,50,104,0,PIT
-1953,New York Giants,NL,70,84,1,NYG
-1953,St. Louis Cardinals,NL,83,71,3,STL
-1954,Milwaukee Braves,NL,89,65,0,MLN
-1954,Baltimore Orioles,AL,54,100,0,BAL
-1954,Boston Red Sox,AL,69,85,2,BOS
-1954,Chicago Cubs,NL,64,90,0,CHC
-1954,Chicago White Sox,AL,94,60,1,CHW
-1954,Cincinnati Redlegs,NL,74,80,0,CIN
-1954,Cleveland Indians,AL,111,43,2,CLE
-1954,Detroit Tigers,AL,68,86,1,DET
-1954,Brooklyn Dodgers,NL,92,62,0,BRO
-1954,Washington Senators,AL,66,88,1,WSH
-1954,New York Yankees,AL,103,51,1,NYY
-1954,Philadelphia Athletics,AL,51,103,2,PHA
-1954,Philadelphia Phillies,NL,75,79,0,PHI
-1954,Pittsburgh Pirates,NL,53,101,0,PIT
-1954,New York Giants,NL,97,57,0,NYG
-1954,St. Louis Cardinals,NL,72,82,0,STL
-1955,Milwaukee Braves,NL,85,69,0,MLN
-1955,Baltimore Orioles,AL,57,97,2,BAL
-1955,Boston Red Sox,AL,84,70,0,BOS
-1955,Chicago Cubs,NL,72,81,1,CHC
-1955,Chicago White Sox,AL,91,63,1,CHW
-1955,Cincinnati Redlegs,NL,75,79,0,CIN
-1955,Cleveland Indians,AL,93,61,0,CLE
-1955,Detroit Tigers,AL,79,75,0,DET
-1955,Brooklyn Dodgers,NL,98,55,1,BRO
-1955,Washington Senators,AL,53,101,0,WSH
-1955,New York Yankees,AL,96,58,0,NYY
-1955,Kansas City Athletics,AL,63,91,1,KCA
-1955,Philadelphia Phillies,NL,77,77,0,PHI
-1955,Pittsburgh Pirates,NL,60,94,0,PIT
-1955,New York Giants,NL,80,74,0,NYG
-1955,St. Louis Cardinals,NL,68,86,0,STL
-1956,Milwaukee Braves,NL,92,62,1,MLN
-1956,Baltimore Orioles,AL,69,85,0,BAL
-1956,Boston Red Sox,AL,84,70,1,BOS
-1956,Chicago Cubs,NL,60,94,3,CHC
-1956,Chicago White Sox,AL,85,69,0,CHW
-1956,Cincinnati Redlegs,NL,91,63,1,CIN
-1956,Cleveland Indians,AL,88,66,1,CLE
-1956,Detroit Tigers,AL,82,72,1,DET
-1956,Brooklyn Dodgers,NL,93,61,0,BRO
-1956,Washington Senators,AL,59,95,1,WSH
-1956,New York Yankees,AL,97,57,0,NYY
-1956,Kansas City Athletics,AL,52,102,0,KCA
-1956,Philadelphia Phillies,NL,71,83,0,PHI
-1956,Pittsburgh Pirates,NL,66,88,3,PIT
-1956,New York Giants,NL,67,87,0,NYG
-1956,St. Louis Cardinals,NL,76,78,2,STL
-1957,Milwaukee Braves,NL,95,59,1,MLN
-1957,Baltimore Orioles,AL,76,76,2,BAL
-1957,Boston Red Sox,AL,82,72,0,BOS
-1957,Chicago Cubs,NL,62,92,2,CHC
-1957,Chicago White Sox,AL,90,64,1,CHW
-1957,Cincinnati Redlegs,NL,80,74,0,CIN
-1957,Cleveland Indians,AL,76,77,0,CLE
-1957,Detroit Tigers,AL,78,76,0,DET
-1957,Brooklyn Dodgers,NL,84,70,0,BRO
-1957,Washington Senators,AL,55,99,0,WSH
-1957,New York Yankees,AL,98,56,0,NYY
-1957,Kansas City Athletics,AL,59,94,1,KCA
-1957,Philadelphia Phillies,NL,77,77,2,PHI
-1957,Pittsburgh Pirates,NL,62,92,1,PIT
-1957,New York Giants,NL,69,85,0,NYG
-1957,St. Louis Cardinals,NL,87,67,0,STL
-1958,Milwaukee Braves,NL,92,62,0,MLN
-1958,Baltimore Orioles,AL,74,79,1,BAL
-1958,Boston Red Sox,AL,79,75,1,BOS
-1958,Chicago Cubs,NL,72,82,0,CHC
-1958,Chicago White Sox,AL,82,72,1,CHW
-1958,Cincinnati Redlegs,NL,76,78,0,CIN
-1958,Cleveland Indians,AL,77,76,0,CLE
-1958,Detroit Tigers,AL,77,77,0,DET
-1958,Los Angeles Dodgers,NL,71,83,0,LAD
-1958,Washington Senators,AL,61,93,2,WSH
-1958,New York Yankees,AL,92,62,1,NYY
-1958,Kansas City Athletics,AL,73,81,2,KCA
-1958,Philadelphia Phillies,NL,69,85,0,PHI
-1958,Pittsburgh Pirates,NL,84,70,0,PIT
-1958,San Francisco Giants,NL,80,74,0,SFG
-1958,St. Louis Cardinals,NL,72,82,0,STL
-1959,Milwaukee Braves,NL,86,70,1,MLN
-1959,Baltimore Orioles,AL,74,80,1,BAL
-1959,Boston Red Sox,AL,75,79,0,BOS
-1959,Chicago Cubs,NL,74,80,1,CHC
-1959,Chicago White Sox,AL,94,60,2,CHW
-1959,Cincinnati Redlegs,NL,74,80,0,CIN
-1959,Cleveland Indians,AL,89,65,0,CLE
-1959,Detroit Tigers,AL,76,78,0,DET
-1959,Los Angeles Dodgers,NL,88,68,0,LAD
-1959,Washington Senators,AL,63,91,0,WSH
-1959,New York Yankees,AL,79,75,1,NYY
-1959,Kansas City Athletics,AL,66,88,0,KCA
-1959,Philadelphia Phillies,NL,64,90,1,PHI
-1959,Pittsburgh Pirates,NL,78,76,1,PIT
-1959,San Francisco Giants,NL,83,71,0,SFG
-1959,St. Louis Cardinals,NL,71,83,0,STL
-1960,Milwaukee Braves,NL,88,66,0,MLN
-1960,Baltimore Orioles,AL,89,65,0,BAL
-1960,Boston Red Sox,AL,65,89,0,BOS
-1960,Chicago Cubs,NL,60,94,2,CHC
-1960,Chicago White Sox,AL,87,67,0,CHW
-1960,Cincinnati Reds,NL,67,87,0,CIN
-1960,Cleveland Indians,AL,76,78,0,CLE
-1960,Detroit Tigers,AL,71,83,0,DET
-1960,Los Angeles Dodgers,NL,82,72,0,LAD
-1960,Washington Senators,AL,73,81,0,WSH
-1960,New York Yankees,AL,97,57,1,NYY
-1960,Kansas City Athletics,AL,58,96,1,KCA
-1960,Philadelphia Phillies,NL,59,95,0,PHI
-1960,Pittsburgh Pirates,NL,95,59,1,PIT
-1960,San Francisco Giants,NL,79,75,2,SFG
-1960,St. Louis Cardinals,NL,86,68,1,STL
-1961,Milwaukee Braves,NL,83,71,1,MLN
-1961,Baltimore Orioles,AL,95,67,1,BAL
-1961,Boston Red Sox,AL,76,86,1,BOS
-1961,Chicago Cubs,NL,64,90,2,CHC
-1961,Chicago White Sox,AL,86,76,1,CHW
-1961,Cincinnati Reds,NL,93,61,0,CIN
-1961,Cleveland Indians,AL,78,83,0,CLE
-1961,Detroit Tigers,AL,101,61,1,DET
-1961,Los Angeles Angels,AL,70,91,1,LAA
-1961,Los Angeles Dodgers,NL,89,65,0,LAD
-1961,Minnesota Twins,AL,70,90,1,MIN
-1961,New York Yankees,AL,109,53,1,NYY
-1961,Kansas City Athletics,AL,61,100,1,KCA
-1961,Philadelphia Phillies,NL,47,107,1,PHI
-1961,Pittsburgh Pirates,NL,75,79,0,PIT
-1961,San Francisco Giants,NL,85,69,1,SFG
-1961,St. Louis Cardinals,NL,80,74,1,STL
-1961,Washington Senators,AL,61,100,0,WSA
-1962,Milwaukee Braves,NL,86,76,0,MLN
-1962,Baltimore Orioles,AL,77,85,0,BAL
-1962,Boston Red Sox,AL,76,84,0,BOS
-1962,Chicago Cubs,NL,59,103,0,CHC
-1962,Chicago White Sox,AL,85,77,0,CHW
-1962,Cincinnati Reds,NL,98,64,0,CIN
-1962,Cleveland Indians,AL,80,82,0,CLE
-1962,Detroit Tigers,AL,85,76,0,DET
-1962,Houston Colt .45's,NL,64,96,2,HOU
-1962,Los Angeles Angels,AL,86,76,0,LAA
-1962,Los Angeles Dodgers,NL,102,63,0,LAD
-1962,Minnesota Twins,AL,91,71,1,MIN
-1962,New York Mets,NL,40,120,1,NYM
-1962,New York Yankees,AL,96,66,0,NYY
-1962,Kansas City Athletics,AL,72,90,0,KCA
-1962,Philadelphia Phillies,NL,81,80,0,PHI
-1962,Pittsburgh Pirates,NL,93,68,0,PIT
-1962,San Francisco Giants,NL,103,62,0,SFG
-1962,St. Louis Cardinals,NL,84,78,1,STL
-1962,Washington Senators,AL,60,101,1,WSA
-1963,Milwaukee Braves,NL,84,78,1,MLN
-1963,Baltimore Orioles,AL,86,76,0,BAL
-1963,Boston Red Sox,AL,76,85,0,BOS
-1963,Chicago Cubs,NL,82,80,0,CHC
-1963,Chicago White Sox,AL,94,68,0,CHW
-1963,Cincinnati Reds,NL,86,76,0,CIN
-1963,Cleveland Indians,AL,79,83,0,CLE
-1963,Detroit Tigers,AL,79,83,0,DET
-1963,Houston Colt .45's,NL,66,96,0,HOU
-1963,Los Angeles Angels,AL,70,91,0,LAA
-1963,Los Angeles Dodgers,NL,99,63,1,LAD
-1963,Minnesota Twins,AL,91,70,0,MIN
-1963,New York Mets,NL,51,111,0,NYM
-1963,New York Yankees,AL,104,57,0,NYY
-1963,Kansas City Athletics,AL,73,89,0,KCA
-1963,Philadelphia Phillies,NL,87,75,0,PHI
-1963,Pittsburgh Pirates,NL,74,88,0,PIT
-1963,San Francisco Giants,NL,88,74,0,SFG
-1963,St. Louis Cardinals,NL,93,69,0,STL
-1963,Washington Senators,AL,56,106,0,WSA
-1964,Milwaukee Braves,NL,88,74,0,MLN
-1964,Baltimore Orioles,AL,97,65,1,BAL
-1964,Boston Red Sox,AL,72,90,0,BOS
-1964,Chicago Cubs,NL,76,86,0,CHC
-1964,Chicago White Sox,AL,98,64,0,CHW
-1964,Cincinnati Reds,NL,92,70,1,CIN
-1964,Cleveland Indians,AL,79,83,2,CLE
-1964,Detroit Tigers,AL,85,77,1,DET
-1964,Houston Colt .45's,NL,66,96,0,HOU
-1964,Los Angeles Angels,AL,82,80,0,LAA
-1964,Los Angeles Dodgers,NL,80,82,2,LAD
-1964,Minnesota Twins,AL,79,83,1,MIN
-1964,New York Mets,NL,53,109,1,NYM
-1964,New York Yankees,AL,99,63,2,NYY
-1964,Kansas City Athletics,AL,57,105,1,KCA
-1964,Philadelphia Phillies,NL,92,70,0,PHI
-1964,Pittsburgh Pirates,NL,80,82,0,PIT
-1964,San Francisco Giants,NL,90,72,0,SFG
-1964,St. Louis Cardinals,NL,93,69,0,STL
-1964,Washington Senators,AL,62,100,0,WSA
-1965,Milwaukee Braves,NL,86,76,0,MLN
-1965,Baltimore Orioles,AL,94,68,0,BAL
-1965,Boston Red Sox,AL,62,100,0,BOS
-1965,Chicago Cubs,NL,72,90,2,CHC
-1965,Chicago White Sox,AL,95,67,0,CHW
-1965,Cincinnati Reds,NL,89,73,0,CIN
-1965,Cleveland Indians,AL,87,75,0,CLE
-1965,Detroit Tigers,AL,89,73,0,DET
-1965,Houston Astros,NL,65,97,0,HOU
-1965,California Angels,AL,75,87,0,CAL
-1965,Los Angeles Dodgers,NL,97,65,0,LAD
-1965,Minnesota Twins,AL,102,60,0,MIN
-1965,New York Mets,NL,50,112,2,NYM
-1965,New York Yankees,AL,77,85,0,NYY
-1965,Kansas City Athletics,AL,59,103,0,KCA
-1965,Philadelphia Phillies,NL,85,76,1,PHI
-1965,Pittsburgh Pirates,NL,90,72,1,PIT
-1965,San Francisco Giants,NL,95,67,1,SFG
-1965,St. Louis Cardinals,NL,80,81,1,STL
-1965,Washington Senators,AL,70,92,0,WSA
-1966,Atlanta Braves,NL,85,77,1,ATL
-1966,Baltimore Orioles,AL,97,63,0,BAL
-1966,Boston Red Sox,AL,72,90,0,BOS
-1966,Chicago Cubs,NL,59,103,0,CHC
-1966,Chicago White Sox,AL,83,79,1,CHW
-1966,Cincinnati Reds,NL,76,84,0,CIN
-1966,Cleveland Indians,AL,81,81,0,CLE
-1966,Detroit Tigers,AL,88,74,0,DET
-1966,Houston Astros,NL,72,90,1,HOU
-1966,California Angels,AL,80,82,0,CAL
-1966,Los Angeles Dodgers,NL,95,67,0,LAD
-1966,Minnesota Twins,AL,89,73,0,MIN
-1966,New York Mets,NL,66,95,0,NYM
-1966,New York Yankees,AL,70,89,1,NYY
-1966,Kansas City Athletics,AL,74,86,0,KCA
-1966,Philadelphia Phillies,NL,87,75,0,PHI
-1966,Pittsburgh Pirates,NL,92,70,0,PIT
-1966,San Francisco Giants,NL,93,68,0,SFG
-1966,St. Louis Cardinals,NL,83,79,0,STL
-1966,Washington Senators,AL,71,88,0,WSA
-1967,Atlanta Braves,NL,77,85,0,ATL
-1967,Baltimore Orioles,AL,76,85,0,BAL
-1967,Boston Red Sox,AL,92,70,0,BOS
-1967,Chicago Cubs,NL,87,74,1,CHC
-1967,Chicago White Sox,AL,89,73,0,CHW
-1967,Cincinnati Reds,NL,87,75,0,CIN
-1967,Cleveland Indians,AL,75,87,0,CLE
-1967,Detroit Tigers,AL,91,71,1,DET
-1967,Houston Astros,NL,69,93,0,HOU
-1967,California Angels,AL,84,77,0,CAL
-1967,Los Angeles Dodgers,NL,73,89,0,LAD
-1967,Minnesota Twins,AL,91,71,2,MIN
-1967,New York Mets,NL,61,101,0,NYM
-1967,New York Yankees,AL,72,90,1,NYY
-1967,Kansas City Athletics,AL,62,99,0,KCA
-1967,Philadelphia Phillies,NL,82,80,0,PHI
-1967,Pittsburgh Pirates,NL,81,81,1,PIT
-1967,San Francisco Giants,NL,91,71,0,SFG
-1967,St. Louis Cardinals,NL,101,60,0,STL
-1967,Washington Senators,AL,76,85,0,WSA
-1968,Atlanta Braves,NL,81,81,1,ATL
-1968,Baltimore Orioles,AL,91,71,0,BAL
-1968,Boston Red Sox,AL,86,76,0,BOS
-1968,Chicago Cubs,NL,84,78,1,CHC
-1968,Chicago White Sox,AL,67,95,0,CHW
-1968,Cincinnati Reds,NL,83,79,1,CIN
-1968,Cleveland Indians,AL,86,75,1,CLE
-1968,Detroit Tigers,AL,103,59,2,DET
-1968,Houston Astros,NL,72,90,0,HOU
-1968,California Angels,AL,67,95,0,CAL
-1968,Los Angeles Dodgers,NL,76,86,0,LAD
-1968,Minnesota Twins,AL,79,83,0,MIN
-1968,New York Mets,NL,73,89,1,NYM
-1968,New York Yankees,AL,83,79,2,NYY
-1968,Oakland Athletics,AL,82,80,1,OAK
-1968,Philadelphia Phillies,NL,76,86,0,PHI
-1968,Pittsburgh Pirates,NL,80,82,1,PIT
-1968,San Francisco Giants,NL,88,74,1,SFG
-1968,St. Louis Cardinals,NL,97,65,0,STL
-1968,Washington Senators,AL,65,96,0,WSA
-1969,Atlanta Braves,NL,93,69,0,ATL
-1969,Baltimore Orioles,AL,109,53,0,BAL
-1969,Boston Red Sox,AL,87,75,0,BOS
-1969,Chicago Cubs,NL,92,70,1,CHC
-1969,Chicago White Sox,AL,68,94,0,CHW
-1969,Cincinnati Reds,NL,89,73,1,CIN
-1969,Cleveland Indians,AL,62,99,0,CLE
-1969,Detroit Tigers,AL,90,72,0,DET
-1969,Houston Astros,NL,81,81,0,HOU
-1969,Kansas City Royals,AL,69,93,1,KCR
-1969,California Angels,AL,71,91,1,CAL
-1969,Los Angeles Dodgers,NL,85,77,0,LAD
-1969,Seattle Pilots,AL,64,98,1,SEP
-1969,Minnesota Twins,AL,97,65,0,MIN
-1969,New York Mets,NL,100,62,0,NYM
-1969,New York Yankees,AL,80,81,1,NYY
-1969,Oakland Athletics,AL,88,74,0,OAK
-1969,Philadelphia Phillies,NL,63,99,0,PHI
-1969,Pittsburgh Pirates,NL,88,74,0,PIT
-1969,San Diego Padres,NL,52,110,0,SDP
-1969,San Francisco Giants,NL,90,72,0,SFG
-1969,St. Louis Cardinals,NL,87,75,0,STL
-1969,Washington Senators,AL,86,76,0,WSA
-1969,Montreal Expos,NL,52,110,0,MON
-1970,Atlanta Braves,NL,76,86,0,ATL
-1970,Baltimore Orioles,AL,108,54,0,BAL
-1970,Boston Red Sox,AL,87,75,0,BOS
-1970,Chicago Cubs,NL,84,78,0,CHC
-1970,Chicago White Sox,AL,56,106,0,CHW
-1970,Cincinnati Reds,NL,102,60,0,CIN
-1970,Cleveland Indians,AL,76,86,0,CLE
-1970,Detroit Tigers,AL,79,83,0,DET
-1970,Houston Astros,NL,79,83,0,HOU
-1970,Kansas City Royals,AL,65,97,0,KCR
-1970,California Angels,AL,86,76,0,CAL
-1970,Los Angeles Dodgers,NL,87,74,0,LAD
-1970,Milwaukee Brewers,AL,65,97,1,MIL
-1970,Minnesota Twins,AL,98,64,0,MIN
-1970,New York Mets,NL,83,79,0,NYM
-1970,New York Yankees,AL,93,69,1,NYY
-1970,Oakland Athletics,AL,89,73,0,OAK
-1970,Philadelphia Phillies,NL,73,88,0,PHI
-1970,Pittsburgh Pirates,NL,89,73,0,PIT
-1970,San Diego Padres,NL,63,99,0,SDP
-1970,San Francisco Giants,NL,86,76,0,SFG
-1970,St. Louis Cardinals,NL,76,86,0,STL
-1970,Washington Senators,AL,70,92,0,WSA
-1970,Montreal Expos,NL,73,89,0,MON
-1971,Atlanta Braves,NL,82,80,0,ATL
-1971,Baltimore Orioles,AL,101,57,0,BAL
-1971,Boston Red Sox,AL,85,77,0,BOS
-1971,Chicago Cubs,NL,83,79,0,CHC
-1971,Chicago White Sox,AL,79,83,0,CHW
-1971,Cincinnati Reds,NL,79,83,0,CIN
-1971,Cleveland Indians,AL,60,102,0,CLE
-1971,Detroit Tigers,AL,91,71,0,DET
-1971,Houston Astros,NL,79,83,0,HOU
-1971,Kansas City Royals,AL,85,76,0,KCR
-1971,California Angels,AL,76,86,0,CAL
-1971,Los Angeles Dodgers,NL,89,73,0,LAD
-1971,Milwaukee Brewers,AL,69,92,0,MIL
-1971,Minnesota Twins,AL,74,86,0,MIN
-1971,New York Mets,NL,83,79,0,NYM
-1971,New York Yankees,AL,82,80,0,NYY
-1971,Oakland Athletics,AL,101,60,0,OAK
-1971,Philadelphia Phillies,NL,67,95,0,PHI
-1971,Pittsburgh Pirates,NL,97,65,0,PIT
-1971,San Diego Padres,NL,61,100,0,SDP
-1971,San Francisco Giants,NL,90,72,0,SFG
-1971,St. Louis Cardinals,NL,90,72,1,STL
-1971,Washington Senators,AL,63,96,0,WSA
-1971,Montreal Expos,NL,71,90,1,MON
-1972,Atlanta Braves,NL,70,84,1,ATL
-1972,Baltimore Orioles,AL,80,74,0,BAL
-1972,Boston Red Sox,AL,85,70,0,BOS
-1972,Chicago Cubs,NL,85,70,1,CHC
-1972,Chicago White Sox,AL,87,67,0,CHW
-1972,Cincinnati Reds,NL,95,59,0,CIN
-1972,Cleveland Indians,AL,72,84,0,CLE
-1972,Detroit Tigers,AL,86,70,0,DET
-1972,Houston Astros,NL,84,69,0,HOU
-1972,Kansas City Royals,AL,76,78,0,KCR
-1972,California Angels,AL,75,80,0,CAL
-1972,Los Angeles Dodgers,NL,85,70,0,LAD
-1972,Milwaukee Brewers,AL,65,91,0,MIL
-1972,Minnesota Twins,AL,77,77,0,MIN
-1972,New York Mets,NL,83,73,0,NYM
-1972,New York Yankees,AL,79,76,0,NYY
-1972,Oakland Athletics,AL,93,62,0,OAK
-1972,Philadelphia Phillies,NL,59,97,0,PHI
-1972,Pittsburgh Pirates,NL,96,59,0,PIT
-1972,San Diego Padres,NL,58,95,0,SDP
-1972,San Francisco Giants,NL,69,86,0,SFG
-1972,St. Louis Cardinals,NL,75,81,0,STL
-1972,Texas Rangers,AL,54,100,0,TEX
-1972,Montreal Expos,NL,70,86,0,MON
-1973,Atlanta Braves,NL,76,85,1,ATL
-1973,Baltimore Orioles,AL,97,65,0,BAL
-1973,Boston Red Sox,AL,89,73,0,BOS
-1973,Chicago Cubs,NL,77,84,0,CHC
-1973,Chicago White Sox,AL,77,85,0,CHW
-1973,Cincinnati Reds,NL,99,63,0,CIN
-1973,Cleveland Indians,AL,71,91,0,CLE
-1973,Detroit Tigers,AL,85,77,0,DET
-1973,Houston Astros,NL,82,80,0,HOU
-1973,Kansas City Royals,AL,88,74,0,KCR
-1973,California Angels,AL,79,83,0,CAL
-1973,Los Angeles Dodgers,NL,95,66,1,LAD
-1973,Milwaukee Brewers,AL,74,88,0,MIL
-1973,Minnesota Twins,AL,81,81,0,MIN
-1973,New York Mets,NL,82,79,0,NYM
-1973,New York Yankees,AL,80,82,0,NYY
-1973,Oakland Athletics,AL,94,68,0,OAK
-1973,Philadelphia Phillies,NL,71,91,0,PHI
-1973,Pittsburgh Pirates,NL,80,82,0,PIT
-1973,San Diego Padres,NL,60,102,0,SDP
-1973,San Francisco Giants,NL,88,74,0,SFG
-1973,St. Louis Cardinals,NL,81,81,0,STL
-1973,Texas Rangers,AL,57,105,0,TEX
-1973,Montreal Expos,NL,79,83,0,MON
-1974,Atlanta Braves,NL,88,74,1,ATL
-1974,Baltimore Orioles,AL,91,71,0,BAL
-1974,Boston Red Sox,AL,84,78,0,BOS
-1974,Chicago Cubs,NL,66,96,0,CHC
-1974,Chicago White Sox,AL,80,80,3,CHW
-1974,Cincinnati Reds,NL,98,64,1,CIN
-1974,Cleveland Indians,AL,77,85,0,CLE
-1974,Detroit Tigers,AL,72,90,0,DET
-1974,Houston Astros,NL,81,81,0,HOU
-1974,Kansas City Royals,AL,77,85,0,KCR
-1974,California Angels,AL,68,94,1,CAL
-1974,Los Angeles Dodgers,NL,102,60,0,LAD
-1974,Milwaukee Brewers,AL,76,86,0,MIL
-1974,Minnesota Twins,AL,82,80,1,MIN
-1974,New York Mets,NL,71,91,0,NYM
-1974,New York Yankees,AL,89,73,0,NYY
-1974,Oakland Athletics,AL,90,72,0,OAK
-1974,Philadelphia Phillies,NL,80,82,0,PHI
-1974,Pittsburgh Pirates,NL,88,74,0,PIT
-1974,San Diego Padres,NL,60,102,0,SDP
-1974,San Francisco Giants,NL,72,90,0,SFG
-1974,St. Louis Cardinals,NL,86,75,0,STL
-1974,Texas Rangers,AL,84,76,1,TEX
-1974,Montreal Expos,NL,79,82,0,MON
-1975,Atlanta Braves,NL,67,94,0,ATL
-1975,Baltimore Orioles,AL,90,69,0,BAL
-1975,Boston Red Sox,AL,95,65,0,BOS
-1975,Chicago Cubs,NL,75,87,0,CHC
-1975,Chicago White Sox,AL,75,86,0,CHW
-1975,Cincinnati Reds,NL,108,54,0,CIN
-1975,Cleveland Indians,AL,79,80,0,CLE
-1975,Detroit Tigers,AL,57,102,0,DET
-1975,Houston Astros,NL,64,97,1,HOU
-1975,Kansas City Royals,AL,91,71,0,KCR
-1975,California Angels,AL,72,89,0,CAL
-1975,Los Angeles Dodgers,NL,88,74,0,LAD
-1975,Milwaukee Brewers,AL,68,94,0,MIL
-1975,Minnesota Twins,AL,76,83,0,MIN
-1975,New York Mets,NL,82,80,0,NYM
-1975,New York Yankees,AL,83,77,0,NYY
-1975,Oakland Athletics,AL,98,64,0,OAK
-1975,Philadelphia Phillies,NL,86,76,0,PHI
-1975,Pittsburgh Pirates,NL,92,69,0,PIT
-1975,San Diego Padres,NL,71,91,0,SDP
-1975,San Francisco Giants,NL,80,81,0,SFG
-1975,St. Louis Cardinals,NL,82,80,1,STL
-1975,Texas Rangers,AL,79,83,0,TEX
-1975,Montreal Expos,NL,75,87,0,MON
-1976,Atlanta Braves,NL,70,92,0,ATL
-1976,Baltimore Orioles,AL,88,74,0,BAL
-1976,Boston Red Sox,AL,83,79,0,BOS
-1976,Chicago Cubs,NL,75,87,0,CHC
-1976,Chicago White Sox,AL,64,97,0,CHW
-1976,Cincinnati Reds,NL,102,60,0,CIN
-1976,Cleveland Indians,AL,81,78,0,CLE
-1976,Detroit Tigers,AL,74,87,0,DET
-1976,Houston Astros,NL,80,82,0,HOU
-1976,Kansas City Royals,AL,90,72,0,KCR
-1976,California Angels,AL,76,86,0,CAL
-1976,Los Angeles Dodgers,NL,92,70,0,LAD
-1976,Milwaukee Brewers,AL,66,95,0,MIL
-1976,Minnesota Twins,AL,85,77,0,MIN
-1976,New York Mets,NL,86,76,0,NYM
-1976,New York Yankees,AL,97,62,0,NYY
-1976,Oakland Athletics,AL,87,74,0,OAK
-1976,Philadelphia Phillies,NL,101,61,0,PHI
-1976,Pittsburgh Pirates,NL,92,70,0,PIT
-1976,San Diego Padres,NL,73,89,0,SDP
-1976,San Francisco Giants,NL,74,88,0,SFG
-1976,St. Louis Cardinals,NL,72,90,0,STL
-1976,Texas Rangers,AL,76,86,0,TEX
-1976,Montreal Expos,NL,55,107,0,MON
-1977,Atlanta Braves,NL,61,101,0,ATL
-1977,Baltimore Orioles,AL,97,64,0,BAL
-1977,Boston Red Sox,AL,97,64,0,BOS
-1977,Chicago Cubs,NL,81,81,0,CHC
-1977,Chicago White Sox,AL,90,72,0,CHW
-1977,Cincinnati Reds,NL,88,74,0,CIN
-1977,Cleveland Indians,AL,71,90,0,CLE
-1977,Detroit Tigers,AL,74,88,0,DET
-1977,Houston Astros,NL,81,81,0,HOU
-1977,Kansas City Royals,AL,102,60,0,KCR
-1977,California Angels,AL,74,88,0,CAL
-1977,Los Angeles Dodgers,NL,98,64,0,LAD
-1977,Milwaukee Brewers,AL,67,95,0,MIL
-1977,Minnesota Twins,AL,84,77,0,MIN
-1977,New York Mets,NL,64,98,0,NYM
-1977,New York Yankees,AL,100,62,0,NYY
-1977,Oakland Athletics,AL,63,98,0,OAK
-1977,Philadelphia Phillies,NL,101,61,0,PHI
-1977,Pittsburgh Pirates,NL,96,66,0,PIT
-1977,San Diego Padres,NL,69,93,0,SDP
-1977,San Francisco Giants,NL,75,87,0,SFG
-1977,Seattle Mariners,AL,64,98,0,SEA
-1977,St. Louis Cardinals,NL,83,79,0,STL
-1977,Texas Rangers,AL,94,68,0,TEX
-1977,Toronto Blue Jays,AL,54,107,0,TOR
-1977,Montreal Expos,NL,75,87,0,MON
-1978,Atlanta Braves,NL,69,93,0,ATL
-1978,Baltimore Orioles,AL,90,71,0,BAL
-1978,Boston Red Sox,AL,99,64,0,BOS
-1978,Chicago Cubs,NL,79,83,0,CHC
-1978,Chicago White Sox,AL,71,90,0,CHW
-1978,Cincinnati Reds,NL,92,69,0,CIN
-1978,Cleveland Indians,AL,69,90,0,CLE
-1978,Detroit Tigers,AL,86,76,0,DET
-1978,Houston Astros,NL,74,88,0,HOU
-1978,Kansas City Royals,AL,92,70,0,KCR
-1978,California Angels,AL,87,75,0,CAL
-1978,Los Angeles Dodgers,NL,95,67,0,LAD
-1978,Milwaukee Brewers,AL,93,69,0,MIL
-1978,Minnesota Twins,AL,73,89,0,MIN
-1978,New York Mets,NL,66,96,0,NYM
-1978,New York Yankees,AL,100,63,0,NYY
-1978,Oakland Athletics,AL,69,93,0,OAK
-1978,Philadelphia Phillies,NL,90,72,0,PHI
-1978,Pittsburgh Pirates,NL,88,73,0,PIT
-1978,San Diego Padres,NL,84,78,0,SDP
-1978,San Francisco Giants,NL,89,73,0,SFG
-1978,Seattle Mariners,AL,56,104,0,SEA
-1978,St. Louis Cardinals,NL,69,93,0,STL
-1978,Texas Rangers,AL,87,75,0,TEX
-1978,Toronto Blue Jays,AL,59,102,0,TOR
-1978,Montreal Expos,NL,76,86,0,MON
-1979,Atlanta Braves,NL,66,94,0,ATL
-1979,Baltimore Orioles,AL,102,57,0,BAL
-1979,Boston Red Sox,AL,91,69,0,BOS
-1979,Chicago Cubs,NL,80,82,0,CHC
-1979,Chicago White Sox,AL,73,87,0,CHW
-1979,Cincinnati Reds,NL,90,71,0,CIN
-1979,Cleveland Indians,AL,81,80,0,CLE
-1979,Detroit Tigers,AL,85,76,0,DET
-1979,Houston Astros,NL,89,73,0,HOU
-1979,Kansas City Royals,AL,85,77,0,KCR
-1979,California Angels,AL,88,74,0,CAL
-1979,Los Angeles Dodgers,NL,79,83,0,LAD
-1979,Milwaukee Brewers,AL,95,66,0,MIL
-1979,Minnesota Twins,AL,82,80,0,MIN
-1979,New York Mets,NL,63,99,1,NYM
-1979,New York Yankees,AL,89,71,0,NYY
-1979,Oakland Athletics,AL,54,108,0,OAK
-1979,Philadelphia Phillies,NL,84,78,1,PHI
-1979,Pittsburgh Pirates,NL,98,64,1,PIT
-1979,San Diego Padres,NL,68,93,0,SDP
-1979,San Francisco Giants,NL,71,91,0,SFG
-1979,Seattle Mariners,AL,67,95,0,SEA
-1979,St. Louis Cardinals,NL,86,76,1,STL
-1979,Texas Rangers,AL,83,79,0,TEX
-1979,Toronto Blue Jays,AL,53,109,0,TOR
-1979,Montreal Expos,NL,95,65,0,MON
-1980,Atlanta Braves,NL,81,80,0,ATL
-1980,Baltimore Orioles,AL,100,62,0,BAL
-1980,Boston Red Sox,AL,83,77,0,BOS
-1980,Chicago Cubs,NL,64,98,0,CHC
-1980,Chicago White Sox,AL,70,90,2,CHW
-1980,Cincinnati Reds,NL,89,73,1,CIN
-1980,Cleveland Indians,AL,79,81,0,CLE
-1980,Detroit Tigers,AL,84,78,1,DET
-1980,Houston Astros,NL,93,70,0,HOU
-1980,Kansas City Royals,AL,97,65,0,KCR
-1980,California Angels,AL,65,95,0,CAL
-1980,Los Angeles Dodgers,NL,92,71,0,LAD
-1980,Milwaukee Brewers,AL,86,76,0,MIL
-1980,Minnesota Twins,AL,77,84,0,MIN
-1980,New York Mets,NL,67,95,0,NYM
-1980,New York Yankees,AL,103,59,0,NYY
-1980,Oakland Athletics,AL,83,79,0,OAK
-1980,Philadelphia Phillies,NL,91,71,0,PHI
-1980,Pittsburgh Pirates,NL,83,79,0,PIT
-1980,San Diego Padres,NL,73,89,1,SDP
-1980,San Francisco Giants,NL,75,86,0,SFG
-1980,Seattle Mariners,AL,59,103,1,SEA
-1980,St. Louis Cardinals,NL,74,88,0,STL
-1980,Texas Rangers,AL,76,85,2,TEX
-1980,Toronto Blue Jays,AL,67,95,0,TOR
-1980,Montreal Expos,NL,90,72,0,MON
-1981,Atlanta Braves,NL,50,56,1,ATL
-1981,Baltimore Orioles,AL,59,46,0,BAL
-1981,Boston Red Sox,AL,59,49,0,BOS
-1981,Chicago Cubs,NL,38,65,3,CHC
-1981,Chicago White Sox,AL,54,52,0,CHW
-1981,Cincinnati Reds,NL,66,42,0,CIN
-1981,Cleveland Indians,AL,52,51,0,CLE
-1981,Detroit Tigers,AL,60,49,0,DET
-1981,Houston Astros,NL,61,49,0,HOU
-1981,Kansas City Royals,AL,50,53,0,KCR
-1981,California Angels,AL,51,59,0,CAL
-1981,Los Angeles Dodgers,NL,63,47,0,LAD
-1981,Milwaukee Brewers,AL,62,47,0,MIL
-1981,Minnesota Twins,AL,41,68,1,MIN
-1981,New York Mets,NL,41,62,2,NYM
-1981,New York Yankees,AL,59,48,0,NYY
-1981,Oakland Athletics,AL,64,45,0,OAK
-1981,Philadelphia Phillies,NL,59,48,0,PHI
-1981,Pittsburgh Pirates,NL,46,56,1,PIT
-1981,San Diego Padres,NL,41,69,0,SDP
-1981,San Francisco Giants,NL,56,55,0,SFG
-1981,Seattle Mariners,AL,44,65,1,SEA
-1981,St. Louis Cardinals,NL,59,43,1,STL
-1981,Texas Rangers,AL,57,48,0,TEX
-1981,Toronto Blue Jays,AL,37,69,0,TOR
-1981,Montreal Expos,NL,60,48,0,MON
-1982,Atlanta Braves,NL,89,73,0,ATL
-1982,Baltimore Orioles,AL,94,68,1,BAL
-1982,Boston Red Sox,AL,89,73,0,BOS
-1982,Chicago Cubs,NL,73,89,0,CHC
-1982,Chicago White Sox,AL,87,75,0,CHW
-1982,Cincinnati Reds,NL,61,101,0,CIN
-1982,Cleveland Indians,AL,78,84,0,CLE
-1982,Detroit Tigers,AL,83,79,0,DET
-1982,Houston Astros,NL,77,85,0,HOU
-1982,Kansas City Royals,AL,90,72,0,KCR
-1982,California Angels,AL,93,69,0,CAL
-1982,Los Angeles Dodgers,NL,88,74,0,LAD
-1982,Milwaukee Brewers,AL,95,67,1,MIL
-1982,Minnesota Twins,AL,60,102,0,MIN
-1982,New York Mets,NL,65,97,0,NYM
-1982,New York Yankees,AL,79,83,0,NYY
-1982,Oakland Athletics,AL,68,94,0,OAK
-1982,Philadelphia Phillies,NL,89,73,0,PHI
-1982,Pittsburgh Pirates,NL,84,78,0,PIT
-1982,San Diego Padres,NL,81,81,0,SDP
-1982,San Francisco Giants,NL,87,75,0,SFG
-1982,Seattle Mariners,AL,76,86,0,SEA
-1982,St. Louis Cardinals,NL,92,70,0,STL
-1982,Texas Rangers,AL,64,98,0,TEX
-1982,Toronto Blue Jays,AL,78,84,0,TOR
-1982,Montreal Expos,NL,86,76,0,MON
-1983,Atlanta Braves,NL,88,74,0,ATL
-1983,Baltimore Orioles,AL,98,64,0,BAL
-1983,Boston Red Sox,AL,78,84,0,BOS
-1983,Chicago Cubs,NL,71,91,0,CHC
-1983,Chicago White Sox,AL,99,63,0,CHW
-1983,Cincinnati Reds,NL,74,88,0,CIN
-1983,Cleveland Indians,AL,70,92,0,CLE
-1983,Detroit Tigers,AL,92,70,0,DET
-1983,Houston Astros,NL,85,77,0,HOU
-1983,Kansas City Royals,AL,79,83,1,KCR
-1983,California Angels,AL,70,92,0,CAL
-1983,Los Angeles Dodgers,NL,91,71,1,LAD
-1983,Milwaukee Brewers,AL,87,75,0,MIL
-1983,Minnesota Twins,AL,70,92,0,MIN
-1983,New York Mets,NL,68,94,0,NYM
-1983,New York Yankees,AL,91,71,0,NYY
-1983,Oakland Athletics,AL,74,88,0,OAK
-1983,Philadelphia Phillies,NL,90,72,1,PHI
-1983,Pittsburgh Pirates,NL,84,78,0,PIT
-1983,San Diego Padres,NL,81,81,1,SDP
-1983,San Francisco Giants,NL,79,83,0,SFG
-1983,Seattle Mariners,AL,60,102,0,SEA
-1983,St. Louis Cardinals,NL,79,83,0,STL
-1983,Texas Rangers,AL,77,85,1,TEX
-1983,Toronto Blue Jays,AL,89,73,0,TOR
-1983,Montreal Expos,NL,82,80,1,MON
-1984,Atlanta Braves,NL,80,82,0,ATL
-1984,Baltimore Orioles,AL,85,77,0,BAL
-1984,Boston Red Sox,AL,86,76,0,BOS
-1984,Chicago Cubs,NL,96,65,0,CHC
-1984,Chicago White Sox,AL,74,88,0,CHW
-1984,Cincinnati Reds,NL,70,92,0,CIN
-1984,Cleveland Indians,AL,75,87,1,CLE
-1984,Detroit Tigers,AL,104,58,0,DET
-1984,Houston Astros,NL,80,82,0,HOU
-1984,Kansas City Royals,AL,84,78,0,KCR
-1984,California Angels,AL,81,81,0,CAL
-1984,Los Angeles Dodgers,NL,79,83,0,LAD
-1984,Milwaukee Brewers,AL,67,94,0,MIL
-1984,Minnesota Twins,AL,81,81,0,MIN
-1984,New York Mets,NL,90,72,0,NYM
-1984,New York Yankees,AL,87,75,0,NYY
-1984,Oakland Athletics,AL,77,85,0,OAK
-1984,Philadelphia Phillies,NL,81,81,0,PHI
-1984,Pittsburgh Pirates,NL,75,87,0,PIT
-1984,San Diego Padres,NL,92,70,0,SDP
-1984,San Francisco Giants,NL,66,96,0,SFG
-1984,Seattle Mariners,AL,74,88,0,SEA
-1984,St. Louis Cardinals,NL,84,78,0,STL
-1984,Texas Rangers,AL,69,92,0,TEX
-1984,Toronto Blue Jays,AL,89,73,1,TOR
-1984,Montreal Expos,NL,78,83,0,MON
-1985,Atlanta Braves,NL,66,96,0,ATL
-1985,Baltimore Orioles,AL,83,78,0,BAL
-1985,Boston Red Sox,AL,81,81,1,BOS
-1985,Chicago Cubs,NL,77,84,1,CHC
-1985,Chicago White Sox,AL,85,77,1,CHW
-1985,Cincinnati Reds,NL,89,72,1,CIN
-1985,Cleveland Indians,AL,60,102,0,CLE
-1985,Detroit Tigers,AL,84,77,0,DET
-1985,Houston Astros,NL,83,79,0,HOU
-1985,Kansas City Royals,AL,91,71,0,KCR
-1985,California Angels,AL,90,72,0,CAL
-1985,Los Angeles Dodgers,NL,95,67,0,LAD
-1985,Milwaukee Brewers,AL,71,90,0,MIL
-1985,Minnesota Twins,AL,77,85,0,MIN
-1985,New York Mets,NL,98,64,0,NYM
-1985,New York Yankees,AL,97,64,0,NYY
-1985,Oakland Athletics,AL,77,85,0,OAK
-1985,Philadelphia Phillies,NL,75,87,0,PHI
-1985,Pittsburgh Pirates,NL,57,104,0,PIT
-1985,San Diego Padres,NL,83,79,0,SDP
-1985,San Francisco Giants,NL,62,100,0,SFG
-1985,Seattle Mariners,AL,74,88,0,SEA
-1985,St. Louis Cardinals,NL,101,61,0,STL
-1985,Texas Rangers,AL,62,99,0,TEX
-1985,Toronto Blue Jays,AL,99,62,0,TOR
-1985,Montreal Expos,NL,84,77,0,MON
-1986,Atlanta Braves,NL,72,89,0,ATL
-1986,Baltimore Orioles,AL,73,89,0,BAL
-1986,Boston Red Sox,AL,95,66,0,BOS
-1986,Chicago Cubs,NL,70,90,0,CHC
-1986,Chicago White Sox,AL,72,90,0,CHW
-1986,Cincinnati Reds,NL,86,76,0,CIN
-1986,Cleveland Indians,AL,84,78,1,CLE
-1986,Detroit Tigers,AL,87,75,0,DET
-1986,Houston Astros,NL,96,66,0,HOU
-1986,Kansas City Royals,AL,76,86,0,KCR
-1986,California Angels,AL,92,70,0,CAL
-1986,Los Angeles Dodgers,NL,73,89,0,LAD
-1986,Milwaukee Brewers,AL,77,84,0,MIL
-1986,Minnesota Twins,AL,71,91,0,MIN
-1986,New York Mets,NL,108,54,0,NYM
-1986,New York Yankees,AL,90,72,0,NYY
-1986,Oakland Athletics,AL,76,86,0,OAK
-1986,Philadelphia Phillies,NL,86,75,0,PHI
-1986,Pittsburgh Pirates,NL,64,98,0,PIT
-1986,San Diego Padres,NL,74,88,0,SDP
-1986,San Francisco Giants,NL,83,79,0,SFG
-1986,Seattle Mariners,AL,67,95,0,SEA
-1986,St. Louis Cardinals,NL,79,82,0,STL
-1986,Texas Rangers,AL,87,75,0,TEX
-1986,Toronto Blue Jays,AL,86,76,1,TOR
-1986,Montreal Expos,NL,78,83,0,MON
-1987,Atlanta Braves,NL,69,92,0,ATL
-1987,Baltimore Orioles,AL,67,95,0,BAL
-1987,Boston Red Sox,AL,78,84,0,BOS
-1987,Chicago Cubs,NL,76,85,0,CHC
-1987,Chicago White Sox,AL,77,85,0,CHW
-1987,Cincinnati Reds,NL,84,78,0,CIN
-1987,Cleveland Indians,AL,61,101,0,CLE
-1987,Detroit Tigers,AL,98,64,0,DET
-1987,Houston Astros,NL,76,86,0,HOU
-1987,Kansas City Royals,AL,83,79,0,KCR
-1987,California Angels,AL,75,87,0,CAL
-1987,Los Angeles Dodgers,NL,73,89,0,LAD
-1987,Milwaukee Brewers,AL,91,71,0,MIL
-1987,Minnesota Twins,AL,85,77,0,MIN
-1987,New York Mets,NL,92,70,0,NYM
-1987,New York Yankees,AL,89,73,0,NYY
-1987,Oakland Athletics,AL,81,81,0,OAK
-1987,Philadelphia Phillies,NL,80,82,0,PHI
-1987,Pittsburgh Pirates,NL,80,82,0,PIT
-1987,San Diego Padres,NL,65,97,0,SDP
-1987,San Francisco Giants,NL,90,72,0,SFG
-1987,Seattle Mariners,AL,78,84,0,SEA
-1987,St. Louis Cardinals,NL,95,67,0,STL
-1987,Texas Rangers,AL,75,87,0,TEX
-1987,Toronto Blue Jays,AL,96,66,0,TOR
-1987,Montreal Expos,NL,91,71,0,MON
-1988,Atlanta Braves,NL,54,106,0,ATL
-1988,Baltimore Orioles,AL,54,107,0,BAL
-1988,Boston Red Sox,AL,89,73,0,BOS
-1988,Chicago Cubs,NL,77,85,1,CHC
-1988,Chicago White Sox,AL,71,90,0,CHW
-1988,Cincinnati Reds,NL,87,74,0,CIN
-1988,Cleveland Indians,AL,78,84,0,CLE
-1988,Detroit Tigers,AL,88,74,0,DET
-1988,Houston Astros,NL,82,80,0,HOU
-1988,Kansas City Royals,AL,84,77,0,KCR
-1988,California Angels,AL,75,87,0,CAL
-1988,Los Angeles Dodgers,NL,94,67,1,LAD
-1988,Milwaukee Brewers,AL,87,75,0,MIL
-1988,Minnesota Twins,AL,91,71,0,MIN
-1988,New York Mets,NL,100,60,0,NYM
-1988,New York Yankees,AL,85,76,0,NYY
-1988,Oakland Athletics,AL,104,58,0,OAK
-1988,Philadelphia Phillies,NL,65,96,1,PHI
-1988,Pittsburgh Pirates,NL,85,75,0,PIT
-1988,San Diego Padres,NL,83,78,0,SDP
-1988,San Francisco Giants,NL,83,79,0,SFG
-1988,Seattle Mariners,AL,68,93,0,SEA
-1988,St. Louis Cardinals,NL,76,86,0,STL
-1988,Texas Rangers,AL,70,91,0,TEX
-1988,Toronto Blue Jays,AL,87,75,0,TOR
-1988,Montreal Expos,NL,81,81,1,MON
-1989,Atlanta Braves,NL,63,97,1,ATL
-1989,Baltimore Orioles,AL,87,75,0,BAL
-1989,Boston Red Sox,AL,83,79,0,BOS
-1989,Chicago Cubs,NL,93,69,0,CHC
-1989,Chicago White Sox,AL,69,92,0,CHW
-1989,Cincinnati Reds,NL,75,87,0,CIN
-1989,Cleveland Indians,AL,73,89,0,CLE
-1989,Detroit Tigers,AL,59,103,0,DET
-1989,Houston Astros,NL,86,76,0,HOU
-1989,Kansas City Royals,AL,92,70,0,KCR
-1989,California Angels,AL,91,71,0,CAL
-1989,Los Angeles Dodgers,NL,77,83,0,LAD
-1989,Milwaukee Brewers,AL,81,81,0,MIL
-1989,Minnesota Twins,AL,80,82,0,MIN
-1989,New York Mets,NL,87,75,0,NYM
-1989,New York Yankees,AL,74,87,0,NYY
-1989,Oakland Athletics,AL,99,63,0,OAK
-1989,Philadelphia Phillies,NL,67,95,1,PHI
-1989,Pittsburgh Pirates,NL,74,88,2,PIT
-1989,San Diego Padres,NL,89,73,0,SDP
-1989,San Francisco Giants,NL,92,70,0,SFG
-1989,Seattle Mariners,AL,73,89,0,SEA
-1989,St. Louis Cardinals,NL,86,76,2,STL
-1989,Texas Rangers,AL,83,79,0,TEX
-1989,Toronto Blue Jays,AL,89,73,0,TOR
-1989,Montreal Expos,NL,81,81,0,MON
-1990,Atlanta Braves,NL,65,97,0,ATL
-1990,Baltimore Orioles,AL,76,85,0,BAL
-1990,Boston Red Sox,AL,88,74,0,BOS
-1990,Chicago Cubs,NL,77,85,0,CHC
-1990,Chicago White Sox,AL,94,68,0,CHW
-1990,Cincinnati Reds,NL,91,71,0,CIN
-1990,Cleveland Indians,AL,77,85,0,CLE
-1990,Detroit Tigers,AL,79,83,0,DET
-1990,Houston Astros,NL,75,87,0,HOU
-1990,Kansas City Royals,AL,75,86,0,KCR
-1990,California Angels,AL,80,82,0,CAL
-1990,Los Angeles Dodgers,NL,86,76,0,LAD
-1990,Milwaukee Brewers,AL,74,88,0,MIL
-1990,Minnesota Twins,AL,74,88,0,MIN
-1990,New York Mets,NL,91,71,0,NYM
-1990,New York Yankees,AL,67,95,0,NYY
-1990,Oakland Athletics,AL,103,59,0,OAK
-1990,Philadelphia Phillies,NL,77,85,0,PHI
-1990,Pittsburgh Pirates,NL,95,67,0,PIT
-1990,San Diego Padres,NL,75,87,0,SDP
-1990,San Francisco Giants,NL,85,77,0,SFG
-1990,Seattle Mariners,AL,77,85,0,SEA
-1990,St. Louis Cardinals,NL,70,92,0,STL
-1990,Texas Rangers,AL,83,79,0,TEX
-1990,Toronto Blue Jays,AL,86,76,0,TOR
-1990,Montreal Expos,NL,85,77,0,MON
-1991,Atlanta Braves,NL,94,68,0,ATL
-1991,Baltimore Orioles,AL,67,95,0,BAL
-1991,Boston Red Sox,AL,84,78,0,BOS
-1991,Chicago Cubs,NL,77,83,0,CHC
-1991,Chicago White Sox,AL,87,75,0,CHW
-1991,Cincinnati Reds,NL,74,88,0,CIN
-1991,Cleveland Indians,AL,57,105,0,CLE
-1991,Detroit Tigers,AL,84,78,0,DET
-1991,Houston Astros,NL,65,97,0,HOU
-1991,Kansas City Royals,AL,82,80,0,KCR
-1991,California Angels,AL,81,81,0,CAL
-1991,Los Angeles Dodgers,NL,93,69,0,LAD
-1991,Milwaukee Brewers,AL,83,79,0,MIL
-1991,Minnesota Twins,AL,95,67,0,MIN
-1991,New York Mets,NL,77,84,0,NYM
-1991,New York Yankees,AL,71,91,0,NYY
-1991,Oakland Athletics,AL,84,78,0,OAK
-1991,Philadelphia Phillies,NL,78,84,0,PHI
-1991,Pittsburgh Pirates,NL,98,64,0,PIT
-1991,San Diego Padres,NL,84,78,0,SDP
-1991,San Francisco Giants,NL,75,87,0,SFG
-1991,Seattle Mariners,AL,83,79,0,SEA
-1991,St. Louis Cardinals,NL,84,78,0,STL
-1991,Texas Rangers,AL,85,77,0,TEX
-1991,Toronto Blue Jays,AL,91,71,0,TOR
-1991,Montreal Expos,NL,71,90,0,MON
-1992,Atlanta Braves,NL,98,64,0,ATL
-1992,Baltimore Orioles,AL,89,73,0,BAL
-1992,Boston Red Sox,AL,73,89,0,BOS
-1992,Chicago Cubs,NL,78,84,0,CHC
-1992,Chicago White Sox,AL,86,76,0,CHW
-1992,Cincinnati Reds,NL,90,72,0,CIN
-1992,Cleveland Indians,AL,76,86,0,CLE
-1992,Detroit Tigers,AL,75,87,0,DET
-1992,Houston Astros,NL,81,81,0,HOU
-1992,Kansas City Royals,AL,72,90,0,KCR
-1992,California Angels,AL,72,90,0,CAL
-1992,Los Angeles Dodgers,NL,63,99,0,LAD
-1992,Milwaukee Brewers,AL,92,70,0,MIL
-1992,Minnesota Twins,AL,90,72,0,MIN
-1992,New York Mets,NL,72,90,0,NYM
-1992,New York Yankees,AL,76,86,0,NYY
-1992,Oakland Athletics,AL,96,66,0,OAK
-1992,Philadelphia Phillies,NL,70,92,0,PHI
-1992,Pittsburgh Pirates,NL,96,66,0,PIT
-1992,San Diego Padres,NL,82,80,0,SDP
-1992,San Francisco Giants,NL,72,90,0,SFG
-1992,Seattle Mariners,AL,64,98,0,SEA
-1992,St. Louis Cardinals,NL,83,79,0,STL
-1992,Texas Rangers,AL,77,85,0,TEX
-1992,Toronto Blue Jays,AL,96,66,0,TOR
-1992,Montreal Expos,NL,87,75,0,MON
-1993,Atlanta Braves,NL,104,58,0,ATL
-1993,Baltimore Orioles,AL,85,77,0,BAL
-1993,Boston Red Sox,AL,80,82,0,BOS
-1993,Chicago Cubs,NL,84,78,1,CHC
-1993,Chicago White Sox,AL,94,68,0,CHW
-1993,Cincinnati Reds,NL,73,89,0,CIN
-1993,Cleveland Indians,AL,76,86,0,CLE
-1993,Colorado Rockies,NL,67,95,0,COL
-1993,Detroit Tigers,AL,85,77,0,DET
-1993,Houston Astros,NL,85,77,0,HOU
-1993,Kansas City Royals,AL,84,78,0,KCR
-1993,California Angels,AL,71,91,0,CAL
-1993,Los Angeles Dodgers,NL,81,81,0,LAD
-1993,Florida Marlins,NL,64,98,0,FLA
-1993,Milwaukee Brewers,AL,69,93,0,MIL
-1993,Minnesota Twins,AL,71,91,0,MIN
-1993,New York Mets,NL,59,103,0,NYM
-1993,New York Yankees,AL,88,74,0,NYY
-1993,Oakland Athletics,AL,68,94,0,OAK
-1993,Philadelphia Phillies,NL,97,65,0,PHI
-1993,Pittsburgh Pirates,NL,75,87,0,PIT
-1993,San Diego Padres,NL,61,101,0,SDP
-1993,San Francisco Giants,NL,103,59,0,SFG
-1993,Seattle Mariners,AL,82,80,0,SEA
-1993,St. Louis Cardinals,NL,87,75,0,STL
-1993,Texas Rangers,AL,86,76,0,TEX
-1993,Toronto Blue Jays,AL,95,67,0,TOR
-1993,Montreal Expos,NL,94,68,1,MON
-1994,Atlanta Braves,NL,68,46,0,ATL
-1994,Baltimore Orioles,AL,63,49,0,BAL
-1994,Boston Red Sox,AL,54,61,0,BOS
-1994,Chicago Cubs,NL,49,64,0,CHC
-1994,Chicago White Sox,AL,67,46,0,CHW
-1994,Cincinnati Reds,NL,66,48,1,CIN
-1994,Cleveland Indians,AL,66,47,0,CLE
-1994,Colorado Rockies,NL,53,64,0,COL
-1994,Detroit Tigers,AL,53,62,0,DET
-1994,Houston Astros,NL,66,49,0,HOU
-1994,Kansas City Royals,AL,64,51,0,KCR
-1994,California Angels,AL,47,68,0,CAL
-1994,Los Angeles Dodgers,NL,58,56,0,LAD
-1994,Florida Marlins,NL,51,64,0,FLA
-1994,Milwaukee Brewers,AL,53,62,0,MIL
-1994,Minnesota Twins,AL,53,60,0,MIN
-1994,New York Mets,NL,55,58,0,NYM
-1994,New York Yankees,AL,70,43,0,NYY
-1994,Oakland Athletics,AL,51,63,0,OAK
-1994,Philadelphia Phillies,NL,54,61,0,PHI
-1994,Pittsburgh Pirates,NL,53,61,0,PIT
-1994,San Diego Padres,NL,47,70,0,SDP
-1994,San Francisco Giants,NL,55,60,0,SFG
-1994,Seattle Mariners,AL,49,63,0,SEA
-1994,St. Louis Cardinals,NL,53,61,1,STL
-1994,Texas Rangers,AL,52,62,0,TEX
-1994,Toronto Blue Jays,AL,55,60,0,TOR
-1994,Montreal Expos,NL,74,40,0,MON
-1995,Atlanta Braves,NL,90,54,0,ATL
-1995,Baltimore Orioles,AL,71,73,0,BAL
-1995,Boston Red Sox,AL,86,58,0,BOS
-1995,Chicago Cubs,NL,73,71,0,CHC
-1995,Chicago White Sox,AL,68,76,1,CHW
-1995,Cincinnati Reds,NL,85,59,0,CIN
-1995,Cleveland Indians,AL,100,44,0,CLE
-1995,Colorado Rockies,NL,77,67,0,COL
-1995,Detroit Tigers,AL,60,84,0,DET
-1995,Houston Astros,NL,76,68,0,HOU
-1995,Kansas City Royals,AL,70,74,0,KCR
-1995,California Angels,AL,78,67,0,CAL
-1995,Los Angeles Dodgers,NL,78,66,0,LAD
-1995,Florida Marlins,NL,67,76,0,FLA
-1995,Milwaukee Brewers,AL,65,79,0,MIL
-1995,Minnesota Twins,AL,56,88,0,MIN
-1995,New York Mets,NL,69,75,0,NYM
-1995,New York Yankees,AL,79,65,1,NYY
-1995,Oakland Athletics,AL,67,77,0,OAK
-1995,Philadelphia Phillies,NL,69,75,0,PHI
-1995,Pittsburgh Pirates,NL,58,86,0,PIT
-1995,San Diego Padres,NL,70,74,0,SDP
-1995,San Francisco Giants,NL,67,77,0,SFG
-1995,Seattle Mariners,AL,79,66,0,SEA
-1995,St. Louis Cardinals,NL,62,81,0,STL
-1995,Texas Rangers,AL,74,70,0,TEX
-1995,Toronto Blue Jays,AL,56,88,0,TOR
-1995,Montreal Expos,NL,66,78,0,MON
-1996,Atlanta Braves,NL,96,66,0,ATL
-1996,Baltimore Orioles,AL,88,74,1,BAL
-1996,Boston Red Sox,AL,85,77,0,BOS
-1996,Chicago Cubs,NL,76,86,0,CHC
-1996,Chicago White Sox,AL,85,77,0,CHW
-1996,Cincinnati Reds,NL,81,81,0,CIN
-1996,Cleveland Indians,AL,99,62,0,CLE
-1996,Colorado Rockies,NL,83,79,0,COL
-1996,Detroit Tigers,AL,53,109,0,DET
-1996,Houston Astros,NL,82,80,0,HOU
-1996,Kansas City Royals,AL,75,86,0,KCR
-1996,California Angels,AL,70,91,0,CAL
-1996,Los Angeles Dodgers,NL,90,72,0,LAD
-1996,Florida Marlins,NL,80,82,0,FLA
-1996,Milwaukee Brewers,AL,80,82,0,MIL
-1996,Minnesota Twins,AL,78,84,0,MIN
-1996,New York Mets,NL,71,91,0,NYM
-1996,New York Yankees,AL,92,70,0,NYY
-1996,Oakland Athletics,AL,78,84,0,OAK
-1996,Philadelphia Phillies,NL,67,95,0,PHI
-1996,Pittsburgh Pirates,NL,73,89,0,PIT
-1996,San Diego Padres,NL,91,71,0,SDP
-1996,San Francisco Giants,NL,68,94,0,SFG
-1996,Seattle Mariners,AL,85,76,0,SEA
-1996,St. Louis Cardinals,NL,88,74,0,STL
-1996,Texas Rangers,AL,90,72,1,TEX
-1996,Toronto Blue Jays,AL,74,88,0,TOR
-1996,Montreal Expos,NL,88,74,0,MON
-1997,Atlanta Braves,NL,101,61,0,ATL
-1997,Baltimore Orioles,AL,98,64,0,BAL
-1997,Boston Red Sox,AL,78,84,0,BOS
-1997,Chicago Cubs,NL,68,94,0,CHC
-1997,Chicago White Sox,AL,80,81,0,CHW
-1997,Cincinnati Reds,NL,76,86,0,CIN
-1997,Cleveland Indians,AL,86,75,0,CLE
-1997,Colorado Rockies,NL,83,79,0,COL
-1997,Detroit Tigers,AL,79,83,0,DET
-1997,Houston Astros,NL,84,78,0,HOU
-1997,Kansas City Royals,AL,67,94,0,KCR
-1997,Anaheim Angels,AL,84,78,0,ANA
-1997,Los Angeles Dodgers,NL,88,74,0,LAD
-1997,Florida Marlins,NL,92,70,0,FLA
-1997,Milwaukee Brewers,AL,78,83,0,MIL
-1997,Minnesota Twins,AL,68,94,0,MIN
-1997,New York Mets,NL,88,74,0,NYM
-1997,New York Yankees,AL,96,66,0,NYY
-1997,Oakland Athletics,AL,65,97,0,OAK
-1997,Philadelphia Phillies,NL,68,94,0,PHI
-1997,Pittsburgh Pirates,NL,79,83,0,PIT
-1997,San Diego Padres,NL,76,86,0,SDP
-1997,San Francisco Giants,NL,90,72,0,SFG
-1997,Seattle Mariners,AL,90,72,0,SEA
-1997,St. Louis Cardinals,NL,73,89,0,STL
-1997,Texas Rangers,AL,77,85,0,TEX
-1997,Toronto Blue Jays,AL,76,86,0,TOR
-1997,Montreal Expos,NL,78,84,0,MON
-1998,Arizona Diamondbacks,NL,65,97,0,ARI
-1998,Atlanta Braves,NL,106,56,0,ATL
-1998,Baltimore Orioles,AL,79,83,0,BAL
-1998,Boston Red Sox,AL,92,70,0,BOS
-1998,Chicago Cubs,NL,90,73,0,CHC
-1998,Chicago White Sox,AL,80,82,1,CHW
-1998,Cincinnati Reds,NL,77,85,0,CIN
-1998,Cleveland Indians,AL,89,73,0,CLE
-1998,Colorado Rockies,NL,77,85,0,COL
-1998,Detroit Tigers,AL,65,97,0,DET
-1998,Houston Astros,NL,102,60,0,HOU
-1998,Kansas City Royals,AL,72,89,0,KCR
-1998,Anaheim Angels,AL,85,77,0,ANA
-1998,Los Angeles Dodgers,NL,83,79,0,LAD
-1998,Florida Marlins,NL,54,108,0,FLA
-1998,Milwaukee Brewers,NL,74,88,0,MIL
-1998,Minnesota Twins,AL,70,92,0,MIN
-1998,New York Mets,NL,88,74,0,NYM
-1998,New York Yankees,AL,114,48,0,NYY
-1998,Oakland Athletics,AL,74,88,0,OAK
-1998,Philadelphia Phillies,NL,75,87,0,PHI
-1998,Pittsburgh Pirates,NL,69,93,1,PIT
-1998,San Diego Padres,NL,98,64,0,SDP
-1998,San Francisco Giants,NL,89,74,0,SFG
-1998,Seattle Mariners,AL,76,85,0,SEA
-1998,St. Louis Cardinals,NL,83,79,1,STL
-1998,Tampa Bay Devil Rays,AL,63,99,0,TBD
-1998,Texas Rangers,AL,88,74,0,TEX
-1998,Toronto Blue Jays,AL,88,74,1,TOR
-1998,Montreal Expos,NL,65,97,0,MON
-1999,Arizona Diamondbacks,NL,100,62,0,ARI
-1999,Atlanta Braves,NL,103,59,0,ATL
-1999,Baltimore Orioles,AL,78,84,0,BAL
-1999,Boston Red Sox,AL,94,68,0,BOS
-1999,Chicago Cubs,NL,67,95,0,CHC
-1999,Chicago White Sox,AL,75,86,1,CHW
-1999,Cincinnati Reds,NL,96,67,0,CIN
-1999,Cleveland Indians,AL,97,65,0,CLE
-1999,Colorado Rockies,NL,72,90,0,COL
-1999,Detroit Tigers,AL,69,92,0,DET
-1999,Houston Astros,NL,97,65,0,HOU
-1999,Kansas City Royals,AL,64,97,0,KCR
-1999,Anaheim Angels,AL,70,92,0,ANA
-1999,Los Angeles Dodgers,NL,77,85,0,LAD
-1999,Florida Marlins,NL,64,98,0,FLA
-1999,Milwaukee Brewers,NL,74,87,0,MIL
-1999,Minnesota Twins,AL,63,97,1,MIN
-1999,New York Mets,NL,97,66,0,NYM
-1999,New York Yankees,AL,98,64,0,NYY
-1999,Oakland Athletics,AL,87,75,0,OAK
-1999,Philadelphia Phillies,NL,77,85,0,PHI
-1999,Pittsburgh Pirates,NL,78,83,0,PIT
-1999,San Diego Padres,NL,74,88,0,SDP
-1999,San Francisco Giants,NL,86,76,0,SFG
-1999,Seattle Mariners,AL,79,83,0,SEA
-1999,St. Louis Cardinals,NL,75,86,0,STL
-1999,Tampa Bay Devil Rays,AL,69,93,0,TBD
-1999,Texas Rangers,AL,95,67,0,TEX
-1999,Toronto Blue Jays,AL,84,78,0,TOR
-1999,Montreal Expos,NL,68,94,0,MON
-2000,Arizona Diamondbacks,NL,85,77,0,ARI
-2000,Atlanta Braves,NL,95,67,0,ATL
-2000,Baltimore Orioles,AL,74,88,0,BAL
-2000,Boston Red Sox,AL,85,77,0,BOS
-2000,Chicago Cubs,NL,65,97,0,CHC
-2000,Chicago White Sox,AL,95,67,0,CHW
-2000,Cincinnati Reds,NL,85,77,1,CIN
-2000,Cleveland Indians,AL,90,72,0,CLE
-2000,Colorado Rockies,NL,82,80,0,COL
-2000,Detroit Tigers,AL,79,83,0,DET
-2000,Houston Astros,NL,72,90,0,HOU
-2000,Kansas City Royals,AL,77,85,0,KCR
-2000,Anaheim Angels,AL,82,80,0,ANA
-2000,Los Angeles Dodgers,NL,86,76,0,LAD
-2000,Florida Marlins,NL,79,82,0,FLA
-2000,Milwaukee Brewers,NL,73,89,1,MIL
-2000,Minnesota Twins,AL,69,93,0,MIN
-2000,New York Mets,NL,94,68,0,NYM
-2000,New York Yankees,AL,87,74,0,NYY
-2000,Oakland Athletics,AL,91,70,0,OAK
-2000,Philadelphia Phillies,NL,65,97,0,PHI
-2000,Pittsburgh Pirates,NL,69,93,0,PIT
-2000,San Diego Padres,NL,76,86,0,SDP
-2000,San Francisco Giants,NL,97,65,0,SFG
-2000,Seattle Mariners,AL,91,71,0,SEA
-2000,St. Louis Cardinals,NL,95,67,0,STL
-2000,Tampa Bay Devil Rays,AL,69,92,0,TBD
-2000,Texas Rangers,AL,71,91,0,TEX
-2000,Toronto Blue Jays,AL,83,79,0,TOR
-2000,Montreal Expos,NL,67,95,0,MON
-2001,Arizona Diamondbacks,NL,92,70,0,ARI
-2001,Atlanta Braves,NL,88,74,0,ATL
-2001,Baltimore Orioles,AL,63,98,1,BAL
-2001,Boston Red Sox,AL,82,79,0,BOS
-2001,Chicago Cubs,NL,88,74,0,CHC
-2001,Chicago White Sox,AL,83,79,0,CHW
-2001,Cincinnati Reds,NL,66,96,0,CIN
-2001,Cleveland Indians,AL,91,71,0,CLE
-2001,Colorado Rockies,NL,73,89,0,COL
-2001,Detroit Tigers,AL,66,96,0,DET
-2001,Houston Astros,NL,93,69,0,HOU
-2001,Kansas City Royals,AL,65,97,0,KCR
-2001,Anaheim Angels,AL,75,87,0,ANA
-2001,Los Angeles Dodgers,NL,86,76,0,LAD
-2001,Florida Marlins,NL,76,86,0,FLA
-2001,Milwaukee Brewers,NL,68,94,0,MIL
-2001,Minnesota Twins,AL,85,77,0,MIN
-2001,New York Mets,NL,82,80,0,NYM
-2001,New York Yankees,AL,95,65,1,NYY
-2001,Oakland Athletics,AL,102,60,0,OAK
-2001,Philadelphia Phillies,NL,86,76,0,PHI
-2001,Pittsburgh Pirates,NL,62,100,0,PIT
-2001,San Diego Padres,NL,79,83,0,SDP
-2001,San Francisco Giants,NL,90,72,0,SFG
-2001,Seattle Mariners,AL,116,46,0,SEA
-2001,St. Louis Cardinals,NL,93,69,0,STL
-2001,Tampa Bay Devil Rays,AL,62,100,0,TBD
-2001,Texas Rangers,AL,73,89,0,TEX
-2001,Toronto Blue Jays,AL,80,82,0,TOR
-2001,Montreal Expos,NL,68,94,0,MON
-2002,Arizona Diamondbacks,NL,98,64,0,ARI
-2002,Atlanta Braves,NL,101,59,1,ATL
-2002,Baltimore Orioles,AL,67,95,0,BAL
-2002,Boston Red Sox,AL,93,69,0,BOS
-2002,Chicago Cubs,NL,67,95,0,CHC
-2002,Chicago White Sox,AL,81,81,0,CHW
-2002,Cincinnati Reds,NL,78,84,0,CIN
-2002,Cleveland Indians,AL,74,88,0,CLE
-2002,Colorado Rockies,NL,73,89,0,COL
-2002,Detroit Tigers,AL,55,106,0,DET
-2002,Houston Astros,NL,84,78,0,HOU
-2002,Kansas City Royals,AL,62,100,0,KCR
-2002,Anaheim Angels,AL,99,63,0,ANA
-2002,Los Angeles Dodgers,NL,92,70,0,LAD
-2002,Florida Marlins,NL,79,83,0,FLA
-2002,Milwaukee Brewers,NL,56,106,0,MIL
-2002,Minnesota Twins,AL,94,67,0,MIN
-2002,New York Mets,NL,75,86,0,NYM
-2002,New York Yankees,AL,103,58,0,NYY
-2002,Oakland Athletics,AL,103,59,0,OAK
-2002,Philadelphia Phillies,NL,80,81,0,PHI
-2002,Pittsburgh Pirates,NL,72,89,0,PIT
-2002,San Diego Padres,NL,66,96,0,SDP
-2002,San Francisco Giants,NL,95,66,1,SFG
-2002,Seattle Mariners,AL,93,69,0,SEA
-2002,St. Louis Cardinals,NL,97,65,0,STL
-2002,Tampa Bay Devil Rays,AL,55,106,0,TBD
-2002,Texas Rangers,AL,72,90,0,TEX
-2002,Toronto Blue Jays,AL,78,84,0,TOR
-2002,Montreal Expos,NL,83,79,0,MON
-2003,Arizona Diamondbacks,NL,84,78,0,ARI
-2003,Atlanta Braves,NL,101,61,0,ATL
-2003,Baltimore Orioles,AL,71,91,1,BAL
-2003,Boston Red Sox,AL,95,67,0,BOS
-2003,Chicago Cubs,NL,88,74,0,CHC
-2003,Chicago White Sox,AL,86,76,0,CHW
-2003,Cincinnati Reds,NL,69,93,0,CIN
-2003,Cleveland Indians,AL,68,94,0,CLE
-2003,Colorado Rockies,NL,74,88,0,COL
-2003,Detroit Tigers,AL,43,119,0,DET
-2003,Houston Astros,NL,87,75,0,HOU
-2003,Kansas City Royals,AL,83,79,0,KCR
-2003,Anaheim Angels,AL,77,85,0,ANA
-2003,Los Angeles Dodgers,NL,85,77,0,LAD
-2003,Florida Marlins,NL,91,71,0,FLA
-2003,Milwaukee Brewers,NL,68,94,0,MIL
-2003,Minnesota Twins,AL,90,72,0,MIN
-2003,New York Mets,NL,66,95,0,NYM
-2003,New York Yankees,AL,101,61,1,NYY
-2003,Oakland Athletics,AL,96,66,0,OAK
-2003,Philadelphia Phillies,NL,86,76,0,PHI
-2003,Pittsburgh Pirates,NL,75,87,0,PIT
-2003,San Diego Padres,NL,64,98,0,SDP
-2003,San Francisco Giants,NL,100,61,0,SFG
-2003,Seattle Mariners,AL,93,69,0,SEA
-2003,St. Louis Cardinals,NL,85,77,0,STL
-2003,Tampa Bay Devil Rays,AL,63,99,0,TBD
-2003,Texas Rangers,AL,71,91,0,TEX
-2003,Toronto Blue Jays,AL,86,76,0,TOR
-2003,Montreal Expos,NL,83,79,0,MON
-2004,Arizona Diamondbacks,NL,51,111,0,ARI
-2004,Atlanta Braves,NL,96,66,0,ATL
-2004,Baltimore Orioles,AL,78,84,0,BAL
-2004,Boston Red Sox,AL,98,64,0,BOS
-2004,Chicago Cubs,NL,89,73,0,CHC
-2004,Chicago White Sox,AL,83,79,0,CHW
-2004,Cincinnati Reds,NL,76,86,0,CIN
-2004,Cleveland Indians,AL,80,82,0,CLE
-2004,Colorado Rockies,NL,68,94,0,COL
-2004,Detroit Tigers,AL,72,90,0,DET
-2004,Houston Astros,NL,92,70,0,HOU
-2004,Kansas City Royals,AL,58,104,0,KCR
-2004,Anaheim Angels,AL,92,70,0,ANA
-2004,Los Angeles Dodgers,NL,93,69,0,LAD
-2004,Florida Marlins,NL,83,79,0,FLA
-2004,Milwaukee Brewers,NL,67,94,0,MIL
-2004,Minnesota Twins,AL,92,70,0,MIN
-2004,New York Mets,NL,71,91,0,NYM
-2004,New York Yankees,AL,101,61,0,NYY
-2004,Oakland Athletics,AL,91,71,0,OAK
-2004,Philadelphia Phillies,NL,86,76,0,PHI
-2004,Pittsburgh Pirates,NL,72,89,0,PIT
-2004,San Diego Padres,NL,87,75,0,SDP
-2004,San Francisco Giants,NL,91,71,0,SFG
-2004,Seattle Mariners,AL,63,99,0,SEA
-2004,St. Louis Cardinals,NL,105,57,0,STL
-2004,Tampa Bay Devil Rays,AL,70,91,0,TBD
-2004,Texas Rangers,AL,89,73,0,TEX
-2004,Toronto Blue Jays,AL,67,94,0,TOR
-2004,Montreal Expos,NL,67,95,0,MON
-2005,Arizona Diamondbacks,NL,77,85,0,ARI
-2005,Atlanta Braves,NL,90,72,0,ATL
-2005,Baltimore Orioles,AL,74,88,0,BAL
-2005,Boston Red Sox,AL,95,67,0,BOS
-2005,Chicago Cubs,NL,79,83,0,CHC
-2005,Chicago White Sox,AL,99,63,0,CHW
-2005,Cincinnati Reds,NL,73,89,1,CIN
-2005,Cleveland Indians,AL,93,69,0,CLE
-2005,Colorado Rockies,NL,67,95,0,COL
-2005,Detroit Tigers,AL,71,91,0,DET
-2005,Houston Astros,NL,89,73,1,HOU
-2005,Kansas City Royals,AL,56,106,0,KCR
-2005,Los Angeles Angels of Anaheim,AL,95,67,0,LAA
-2005,Los Angeles Dodgers,NL,71,91,0,LAD
-2005,Florida Marlins,NL,83,79,0,FLA
-2005,Milwaukee Brewers,NL,81,81,0,MIL
-2005,Minnesota Twins,AL,83,79,0,MIN
-2005,New York Mets,NL,83,79,0,NYM
-2005,New York Yankees,AL,95,67,0,NYY
-2005,Oakland Athletics,AL,88,74,0,OAK
-2005,Philadelphia Phillies,NL,88,74,0,PHI
-2005,Pittsburgh Pirates,NL,67,95,0,PIT
-2005,San Diego Padres,NL,82,80,0,SDP
-2005,San Francisco Giants,NL,75,87,0,SFG
-2005,Seattle Mariners,AL,69,93,0,SEA
-2005,St. Louis Cardinals,NL,100,62,0,STL
-2005,Tampa Bay Devil Rays,AL,67,95,0,TBD
-2005,Texas Rangers,AL,79,83,0,TEX
-2005,Toronto Blue Jays,AL,80,82,0,TOR
-2005,Washington Nationals,NL,81,81,0,WSN
-2006,Arizona Diamondbacks,NL,76,86,0,ARI
-2006,Atlanta Braves,NL,79,83,0,ATL
-2006,Baltimore Orioles,AL,70,92,0,BAL
-2006,Boston Red Sox,AL,86,76,0,BOS
-2006,Chicago Cubs,NL,66,96,0,CHC
-2006,Chicago White Sox,AL,90,72,0,CHW
-2006,Cincinnati Reds,NL,80,82,0,CIN
-2006,Cleveland Indians,AL,78,84,0,CLE
-2006,Colorado Rockies,NL,76,86,0,COL
-2006,Detroit Tigers,AL,95,67,0,DET
-2006,Houston Astros,NL,82,80,0,HOU
-2006,Kansas City Royals,AL,62,100,0,KCR
-2006,Los Angeles Angels of Anaheim,AL,89,73,0,LAA
-2006,Los Angeles Dodgers,NL,88,74,0,LAD
-2006,Florida Marlins,NL,78,84,0,FLA
-2006,Milwaukee Brewers,NL,75,87,0,MIL
-2006,Minnesota Twins,AL,96,66,0,MIN
-2006,New York Mets,NL,97,65,0,NYM
-2006,New York Yankees,AL,97,65,0,NYY
-2006,Oakland Athletics,AL,93,69,0,OAK
-2006,Philadelphia Phillies,NL,85,77,0,PHI
-2006,Pittsburgh Pirates,NL,67,95,0,PIT
-2006,San Diego Padres,NL,88,74,0,SDP
-2006,San Francisco Giants,NL,76,85,0,SFG
-2006,Seattle Mariners,AL,78,84,0,SEA
-2006,St. Louis Cardinals,NL,83,78,0,STL
-2006,Tampa Bay Devil Rays,AL,61,101,0,TBD
-2006,Texas Rangers,AL,80,82,0,TEX
-2006,Toronto Blue Jays,AL,87,75,0,TOR
-2006,Washington Nationals,NL,71,91,0,WSN
-2007,Arizona Diamondbacks,NL,90,72,0,ARI
-2007,Atlanta Braves,NL,84,78,0,ATL
-2007,Baltimore Orioles,AL,69,93,0,BAL
-2007,Boston Red Sox,AL,96,66,0,BOS
-2007,Chicago Cubs,NL,85,77,0,CHC
-2007,Chicago White Sox,AL,72,90,0,CHW
-2007,Cincinnati Reds,NL,72,90,0,CIN
-2007,Cleveland Indians,AL,96,66,0,CLE
-2007,Colorado Rockies,NL,90,73,0,COL
-2007,Detroit Tigers,AL,88,74,0,DET
-2007,Houston Astros,NL,73,89,0,HOU
-2007,Kansas City Royals,AL,69,93,0,KCR
-2007,Los Angeles Angels of Anaheim,AL,94,68,0,LAA
-2007,Los Angeles Dodgers,NL,82,80,0,LAD
-2007,Florida Marlins,NL,71,91,0,FLA
-2007,Milwaukee Brewers,NL,83,79,0,MIL
-2007,Minnesota Twins,AL,79,83,0,MIN
-2007,New York Mets,NL,88,74,0,NYM
-2007,New York Yankees,AL,94,68,0,NYY
-2007,Oakland Athletics,AL,76,86,0,OAK
-2007,Philadelphia Phillies,NL,89,73,0,PHI
-2007,Pittsburgh Pirates,NL,68,94,0,PIT
-2007,San Diego Padres,NL,89,74,0,SDP
-2007,San Francisco Giants,NL,71,91,0,SFG
-2007,Seattle Mariners,AL,88,74,0,SEA
-2007,St. Louis Cardinals,NL,78,84,0,STL
-2007,Tampa Bay Devil Rays,AL,66,96,0,TBD
-2007,Texas Rangers,AL,75,87,0,TEX
-2007,Toronto Blue Jays,AL,83,79,0,TOR
-2007,Washington Nationals,NL,73,89,0,WSN
-2008,Arizona Diamondbacks,NL,82,80,0,ARI
-2008,Atlanta Braves,NL,72,90,0,ATL
-2008,Baltimore Orioles,AL,68,93,0,BAL
-2008,Boston Red Sox,AL,95,67,0,BOS
-2008,Chicago Cubs,NL,97,64,0,CHC
-2008,Chicago White Sox,AL,89,74,0,CHW
-2008,Cincinnati Reds,NL,74,88,0,CIN
-2008,Cleveland Indians,AL,81,81,0,CLE
-2008,Colorado Rockies,NL,74,88,0,COL
-2008,Detroit Tigers,AL,74,88,0,DET
-2008,Houston Astros,NL,86,75,0,HOU
-2008,Kansas City Royals,AL,75,87,0,KCR
-2008,Los Angeles Angels of Anaheim,AL,100,62,0,LAA
-2008,Los Angeles Dodgers,NL,84,78,0,LAD
-2008,Florida Marlins,NL,84,77,0,FLA
-2008,Milwaukee Brewers,NL,90,72,0,MIL
-2008,Minnesota Twins,AL,88,75,0,MIN
-2008,New York Mets,NL,89,73,0,NYM
-2008,New York Yankees,AL,89,73,0,NYY
-2008,Oakland Athletics,AL,75,86,0,OAK
-2008,Philadelphia Phillies,NL,92,70,0,PHI
-2008,Pittsburgh Pirates,NL,67,95,0,PIT
-2008,San Diego Padres,NL,63,99,0,SDP
-2008,San Francisco Giants,NL,72,90,0,SFG
-2008,Seattle Mariners,AL,61,101,0,SEA
-2008,St. Louis Cardinals,NL,86,76,0,STL
-2008,Tampa Bay Rays,AL,97,65,0,TBR
-2008,Texas Rangers,AL,79,83,0,TEX
-2008,Toronto Blue Jays,AL,86,76,0,TOR
-2008,Washington Nationals,NL,59,102,0,WSN
-2009,Arizona Diamondbacks,NL,70,92,0,ARI
-2009,Atlanta Braves,NL,86,76,0,ATL
-2009,Baltimore Orioles,AL,64,98,0,BAL
-2009,Boston Red Sox,AL,95,67,0,BOS
-2009,Chicago Cubs,NL,83,78,0,CHC
-2009,Chicago White Sox,AL,79,83,0,CHW
-2009,Cincinnati Reds,NL,78,84,0,CIN
-2009,Cleveland Indians,AL,65,97,0,CLE
-2009,Colorado Rockies,NL,92,70,0,COL
-2009,Detroit Tigers,AL,86,77,0,DET
-2009,Houston Astros,NL,74,88,0,HOU
-2009,Kansas City Royals,AL,65,97,0,KCR
-2009,Los Angeles Angels of Anaheim,AL,97,65,0,LAA
-2009,Los Angeles Dodgers,NL,95,67,0,LAD
-2009,Florida Marlins,NL,87,75,0,FLA
-2009,Milwaukee Brewers,NL,80,82,0,MIL
-2009,Minnesota Twins,AL,87,76,0,MIN
-2009,New York Mets,NL,70,92,0,NYM
-2009,New York Yankees,AL,103,59,0,NYY
-2009,Oakland Athletics,AL,75,87,0,OAK
-2009,Philadelphia Phillies,NL,93,69,0,PHI
-2009,Pittsburgh Pirates,NL,62,99,0,PIT
-2009,San Diego Padres,NL,75,87,0,SDP
-2009,San Francisco Giants,NL,88,74,0,SFG
-2009,Seattle Mariners,AL,85,77,0,SEA
-2009,St. Louis Cardinals,NL,91,71,0,STL
-2009,Tampa Bay Rays,AL,84,78,0,TBR
-2009,Texas Rangers,AL,87,75,0,TEX
-2009,Toronto Blue Jays,AL,75,87,0,TOR
-2009,Washington Nationals,NL,59,103,0,WSN
-2010,Arizona Diamondbacks,NL,65,97,0,ARI
-2010,Atlanta Braves,NL,91,71,0,ATL
-2010,Baltimore Orioles,AL,66,96,0,BAL
-2010,Boston Red Sox,AL,89,73,0,BOS
-2010,Chicago Cubs,NL,75,87,0,CHC
-2010,Chicago White Sox,AL,88,74,0,CHW
-2010,Cincinnati Reds,NL,91,71,0,CIN
-2010,Cleveland Indians,AL,69,93,0,CLE
-2010,Colorado Rockies,NL,83,79,0,COL
-2010,Detroit Tigers,AL,81,81,0,DET
-2010,Houston Astros,NL,76,86,0,HOU
-2010,Kansas City Royals,AL,67,95,0,KCR
-2010,Los Angeles Angels of Anaheim,AL,80,82,0,LAA
-2010,Los Angeles Dodgers,NL,80,82,0,LAD
-2010,Florida Marlins,NL,80,82,0,FLA
-2010,Milwaukee Brewers,NL,77,85,0,MIL
-2010,Minnesota Twins,AL,94,68,0,MIN
-2010,New York Mets,NL,79,83,0,NYM
-2010,New York Yankees,AL,95,67,0,NYY
-2010,Oakland Athletics,AL,81,81,0,OAK
-2010,Philadelphia Phillies,NL,97,65,0,PHI
-2010,Pittsburgh Pirates,NL,57,105,0,PIT
-2010,San Diego Padres,NL,90,72,0,SDP
-2010,San Francisco Giants,NL,92,70,0,SFG
-2010,Seattle Mariners,AL,61,101,0,SEA
-2010,St. Louis Cardinals,NL,86,76,0,STL
-2010,Tampa Bay Rays,AL,96,66,0,TBR
-2010,Texas Rangers,AL,90,72,0,TEX
-2010,Toronto Blue Jays,AL,85,77,0,TOR
-2010,Washington Nationals,NL,69,93,0,WSN
-2011,Arizona Diamondbacks,NL,94,68,0,ARI
-2011,Atlanta Braves,NL,89,73,0,ATL
-2011,Baltimore Orioles,AL,69,93,0,BAL
-2011,Boston Red Sox,AL,90,72,0,BOS
-2011,Chicago Cubs,NL,71,91,0,CHC
-2011,Chicago White Sox,AL,79,83,0,CHW
-2011,Cincinnati Reds,NL,79,83,0,CIN
-2011,Cleveland Indians,AL,80,82,0,CLE
-2011,Colorado Rockies,NL,73,89,0,COL
-2011,Detroit Tigers,AL,95,67,0,DET
-2011,Houston Astros,NL,56,106,0,HOU
-2011,Kansas City Royals,AL,71,91,0,KCR
-2011,Los Angeles Angels of Anaheim,AL,86,76,0,LAA
-2011,Los Angeles Dodgers,NL,82,79,0,LAD
-2011,Florida Marlins,NL,72,90,0,FLA
-2011,Milwaukee Brewers,NL,96,66,0,MIL
-2011,Minnesota Twins,AL,63,99,0,MIN
-2011,New York Mets,NL,77,85,0,NYM
-2011,New York Yankees,AL,97,65,0,NYY
-2011,Oakland Athletics,AL,74,88,0,OAK
-2011,Philadelphia Phillies,NL,102,60,0,PHI
-2011,Pittsburgh Pirates,NL,72,90,0,PIT
-2011,San Diego Padres,NL,71,91,0,SDP
-2011,San Francisco Giants,NL,86,76,0,SFG
-2011,Seattle Mariners,AL,67,95,0,SEA
-2011,St. Louis Cardinals,NL,90,72,0,STL
-2011,Tampa Bay Rays,AL,91,71,0,TBR
-2011,Texas Rangers,AL,96,66,0,TEX
-2011,Toronto Blue Jays,AL,81,81,0,TOR
-2011,Washington Nationals,NL,80,81,0,WSN
-2012,Arizona Diamondbacks,NL,81,81,0,ARI
-2012,Atlanta Braves,NL,94,68,0,ATL
-2012,Baltimore Orioles,AL,93,69,0,BAL
-2012,Boston Red Sox,AL,69,93,0,BOS
-2012,Chicago Cubs,NL,61,101,0,CHC
-2012,Chicago White Sox,AL,85,77,0,CHW
-2012,Cincinnati Reds,NL,97,65,0,CIN
-2012,Cleveland Indians,AL,68,94,0,CLE
-2012,Colorado Rockies,NL,64,98,0,COL
-2012,Detroit Tigers,AL,88,74,0,DET
-2012,Houston Astros,NL,55,107,0,HOU
-2012,Kansas City Royals,AL,72,90,0,KCR
-2012,Los Angeles Angels of Anaheim,AL,89,73,0,LAA
-2012,Los Angeles Dodgers,NL,86,76,0,LAD
-2012,Miami Marlins,NL,69,93,0,MIA
-2012,Milwaukee Brewers,NL,83,79,0,MIL
-2012,Minnesota Twins,AL,66,96,0,MIN
-2012,New York Mets,NL,74,88,0,NYM
-2012,New York Yankees,AL,95,67,0,NYY
-2012,Oakland Athletics,AL,94,68,0,OAK
-2012,Philadelphia Phillies,NL,81,81,0,PHI
-2012,Pittsburgh Pirates,NL,79,83,0,PIT
-2012,San Diego Padres,NL,76,86,0,SDP
-2012,San Francisco Giants,NL,94,68,0,SFG
-2012,Seattle Mariners,AL,75,87,0,SEA
-2012,St. Louis Cardinals,NL,88,74,0,STL
-2012,Tampa Bay Rays,AL,90,72,0,TBR
-2012,Texas Rangers,AL,93,69,0,TEX
-2012,Toronto Blue Jays,AL,73,89,0,TOR
-2012,Washington Nationals,NL,98,64,0,WSN
-2013,Arizona Diamondbacks,NL,81,81,0,ARI
-2013,Atlanta Braves,NL,96,66,0,ATL
-2013,Baltimore Orioles,AL,85,77,0,BAL
-2013,Boston Red Sox,AL,97,65,0,BOS
-2013,Chicago Cubs,NL,66,96,0,CHC
-2013,Chicago White Sox,AL,63,99,0,CHW
-2013,Cincinnati Reds,NL,90,72,0,CIN
-2013,Cleveland Indians,AL,92,70,0,CLE
-2013,Colorado Rockies,NL,74,88,0,COL
-2013,Detroit Tigers,AL,93,69,0,DET
-2013,Houston Astros,AL,51,111,0,HOU
-2013,Kansas City Royals,AL,86,76,0,KCR
-2013,Los Angeles Angels of Anaheim,AL,78,84,0,LAA
-2013,Los Angeles Dodgers,NL,92,70,0,LAD
-2013,Miami Marlins,NL,62,100,0,MIA
-2013,Milwaukee Brewers,NL,74,88,0,MIL
-2013,Minnesota Twins,AL,66,96,0,MIN
-2013,New York Mets,NL,74,88,0,NYM
-2013,New York Yankees,AL,85,77,0,NYY
-2013,Oakland Athletics,AL,96,66,0,OAK
-2013,Philadelphia Phillies,NL,73,89,0,PHI
-2013,Pittsburgh Pirates,NL,94,68,0,PIT
-2013,San Diego Padres,NL,76,86,0,SDP
-2013,San Francisco Giants,NL,76,86,0,SFG
-2013,Seattle Mariners,AL,71,91,0,SEA
-2013,St. Louis Cardinals,NL,97,65,0,STL
-2013,Tampa Bay Rays,AL,92,71,0,TBR
-2013,Texas Rangers,AL,91,72,0,TEX
-2013,Toronto Blue Jays,AL,74,88,0,TOR
-2013,Washington Nationals,NL,86,76,0,WSN
-2014,Arizona Diamondbacks,NL,64,98,0,ARI
-2014,Atlanta Braves,NL,79,83,0,ATL
-2014,Baltimore Orioles,AL,96,66,0,BAL
-2014,Boston Red Sox,AL,71,91,0,BOS
-2014,Chicago Cubs,NL,73,89,0,CHC
-2014,Chicago White Sox,AL,73,89,0,CHW
-2014,Cincinnati Reds,NL,76,86,0,CIN
-2014,Cleveland Indians,AL,85,77,0,CLE
-2014,Colorado Rockies,NL,66,96,0,COL
-2014,Detroit Tigers,AL,90,72,0,DET
-2014,Houston Astros,AL,70,92,0,HOU
-2014,Kansas City Royals,AL,89,73,0,KCR
-2014,Los Angeles Angels of Anaheim,AL,98,64,0,LAA
-2014,Los Angeles Dodgers,NL,94,68,0,LAD
-2014,Miami Marlins,NL,77,85,0,MIA
-2014,Milwaukee Brewers,NL,82,80,0,MIL
-2014,Minnesota Twins,AL,70,92,0,MIN
-2014,New York Mets,NL,79,83,0,NYM
-2014,New York Yankees,AL,84,78,0,NYY
-2014,Oakland Athletics,AL,88,74,0,OAK
-2014,Philadelphia Phillies,NL,73,89,0,PHI
-2014,Pittsburgh Pirates,NL,88,74,0,PIT
-2014,San Diego Padres,NL,77,85,0,SDP
-2014,San Francisco Giants,NL,88,74,0,SFG
-2014,Seattle Mariners,AL,87,75,0,SEA
-2014,St. Louis Cardinals,NL,90,72,0,STL
-2014,Tampa Bay Rays,AL,77,85,0,TBR
-2014,Texas Rangers,AL,67,95,0,TEX
-2014,Toronto Blue Jays,AL,83,79,0,TOR
-2014,Washington Nationals,NL,96,66,0,WSN
-2015,Arizona Diamondbacks,NL,79,83,0,ARI
-2015,Atlanta Braves,NL,67,95,0,ATL
-2015,Baltimore Orioles,AL,81,81,0,BAL
-2015,Boston Red Sox,AL,78,84,0,BOS
-2015,Chicago Cubs,NL,97,65,0,CHC
-2015,Chicago White Sox,AL,76,86,0,CHW
-2015,Cincinnati Reds,NL,64,98,0,CIN
-2015,Cleveland Indians,AL,81,80,0,CLE
-2015,Colorado Rockies,NL,68,94,0,COL
-2015,Detroit Tigers,AL,74,87,0,DET
-2015,Houston Astros,AL,86,76,0,HOU
-2015,Kansas City Royals,AL,95,67,0,KCR
-2015,Los Angeles Angels of Anaheim,AL,85,77,0,LAA
-2015,Los Angeles Dodgers,NL,92,70,0,LAD
-2015,Miami Marlins,NL,71,91,0,MIA
-2015,Milwaukee Brewers,NL,68,94,0,MIL
-2015,Minnesota Twins,AL,83,79,0,MIN
-2015,New York Mets,NL,90,72,0,NYM
-2015,New York Yankees,AL,87,75,0,NYY
-2015,Oakland Athletics,AL,68,94,0,OAK
-2015,Philadelphia Phillies,NL,63,99,0,PHI
-2015,Pittsburgh Pirates,NL,98,64,0,PIT
-2015,San Diego Padres,NL,74,88,0,SDP
-2015,San Francisco Giants,NL,84,78,0,SFG
-2015,Seattle Mariners,AL,76,86,0,SEA
-2015,St. Louis Cardinals,NL,100,62,0,STL
-2015,Tampa Bay Rays,AL,80,82,0,TBR
-2015,Texas Rangers,AL,88,74,0,TEX
-2015,Toronto Blue Jays,AL,93,69,0,TOR
-2015,Washington Nationals,NL,83,79,0,WSN
-2016,Arizona Diamondbacks,NL,69,93,0,ARI
-2016,Atlanta Braves,NL,68,93,0,ATL
-2016,Baltimore Orioles,AL,89,73,0,BAL
-2016,Boston Red Sox,AL,93,69,0,BOS
-2016,Chicago Cubs,NL,103,58,1,CHC
-2016,Chicago White Sox,AL,78,84,0,CHW
-2016,Cincinnati Reds,NL,68,94,0,CIN
-2016,Cleveland Indians,AL,94,67,0,CLE
-2016,Colorado Rockies,NL,75,87,0,COL
-2016,Detroit Tigers,AL,86,75,0,DET
-2016,Houston Astros,AL,84,78,0,HOU
-2016,Kansas City Royals,AL,81,81,0,KCR
-2016,Los Angeles Angels of Anaheim,AL,74,88,0,LAA
-2016,Los Angeles Dodgers,NL,91,71,0,LAD
-2016,Miami Marlins,NL,79,82,0,MIA
-2016,Milwaukee Brewers,NL,73,89,0,MIL
-2016,Minnesota Twins,AL,59,103,0,MIN
-2016,New York Mets,NL,87,75,0,NYM
-2016,New York Yankees,AL,84,78,0,NYY
-2016,Oakland Athletics,AL,69,93,0,OAK
-2016,Philadelphia Phillies,NL,71,91,0,PHI
-2016,Pittsburgh Pirates,NL,78,83,1,PIT
-2016,San Diego Padres,NL,68,94,0,SDP
-2016,San Francisco Giants,NL,87,75,0,SFG
-2016,Seattle Mariners,AL,86,76,0,SEA
-2016,St. Louis Cardinals,NL,86,76,0,STL
-2016,Tampa Bay Rays,AL,68,94,0,TBR
-2016,Texas Rangers,AL,95,67,0,TEX
-2016,Toronto Blue Jays,AL,89,73,0,TOR
-2016,Washington Nationals,NL,95,67,0,WSN
-2019,HOU,AL,107,55,0,HOU
-2019,LAD,NL,106,56,0,LAD
-2019,NYY,AL,103,59,0,NYY
-2019,MIN,AL,101,61,0,MIN
-2019,ATL,NL,97,65,0,ATL
-2019,OAK,AL,97,65,0,OAK
-2019,TBR,AL,96,66,0,TBR
-2019,CLE,AL,93,69,0,CLE
-2019,WSN,NL,93,69,0,WSN
-2019,STL,NL,91,71,0,STL
-2019,MIL,NL,89,73,0,MIL
-2019,NYM,NL,86,76,0,NYM
-2019,ARI,NL,85,77,0,ARI
-2019,BOS,AL,84,78,0,BOS
-2019,CHC,NL,84,78,0,CHC
-2019,PHI,NL,81,81,0,PHI
-2019,TEX,AL,78,84,0,TEX
-2019,SFG,NL,77,85,0,SFG
-2019,CIN,NL,75,87,0,CIN
-2019,CHW,AL,72,89,0,CHW
-2019,LAA,AL,72,90,0,LAA
-2019,COL,NL,71,91,0,COL
-2019,SDP,NL,70,92,0,SDP
-2019,PIT,NL,69,93,0,PIT
-2019,SEA,AL,68,94,0,SEA
-2019,TOR,AL,67,95,0,TOR
-2019,KCR,AL,59,103,0,KCR
-2019,MIA,NL,57,105,0,MIA
-2019,BAL,AL,54,108,0,BAL
-2019,DET,AL,47,114,0,DET
-2018,BOS,AL,108,54,0,BOS
-2018,HOU,AL,103,59,0,HOU
-2018,NYY,AL,100,62,0,NYY
-2018,OAK,AL,97,65,0,OAK
-2018,MIL,NL,96,67,0,MIL
-2018,CHC,NL,95,68,0,CHC
-2018,LAD,NL,92,71,0,LAD
-2018,CLE,AL,91,71,0,CLE
-2018,COL,NL,91,72,0,COL
-2018,ATL,NL,90,72,0,ATL
-2018,TBR,AL,90,72,0,TBR
-2018,SEA,AL,89,73,0,SEA
-2018,STL,NL,88,74,0,STL
-2018,PIT,NL,82,79,0,PIT
-2018,WSN,NL,82,80,0,WSN
-2018,ARI,NL,82,80,0,ARI
-2018,PHI,NL,80,82,0,PHI
-2018,LAA,AL,80,82,0,LAA
-2018,MIN,AL,78,84,0,MIN
-2018,NYM,NL,77,85,0,NYM
-2018,SFG,NL,73,89,0,SFG
-2018,TOR,AL,73,89,0,TOR
-2018,CIN,NL,67,95,0,CIN
-2018,TEX,AL,67,95,0,TEX
-2018,SDP,NL,66,96,0,SDP
-2018,DET,AL,64,98,0,DET
-2018,MIA,NL,63,98,0,MIA
-2018,CHW,AL,62,100,0,CHW
-2018,KCR,AL,58,104,0,KCR
-2018,BAL,AL,47,115,0,BAL
-2017,LAD,NL,104,58,0,LAD
-2017,CLE,AL,102,60,0,CLE
-2017,HOU,AL,101,61,0,HOU
-2017,WSN,NL,97,65,0,WSN
-2017,BOS,AL,93,69,0,BOS
-2017,ARI,NL,93,69,0,ARI
-2017,CHC,NL,92,70,0,CHC
-2017,NYY,AL,91,71,0,NYY
-2017,COL,NL,87,75,0,COL
-2017,MIL,NL,86,76,0,MIL
-2017,MIN,AL,85,77,0,MIN
-2017,STL,NL,83,79,0,STL
-2017,LAA,AL,80,82,0,LAA
-2017,TBR,AL,80,82,0,TBR
-2017,KCR,AL,80,82,0,KCR
-2017,SEA,AL,78,84,0,SEA
-2017,TEX,AL,78,84,0,TEX
-2017,MIA,NL,77,85,0,MIA
-2017,TOR,AL,76,86,0,TOR
-2017,PIT,NL,75,87,0,PIT
-2017,BAL,AL,75,87,0,BAL
-2017,OAK,AL,75,87,0,OAK
-2017,ATL,NL,72,90,0,ATL
-2017,SDP,NL,71,91,0,SDP
-2017,NYM,NL,70,92,0,NYM
-2017,CIN,NL,68,94,0,CIN
-2017,CHW,AL,67,95,0,CHW
-2017,PHI,NL,66,96,0,PHI
-2017,SFG,NL,64,98,0,SFG
-2017,DET,AL,64,98,0,DET
+year,team_full,league,team_wins,team_losses,team_ties,team,playoffs
+1949,Brooklyn Dodgers,NL,97,57,2,BRO,Yes
+1949,New York Yankees,AL,97,57,1,NYY,Yes
+1949,Boston Red Sox,AL,96,58,1,BOS,No
+1949,St. Louis Cardinals,NL,96,58,3,STL,No
+1949,Cleveland Indians,AL,89,65,0,CLE,No
+1949,Detroit Tigers,AL,87,67,1,DET,No
+1949,Philadelphia Athletics,AL,81,73,0,PHA,No
+1949,Philadelphia Phillies,NL,81,73,0,PHI,No
+1949,Boston Braves,NL,75,79,3,BSN,No
+1949,New York Giants,NL,73,81,2,NYG,No
+1949,Pittsburgh Pirates,NL,71,83,0,PIT,No
+1949,Chicago White Sox,AL,63,91,0,CHW,No
+1949,Cincinnati Reds,NL,62,92,2,CIN,No
+1949,Chicago Cubs,NL,61,93,0,CHC,No
+1949,St. Louis Browns,AL,53,101,1,SLB,No
+1949,Washington Senators,AL,50,104,0,WSH,No
+1950,New York Yankees,AL,98,56,1,NYY,Yes
+1950,Detroit Tigers,AL,95,59,3,DET,No
+1950,Boston Red Sox,AL,94,60,0,BOS,No
+1950,Cleveland Indians,AL,92,62,1,CLE,No
+1950,Philadelphia Phillies,NL,91,63,3,PHI,Yes
+1950,Brooklyn Dodgers,NL,89,65,1,BRO,No
+1950,New York Giants,NL,86,68,0,NYG,No
+1950,Boston Braves,NL,83,71,2,BSN,No
+1950,St. Louis Cardinals,NL,78,75,0,STL,No
+1950,Washington Senators,AL,67,87,1,WSH,No
+1950,Cincinnati Reds,NL,66,87,0,CIN,No
+1950,Chicago Cubs,NL,64,89,1,CHC,No
+1950,Chicago White Sox,AL,60,94,2,CHW,No
+1950,St. Louis Browns,AL,58,96,0,SLB,No
+1950,Pittsburgh Pirates,NL,57,96,1,PIT,No
+1950,Philadelphia Athletics,AL,52,102,0,PHA,No
+1951,New York Giants,NL,98,59,0,NYG,Yes
+1951,New York Yankees,AL,98,56,0,NYY,Yes
+1951,Brooklyn Dodgers,NL,97,60,1,BRO,No
+1951,Cleveland Indians,AL,93,61,1,CLE,No
+1951,Boston Red Sox,AL,87,67,0,BOS,No
+1951,Chicago White Sox,AL,81,73,1,CHW,No
+1951,St. Louis Cardinals,NL,81,73,1,STL,No
+1951,Boston Braves,NL,76,78,1,BSN,No
+1951,Detroit Tigers,AL,73,81,0,DET,No
+1951,Philadelphia Phillies,NL,73,81,0,PHI,No
+1951,Philadelphia Athletics,AL,70,84,0,PHA,No
+1951,Cincinnati Reds,NL,68,86,1,CIN,No
+1951,Pittsburgh Pirates,NL,64,90,1,PIT,No
+1951,Chicago Cubs,NL,62,92,1,CHC,No
+1951,Washington Senators,AL,62,92,0,WSH,No
+1951,St. Louis Browns,AL,52,102,0,SLB,No
+1952,Brooklyn Dodgers,NL,96,57,2,BRO,Yes
+1952,New York Yankees,AL,95,59,0,NYY,Yes
+1952,Cleveland Indians,AL,93,61,1,CLE,No
+1952,New York Giants,NL,92,62,0,NYG,No
+1952,St. Louis Cardinals,NL,88,66,0,STL,No
+1952,Philadelphia Phillies,NL,87,67,0,PHI,No
+1952,Chicago White Sox,AL,81,73,2,CHW,No
+1952,Philadelphia Athletics,AL,79,75,1,PHA,No
+1952,Washington Senators,AL,78,76,3,WSH,No
+1952,Chicago Cubs,NL,77,77,1,CHC,No
+1952,Boston Red Sox,AL,76,78,0,BOS,No
+1952,Cincinnati Reds,NL,69,85,0,CIN,No
+1952,Boston Braves,NL,64,89,2,BSN,No
+1952,St. Louis Browns,AL,64,90,1,SLB,No
+1952,Detroit Tigers,AL,50,104,2,DET,No
+1952,Pittsburgh Pirates,NL,42,112,1,PIT,No
+1953,Brooklyn Dodgers,NL,105,49,1,BRO,Yes
+1953,New York Yankees,AL,99,52,0,NYY,Yes
+1953,Milwaukee Braves,NL,92,62,3,MLN,No
+1953,Cleveland Indians,AL,92,62,1,CLE,No
+1953,Chicago White Sox,AL,89,65,2,CHW,No
+1953,Boston Red Sox,AL,84,69,0,BOS,No
+1953,Philadelphia Phillies,NL,83,71,2,PHI,No
+1953,St. Louis Cardinals,NL,83,71,3,STL,No
+1953,Washington Senators,AL,76,76,0,WSH,No
+1953,New York Giants,NL,70,84,1,NYG,No
+1953,Cincinnati Reds,NL,68,86,1,CIN,No
+1953,Chicago Cubs,NL,65,89,1,CHC,No
+1953,Detroit Tigers,AL,60,94,4,DET,No
+1953,Philadelphia Athletics,AL,59,95,3,PHA,No
+1953,St. Louis Browns,AL,54,100,0,SLB,No
+1953,Pittsburgh Pirates,NL,50,104,0,PIT,No
+1954,Cleveland Indians,AL,111,43,2,CLE,Yes
+1954,New York Yankees,AL,103,51,1,NYY,No
+1954,New York Giants,NL,97,57,0,NYG,Yes
+1954,Chicago White Sox,AL,94,60,1,CHW,No
+1954,Brooklyn Dodgers,NL,92,62,0,BRO,No
+1954,Milwaukee Braves,NL,89,65,0,MLN,No
+1954,Philadelphia Phillies,NL,75,79,0,PHI,No
+1954,Cincinnati Redlegs,NL,74,80,0,CIN,No
+1954,St. Louis Cardinals,NL,72,82,0,STL,No
+1954,Boston Red Sox,AL,69,85,2,BOS,No
+1954,Detroit Tigers,AL,68,86,1,DET,No
+1954,Washington Senators,AL,66,88,1,WSH,No
+1954,Chicago Cubs,NL,64,90,0,CHC,No
+1954,Baltimore Orioles,AL,54,100,0,BAL,No
+1954,Pittsburgh Pirates,NL,53,101,0,PIT,No
+1954,Philadelphia Athletics,AL,51,103,2,PHA,No
+1955,Brooklyn Dodgers,NL,98,55,1,BRO,Yes
+1955,New York Yankees,AL,96,58,0,NYY,Yes
+1955,Cleveland Indians,AL,93,61,0,CLE,No
+1955,Chicago White Sox,AL,91,63,1,CHW,No
+1955,Milwaukee Braves,NL,85,69,0,MLN,No
+1955,Boston Red Sox,AL,84,70,0,BOS,No
+1955,New York Giants,NL,80,74,0,NYG,No
+1955,Detroit Tigers,AL,79,75,0,DET,No
+1955,Philadelphia Phillies,NL,77,77,0,PHI,No
+1955,Cincinnati Redlegs,NL,75,79,0,CIN,No
+1955,Chicago Cubs,NL,72,81,1,CHC,No
+1955,St. Louis Cardinals,NL,68,86,0,STL,No
+1955,Kansas City Athletics,AL,63,91,1,KCA,No
+1955,Pittsburgh Pirates,NL,60,94,0,PIT,No
+1955,Baltimore Orioles,AL,57,97,2,BAL,No
+1955,Washington Senators,AL,53,101,0,WSH,No
+1956,New York Yankees,AL,97,57,0,NYY,Yes
+1956,Brooklyn Dodgers,NL,93,61,0,BRO,Yes
+1956,Milwaukee Braves,NL,92,62,1,MLN,No
+1956,Cincinnati Redlegs,NL,91,63,1,CIN,No
+1956,Cleveland Indians,AL,88,66,1,CLE,No
+1956,Chicago White Sox,AL,85,69,0,CHW,No
+1956,Boston Red Sox,AL,84,70,1,BOS,No
+1956,Detroit Tigers,AL,82,72,1,DET,No
+1956,St. Louis Cardinals,NL,76,78,2,STL,No
+1956,Philadelphia Phillies,NL,71,83,0,PHI,No
+1956,Baltimore Orioles,AL,69,85,0,BAL,No
+1956,New York Giants,NL,67,87,0,NYG,No
+1956,Pittsburgh Pirates,NL,66,88,3,PIT,No
+1956,Chicago Cubs,NL,60,94,3,CHC,No
+1956,Washington Senators,AL,59,95,1,WSH,No
+1956,Kansas City Athletics,AL,52,102,0,KCA,No
+1957,New York Yankees,AL,98,56,0,NYY,Yes
+1957,Milwaukee Braves,NL,95,59,1,MLN,Yes
+1957,Chicago White Sox,AL,90,64,1,CHW,No
+1957,St. Louis Cardinals,NL,87,67,0,STL,No
+1957,Brooklyn Dodgers,NL,84,70,0,BRO,No
+1957,Boston Red Sox,AL,82,72,0,BOS,No
+1957,Cincinnati Redlegs,NL,80,74,0,CIN,No
+1957,Detroit Tigers,AL,78,76,0,DET,No
+1957,Philadelphia Phillies,NL,77,77,2,PHI,No
+1957,Baltimore Orioles,AL,76,76,2,BAL,No
+1957,Cleveland Indians,AL,76,77,0,CLE,No
+1957,New York Giants,NL,69,85,0,NYG,No
+1957,Chicago Cubs,NL,62,92,2,CHC,No
+1957,Pittsburgh Pirates,NL,62,92,1,PIT,No
+1957,Kansas City Athletics,AL,59,94,1,KCA,No
+1957,Washington Senators,AL,55,99,0,WSH,No
+1958,Milwaukee Braves,NL,92,62,0,MLN,Yes
+1958,New York Yankees,AL,92,62,1,NYY,Yes
+1958,Pittsburgh Pirates,NL,84,70,0,PIT,No
+1958,Chicago White Sox,AL,82,72,1,CHW,No
+1958,San Francisco Giants,NL,80,74,0,SFG,No
+1958,Boston Red Sox,AL,79,75,1,BOS,No
+1958,Cleveland Indians,AL,77,76,0,CLE,No
+1958,Detroit Tigers,AL,77,77,0,DET,No
+1958,Cincinnati Redlegs,NL,76,78,0,CIN,No
+1958,Baltimore Orioles,AL,74,79,1,BAL,No
+1958,Kansas City Athletics,AL,73,81,2,KCA,No
+1958,Chicago Cubs,NL,72,82,0,CHC,No
+1958,St. Louis Cardinals,NL,72,82,0,STL,No
+1958,Los Angeles Dodgers,NL,71,83,0,LAD,No
+1958,Philadelphia Phillies,NL,69,85,0,PHI,No
+1958,Washington Senators,AL,61,93,2,WSH,No
+1959,Chicago White Sox,AL,94,60,2,CHW,Yes
+1959,Cleveland Indians,AL,89,65,0,CLE,No
+1959,Los Angeles Dodgers,NL,88,68,0,LAD,Yes
+1959,Milwaukee Braves,NL,86,70,1,MLN,No
+1959,San Francisco Giants,NL,83,71,0,SFG,No
+1959,New York Yankees,AL,79,75,1,NYY,No
+1959,Pittsburgh Pirates,NL,78,76,1,PIT,No
+1959,Detroit Tigers,AL,76,78,0,DET,No
+1959,Boston Red Sox,AL,75,79,0,BOS,No
+1959,Baltimore Orioles,AL,74,80,1,BAL,No
+1959,Chicago Cubs,NL,74,80,1,CHC,No
+1959,Cincinnati Redlegs,NL,74,80,0,CIN,No
+1959,St. Louis Cardinals,NL,71,83,0,STL,No
+1959,Kansas City Athletics,AL,66,88,0,KCA,No
+1959,Philadelphia Phillies,NL,64,90,1,PHI,No
+1959,Washington Senators,AL,63,91,0,WSH,No
+1960,New York Yankees,AL,97,57,1,NYY,Yes
+1960,Pittsburgh Pirates,NL,95,59,1,PIT,Yes
+1960,Baltimore Orioles,AL,89,65,0,BAL,No
+1960,Milwaukee Braves,NL,88,66,0,MLN,No
+1960,Chicago White Sox,AL,87,67,0,CHW,No
+1960,St. Louis Cardinals,NL,86,68,1,STL,No
+1960,Los Angeles Dodgers,NL,82,72,0,LAD,No
+1960,San Francisco Giants,NL,79,75,2,SFG,No
+1960,Cleveland Indians,AL,76,78,0,CLE,No
+1960,Washington Senators,AL,73,81,0,WSH,No
+1960,Detroit Tigers,AL,71,83,0,DET,No
+1960,Cincinnati Reds,NL,67,87,0,CIN,No
+1960,Boston Red Sox,AL,65,89,0,BOS,No
+1960,Chicago Cubs,NL,60,94,2,CHC,No
+1960,Philadelphia Phillies,NL,59,95,0,PHI,No
+1960,Kansas City Athletics,AL,58,96,1,KCA,No
+1961,New York Yankees,AL,109,53,1,NYY,Yes
+1961,Detroit Tigers,AL,101,61,1,DET,No
+1961,Baltimore Orioles,AL,95,67,1,BAL,No
+1961,Cincinnati Reds,NL,93,61,0,CIN,Yes
+1961,Los Angeles Dodgers,NL,89,65,0,LAD,No
+1961,Chicago White Sox,AL,86,76,1,CHW,No
+1961,San Francisco Giants,NL,85,69,1,SFG,No
+1961,Milwaukee Braves,NL,83,71,1,MLN,No
+1961,St. Louis Cardinals,NL,80,74,1,STL,No
+1961,Cleveland Indians,AL,78,83,0,CLE,No
+1961,Boston Red Sox,AL,76,86,1,BOS,No
+1961,Pittsburgh Pirates,NL,75,79,0,PIT,No
+1961,Los Angeles Angels,AL,70,91,1,LAA,No
+1961,Minnesota Twins,AL,70,90,1,MIN,No
+1961,Chicago Cubs,NL,64,90,2,CHC,No
+1961,Kansas City Athletics,AL,61,100,1,KCA,No
+1961,Washington Senators,AL,61,100,0,WSA,No
+1961,Philadelphia Phillies,NL,47,107,1,PHI,No
+1962,San Francisco Giants,NL,103,62,0,SFG,Yes
+1962,Los Angeles Dodgers,NL,102,63,0,LAD,No
+1962,Cincinnati Reds,NL,98,64,0,CIN,No
+1962,New York Yankees,AL,96,66,0,NYY,Yes
+1962,Pittsburgh Pirates,NL,93,68,0,PIT,No
+1962,Minnesota Twins,AL,91,71,1,MIN,No
+1962,Milwaukee Braves,NL,86,76,0,MLN,No
+1962,Los Angeles Angels,AL,86,76,0,LAA,No
+1962,Chicago White Sox,AL,85,77,0,CHW,No
+1962,Detroit Tigers,AL,85,76,0,DET,No
+1962,St. Louis Cardinals,NL,84,78,1,STL,No
+1962,Philadelphia Phillies,NL,81,80,0,PHI,No
+1962,Cleveland Indians,AL,80,82,0,CLE,No
+1962,Baltimore Orioles,AL,77,85,0,BAL,No
+1962,Boston Red Sox,AL,76,84,0,BOS,No
+1962,Kansas City Athletics,AL,72,90,0,KCA,No
+1962,Houston Colt .45's,NL,64,96,2,HOU,No
+1962,Washington Senators,AL,60,101,1,WSA,No
+1962,Chicago Cubs,NL,59,103,0,CHC,No
+1962,New York Mets,NL,40,120,1,NYM,No
+1963,New York Yankees,AL,104,57,0,NYY,Yes
+1963,Los Angeles Dodgers,NL,99,63,1,LAD,Yes
+1963,Chicago White Sox,AL,94,68,0,CHW,No
+1963,St. Louis Cardinals,NL,93,69,0,STL,No
+1963,Minnesota Twins,AL,91,70,0,MIN,No
+1963,San Francisco Giants,NL,88,74,0,SFG,No
+1963,Philadelphia Phillies,NL,87,75,0,PHI,No
+1963,Baltimore Orioles,AL,86,76,0,BAL,No
+1963,Cincinnati Reds,NL,86,76,0,CIN,No
+1963,Milwaukee Braves,NL,84,78,1,MLN,No
+1963,Chicago Cubs,NL,82,80,0,CHC,No
+1963,Cleveland Indians,AL,79,83,0,CLE,No
+1963,Detroit Tigers,AL,79,83,0,DET,No
+1963,Boston Red Sox,AL,76,85,0,BOS,No
+1963,Pittsburgh Pirates,NL,74,88,0,PIT,No
+1963,Kansas City Athletics,AL,73,89,0,KCA,No
+1963,Los Angeles Angels,AL,70,91,0,LAA,No
+1963,Houston Colt .45's,NL,66,96,0,HOU,No
+1963,Washington Senators,AL,56,106,0,WSA,No
+1963,New York Mets,NL,51,111,0,NYM,No
+1964,New York Yankees,AL,99,63,2,NYY,Yes
+1964,Chicago White Sox,AL,98,64,0,CHW,No
+1964,Baltimore Orioles,AL,97,65,1,BAL,No
+1964,St. Louis Cardinals,NL,93,69,0,STL,Yes
+1964,Cincinnati Reds,NL,92,70,1,CIN,No
+1964,Philadelphia Phillies,NL,92,70,0,PHI,No
+1964,San Francisco Giants,NL,90,72,0,SFG,No
+1964,Milwaukee Braves,NL,88,74,0,MLN,No
+1964,Detroit Tigers,AL,85,77,1,DET,No
+1964,Los Angeles Angels,AL,82,80,0,LAA,No
+1964,Los Angeles Dodgers,NL,80,82,2,LAD,No
+1964,Pittsburgh Pirates,NL,80,82,0,PIT,No
+1964,Cleveland Indians,AL,79,83,2,CLE,No
+1964,Minnesota Twins,AL,79,83,1,MIN,No
+1964,Chicago Cubs,NL,76,86,0,CHC,No
+1964,Boston Red Sox,AL,72,90,0,BOS,No
+1964,Houston Colt .45's,NL,66,96,0,HOU,No
+1964,Washington Senators,AL,62,100,0,WSA,No
+1964,Kansas City Athletics,AL,57,105,1,KCA,No
+1964,New York Mets,NL,53,109,1,NYM,No
+1965,Minnesota Twins,AL,102,60,0,MIN,Yes
+1965,Los Angeles Dodgers,NL,97,65,0,LAD,Yes
+1965,Chicago White Sox,AL,95,67,0,CHW,No
+1965,San Francisco Giants,NL,95,67,1,SFG,No
+1965,Baltimore Orioles,AL,94,68,0,BAL,No
+1965,Pittsburgh Pirates,NL,90,72,1,PIT,No
+1965,Cincinnati Reds,NL,89,73,0,CIN,No
+1965,Detroit Tigers,AL,89,73,0,DET,No
+1965,Cleveland Indians,AL,87,75,0,CLE,No
+1965,Milwaukee Braves,NL,86,76,0,MLN,No
+1965,Philadelphia Phillies,NL,85,76,1,PHI,No
+1965,St. Louis Cardinals,NL,80,81,1,STL,No
+1965,New York Yankees,AL,77,85,0,NYY,No
+1965,California Angels,AL,75,87,0,CAL,No
+1965,Chicago Cubs,NL,72,90,2,CHC,No
+1965,Washington Senators,AL,70,92,0,WSA,No
+1965,Houston Astros,NL,65,97,0,HOU,No
+1965,Boston Red Sox,AL,62,100,0,BOS,No
+1965,Kansas City Athletics,AL,59,103,0,KCA,No
+1965,New York Mets,NL,50,112,2,NYM,No
+1966,Baltimore Orioles,AL,97,63,0,BAL,Yes
+1966,Los Angeles Dodgers,NL,95,67,0,LAD,Yes
+1966,San Francisco Giants,NL,93,68,0,SFG,No
+1966,Pittsburgh Pirates,NL,92,70,0,PIT,No
+1966,Minnesota Twins,AL,89,73,0,MIN,No
+1966,Detroit Tigers,AL,88,74,0,DET,No
+1966,Philadelphia Phillies,NL,87,75,0,PHI,No
+1966,Atlanta Braves,NL,85,77,1,ATL,No
+1966,Chicago White Sox,AL,83,79,1,CHW,No
+1966,St. Louis Cardinals,NL,83,79,0,STL,No
+1966,Cleveland Indians,AL,81,81,0,CLE,No
+1966,California Angels,AL,80,82,0,CAL,No
+1966,Cincinnati Reds,NL,76,84,0,CIN,No
+1966,Kansas City Athletics,AL,74,86,0,KCA,No
+1966,Boston Red Sox,AL,72,90,0,BOS,No
+1966,Houston Astros,NL,72,90,1,HOU,No
+1966,Washington Senators,AL,71,88,0,WSA,No
+1966,New York Yankees,AL,70,89,1,NYY,No
+1966,New York Mets,NL,66,95,0,NYM,No
+1966,Chicago Cubs,NL,59,103,0,CHC,No
+1967,St. Louis Cardinals,NL,101,60,0,STL,Yes
+1967,Boston Red Sox,AL,92,70,0,BOS,Yes
+1967,Detroit Tigers,AL,91,71,1,DET,No
+1967,Minnesota Twins,AL,91,71,2,MIN,No
+1967,San Francisco Giants,NL,91,71,0,SFG,No
+1967,Chicago White Sox,AL,89,73,0,CHW,No
+1967,Chicago Cubs,NL,87,74,1,CHC,No
+1967,Cincinnati Reds,NL,87,75,0,CIN,No
+1967,California Angels,AL,84,77,0,CAL,No
+1967,Philadelphia Phillies,NL,82,80,0,PHI,No
+1967,Pittsburgh Pirates,NL,81,81,1,PIT,No
+1967,Atlanta Braves,NL,77,85,0,ATL,No
+1967,Baltimore Orioles,AL,76,85,0,BAL,No
+1967,Washington Senators,AL,76,85,0,WSA,No
+1967,Cleveland Indians,AL,75,87,0,CLE,No
+1967,Los Angeles Dodgers,NL,73,89,0,LAD,No
+1967,New York Yankees,AL,72,90,1,NYY,No
+1967,Houston Astros,NL,69,93,0,HOU,No
+1967,Kansas City Athletics,AL,62,99,0,KCA,No
+1967,New York Mets,NL,61,101,0,NYM,No
+1968,Detroit Tigers,AL,103,59,2,DET,Yes
+1968,St. Louis Cardinals,NL,97,65,0,STL,Yes
+1968,Baltimore Orioles,AL,91,71,0,BAL,No
+1968,San Francisco Giants,NL,88,74,1,SFG,No
+1968,Boston Red Sox,AL,86,76,0,BOS,No
+1968,Cleveland Indians,AL,86,75,1,CLE,No
+1968,Chicago Cubs,NL,84,78,1,CHC,No
+1968,Cincinnati Reds,NL,83,79,1,CIN,No
+1968,New York Yankees,AL,83,79,2,NYY,No
+1968,Oakland Athletics,AL,82,80,1,OAK,No
+1968,Atlanta Braves,NL,81,81,1,ATL,No
+1968,Pittsburgh Pirates,NL,80,82,1,PIT,No
+1968,Minnesota Twins,AL,79,83,0,MIN,No
+1968,Los Angeles Dodgers,NL,76,86,0,LAD,No
+1968,Philadelphia Phillies,NL,76,86,0,PHI,No
+1968,New York Mets,NL,73,89,1,NYM,No
+1968,Houston Astros,NL,72,90,0,HOU,No
+1968,Chicago White Sox,AL,67,95,0,CHW,No
+1968,California Angels,AL,67,95,0,CAL,No
+1968,Washington Senators,AL,65,96,0,WSA,No
+1969,Baltimore Orioles,AL,109,53,0,BAL,Yes
+1969,New York Mets,NL,100,62,0,NYM,Yes
+1969,Minnesota Twins,AL,97,65,0,MIN,Yes
+1969,Atlanta Braves,NL,93,69,0,ATL,Yes
+1969,Chicago Cubs,NL,92,70,1,CHC,No
+1969,Detroit Tigers,AL,90,72,0,DET,No
+1969,San Francisco Giants,NL,90,72,0,SFG,No
+1969,Cincinnati Reds,NL,89,73,1,CIN,No
+1969,Oakland Athletics,AL,88,74,0,OAK,No
+1969,Pittsburgh Pirates,NL,88,74,0,PIT,No
+1969,Boston Red Sox,AL,87,75,0,BOS,No
+1969,St. Louis Cardinals,NL,87,75,0,STL,No
+1969,Washington Senators,AL,86,76,0,WSA,No
+1969,Los Angeles Dodgers,NL,85,77,0,LAD,No
+1969,Houston Astros,NL,81,81,0,HOU,No
+1969,New York Yankees,AL,80,81,1,NYY,No
+1969,California Angels,AL,71,91,1,CAL,No
+1969,Kansas City Royals,AL,69,93,1,KCR,No
+1969,Chicago White Sox,AL,68,94,0,CHW,No
+1969,Seattle Pilots,AL,64,98,1,SEP,No
+1969,Philadelphia Phillies,NL,63,99,0,PHI,No
+1969,Cleveland Indians,AL,62,99,0,CLE,No
+1969,San Diego Padres,NL,52,110,0,SDP,No
+1969,Montreal Expos,NL,52,110,0,MON,No
+1970,Baltimore Orioles,AL,108,54,0,BAL,Yes
+1970,Cincinnati Reds,NL,102,60,0,CIN,Yes
+1970,Minnesota Twins,AL,98,64,0,MIN,Yes
+1970,New York Yankees,AL,93,69,1,NYY,No
+1970,Oakland Athletics,AL,89,73,0,OAK,No
+1970,Pittsburgh Pirates,NL,89,73,0,PIT,Yes
+1970,Boston Red Sox,AL,87,75,0,BOS,No
+1970,Los Angeles Dodgers,NL,87,74,0,LAD,No
+1970,California Angels,AL,86,76,0,CAL,No
+1970,San Francisco Giants,NL,86,76,0,SFG,No
+1970,Chicago Cubs,NL,84,78,0,CHC,No
+1970,New York Mets,NL,83,79,0,NYM,No
+1970,Detroit Tigers,AL,79,83,0,DET,No
+1970,Houston Astros,NL,79,83,0,HOU,No
+1970,Atlanta Braves,NL,76,86,0,ATL,No
+1970,Cleveland Indians,AL,76,86,0,CLE,No
+1970,St. Louis Cardinals,NL,76,86,0,STL,No
+1970,Philadelphia Phillies,NL,73,88,0,PHI,No
+1970,Montreal Expos,NL,73,89,0,MON,No
+1970,Washington Senators,AL,70,92,0,WSA,No
+1970,Kansas City Royals,AL,65,97,0,KCR,No
+1970,Milwaukee Brewers,AL,65,97,1,MIL,No
+1970,San Diego Padres,NL,63,99,0,SDP,No
+1970,Chicago White Sox,AL,56,106,0,CHW,No
+1971,Oakland Athletics,AL,101,60,0,OAK,Yes
+1971,Baltimore Orioles,AL,101,57,0,BAL,Yes
+1971,Pittsburgh Pirates,NL,97,65,0,PIT,Yes
+1971,Detroit Tigers,AL,91,71,0,DET,No
+1971,St. Louis Cardinals,NL,90,72,1,STL,No
+1971,San Francisco Giants,NL,90,72,0,SFG,Yes
+1971,Los Angeles Dodgers,NL,89,73,0,LAD,No
+1971,Boston Red Sox,AL,85,77,0,BOS,No
+1971,Kansas City Royals,AL,85,76,0,KCR,No
+1971,Chicago Cubs,NL,83,79,0,CHC,No
+1971,New York Mets,NL,83,79,0,NYM,No
+1971,Atlanta Braves,NL,82,80,0,ATL,No
+1971,New York Yankees,AL,82,80,0,NYY,No
+1971,Chicago White Sox,AL,79,83,0,CHW,No
+1971,Cincinnati Reds,NL,79,83,0,CIN,No
+1971,Houston Astros,NL,79,83,0,HOU,No
+1971,California Angels,AL,76,86,0,CAL,No
+1971,Minnesota Twins,AL,74,86,0,MIN,No
+1971,Montreal Expos,NL,71,90,1,MON,No
+1971,Milwaukee Brewers,AL,69,92,0,MIL,No
+1971,Philadelphia Phillies,NL,67,95,0,PHI,No
+1971,Washington Senators,AL,63,96,0,WSA,No
+1971,San Diego Padres,NL,61,100,0,SDP,No
+1971,Cleveland Indians,AL,60,102,0,CLE,No
+1972,Pittsburgh Pirates,NL,96,59,0,PIT,Yes
+1972,Cincinnati Reds,NL,95,59,0,CIN,Yes
+1972,Oakland Athletics,AL,93,62,0,OAK,Yes
+1972,Chicago White Sox,AL,87,67,0,CHW,No
+1972,Detroit Tigers,AL,86,70,0,DET,Yes
+1972,Boston Red Sox,AL,85,70,0,BOS,No
+1972,Chicago Cubs,NL,85,70,1,CHC,No
+1972,Los Angeles Dodgers,NL,85,70,0,LAD,No
+1972,Houston Astros,NL,84,69,0,HOU,No
+1972,New York Mets,NL,83,73,0,NYM,No
+1972,Baltimore Orioles,AL,80,74,0,BAL,No
+1972,New York Yankees,AL,79,76,0,NYY,No
+1972,Minnesota Twins,AL,77,77,0,MIN,No
+1972,Kansas City Royals,AL,76,78,0,KCR,No
+1972,California Angels,AL,75,80,0,CAL,No
+1972,St. Louis Cardinals,NL,75,81,0,STL,No
+1972,Cleveland Indians,AL,72,84,0,CLE,No
+1972,Atlanta Braves,NL,70,84,1,ATL,No
+1972,Montreal Expos,NL,70,86,0,MON,No
+1972,San Francisco Giants,NL,69,86,0,SFG,No
+1972,Milwaukee Brewers,AL,65,91,0,MIL,No
+1972,Philadelphia Phillies,NL,59,97,0,PHI,No
+1972,San Diego Padres,NL,58,95,0,SDP,No
+1972,Texas Rangers,AL,54,100,0,TEX,No
+1973,Cincinnati Reds,NL,99,63,0,CIN,Yes
+1973,Baltimore Orioles,AL,97,65,0,BAL,Yes
+1973,Los Angeles Dodgers,NL,95,66,1,LAD,No
+1973,Oakland Athletics,AL,94,68,0,OAK,Yes
+1973,Boston Red Sox,AL,89,73,0,BOS,No
+1973,Kansas City Royals,AL,88,74,0,KCR,No
+1973,San Francisco Giants,NL,88,74,0,SFG,No
+1973,Detroit Tigers,AL,85,77,0,DET,No
+1973,Houston Astros,NL,82,80,0,HOU,No
+1973,New York Mets,NL,82,79,0,NYM,Yes
+1973,Minnesota Twins,AL,81,81,0,MIN,No
+1973,St. Louis Cardinals,NL,81,81,0,STL,No
+1973,New York Yankees,AL,80,82,0,NYY,No
+1973,Pittsburgh Pirates,NL,80,82,0,PIT,No
+1973,California Angels,AL,79,83,0,CAL,No
+1973,Montreal Expos,NL,79,83,0,MON,No
+1973,Chicago Cubs,NL,77,84,0,CHC,No
+1973,Chicago White Sox,AL,77,85,0,CHW,No
+1973,Atlanta Braves,NL,76,85,1,ATL,No
+1973,Milwaukee Brewers,AL,74,88,0,MIL,No
+1973,Cleveland Indians,AL,71,91,0,CLE,No
+1973,Philadelphia Phillies,NL,71,91,0,PHI,No
+1973,San Diego Padres,NL,60,102,0,SDP,No
+1973,Texas Rangers,AL,57,105,0,TEX,No
+1974,Los Angeles Dodgers,NL,102,60,0,LAD,Yes
+1974,Cincinnati Reds,NL,98,64,1,CIN,No
+1974,Baltimore Orioles,AL,91,71,0,BAL,Yes
+1974,Oakland Athletics,AL,90,72,0,OAK,Yes
+1974,New York Yankees,AL,89,73,0,NYY,No
+1974,Atlanta Braves,NL,88,74,1,ATL,No
+1974,Pittsburgh Pirates,NL,88,74,0,PIT,Yes
+1974,St. Louis Cardinals,NL,86,75,0,STL,No
+1974,Boston Red Sox,AL,84,78,0,BOS,No
+1974,Texas Rangers,AL,84,76,1,TEX,No
+1974,Minnesota Twins,AL,82,80,1,MIN,No
+1974,Houston Astros,NL,81,81,0,HOU,No
+1974,Chicago White Sox,AL,80,80,3,CHW,No
+1974,Philadelphia Phillies,NL,80,82,0,PHI,No
+1974,Montreal Expos,NL,79,82,0,MON,No
+1974,Cleveland Indians,AL,77,85,0,CLE,No
+1974,Kansas City Royals,AL,77,85,0,KCR,No
+1974,Milwaukee Brewers,AL,76,86,0,MIL,No
+1974,Detroit Tigers,AL,72,90,0,DET,No
+1974,San Francisco Giants,NL,72,90,0,SFG,No
+1974,New York Mets,NL,71,91,0,NYM,No
+1974,California Angels,AL,68,94,1,CAL,No
+1974,Chicago Cubs,NL,66,96,0,CHC,No
+1974,San Diego Padres,NL,60,102,0,SDP,No
+1975,Cincinnati Reds,NL,108,54,0,CIN,Yes
+1975,Oakland Athletics,AL,98,64,0,OAK,Yes
+1975,Boston Red Sox,AL,95,65,0,BOS,Yes
+1975,Pittsburgh Pirates,NL,92,69,0,PIT,Yes
+1975,Kansas City Royals,AL,91,71,0,KCR,No
+1975,Baltimore Orioles,AL,90,69,0,BAL,No
+1975,Los Angeles Dodgers,NL,88,74,0,LAD,No
+1975,Philadelphia Phillies,NL,86,76,0,PHI,No
+1975,New York Yankees,AL,83,77,0,NYY,No
+1975,New York Mets,NL,82,80,0,NYM,No
+1975,St. Louis Cardinals,NL,82,80,1,STL,No
+1975,San Francisco Giants,NL,80,81,0,SFG,No
+1975,Cleveland Indians,AL,79,80,0,CLE,No
+1975,Texas Rangers,AL,79,83,0,TEX,No
+1975,Minnesota Twins,AL,76,83,0,MIN,No
+1975,Chicago Cubs,NL,75,87,0,CHC,No
+1975,Chicago White Sox,AL,75,86,0,CHW,No
+1975,Montreal Expos,NL,75,87,0,MON,No
+1975,California Angels,AL,72,89,0,CAL,No
+1975,San Diego Padres,NL,71,91,0,SDP,No
+1975,Milwaukee Brewers,AL,68,94,0,MIL,No
+1975,Atlanta Braves,NL,67,94,0,ATL,No
+1975,Houston Astros,NL,64,97,1,HOU,No
+1975,Detroit Tigers,AL,57,102,0,DET,No
+1976,Cincinnati Reds,NL,102,60,0,CIN,Yes
+1976,Philadelphia Phillies,NL,101,61,0,PHI,Yes
+1976,New York Yankees,AL,97,62,0,NYY,Yes
+1976,Los Angeles Dodgers,NL,92,70,0,LAD,No
+1976,Pittsburgh Pirates,NL,92,70,0,PIT,No
+1976,Kansas City Royals,AL,90,72,0,KCR,Yes
+1976,Baltimore Orioles,AL,88,74,0,BAL,No
+1976,Oakland Athletics,AL,87,74,0,OAK,No
+1976,New York Mets,NL,86,76,0,NYM,No
+1976,Minnesota Twins,AL,85,77,0,MIN,No
+1976,Boston Red Sox,AL,83,79,0,BOS,No
+1976,Cleveland Indians,AL,81,78,0,CLE,No
+1976,Houston Astros,NL,80,82,0,HOU,No
+1976,California Angels,AL,76,86,0,CAL,No
+1976,Texas Rangers,AL,76,86,0,TEX,No
+1976,Chicago Cubs,NL,75,87,0,CHC,No
+1976,Detroit Tigers,AL,74,87,0,DET,No
+1976,San Francisco Giants,NL,74,88,0,SFG,No
+1976,San Diego Padres,NL,73,89,0,SDP,No
+1976,St. Louis Cardinals,NL,72,90,0,STL,No
+1976,Atlanta Braves,NL,70,92,0,ATL,No
+1976,Milwaukee Brewers,AL,66,95,0,MIL,No
+1976,Chicago White Sox,AL,64,97,0,CHW,No
+1976,Montreal Expos,NL,55,107,0,MON,No
+1977,Kansas City Royals,AL,102,60,0,KCR,Yes
+1977,Philadelphia Phillies,NL,101,61,0,PHI,Yes
+1977,New York Yankees,AL,100,62,0,NYY,Yes
+1977,Los Angeles Dodgers,NL,98,64,0,LAD,Yes
+1977,Baltimore Orioles,AL,97,64,0,BAL,No
+1977,Boston Red Sox,AL,97,64,0,BOS,No
+1977,Pittsburgh Pirates,NL,96,66,0,PIT,No
+1977,Texas Rangers,AL,94,68,0,TEX,No
+1977,Chicago White Sox,AL,90,72,0,CHW,No
+1977,Cincinnati Reds,NL,88,74,0,CIN,No
+1977,Minnesota Twins,AL,84,77,0,MIN,No
+1977,St. Louis Cardinals,NL,83,79,0,STL,No
+1977,Chicago Cubs,NL,81,81,0,CHC,No
+1977,Houston Astros,NL,81,81,0,HOU,No
+1977,San Francisco Giants,NL,75,87,0,SFG,No
+1977,Montreal Expos,NL,75,87,0,MON,No
+1977,Detroit Tigers,AL,74,88,0,DET,No
+1977,California Angels,AL,74,88,0,CAL,No
+1977,Cleveland Indians,AL,71,90,0,CLE,No
+1977,San Diego Padres,NL,69,93,0,SDP,No
+1977,Milwaukee Brewers,AL,67,95,0,MIL,No
+1977,New York Mets,NL,64,98,0,NYM,No
+1977,Seattle Mariners,AL,64,98,0,SEA,No
+1977,Oakland Athletics,AL,63,98,0,OAK,No
+1977,Atlanta Braves,NL,61,101,0,ATL,No
+1977,Toronto Blue Jays,AL,54,107,0,TOR,No
+1978,New York Yankees,AL,100,63,0,NYY,Yes
+1978,Boston Red Sox,AL,99,64,0,BOS,No
+1978,Los Angeles Dodgers,NL,95,67,0,LAD,Yes
+1978,Milwaukee Brewers,AL,93,69,0,MIL,No
+1978,Cincinnati Reds,NL,92,69,0,CIN,No
+1978,Kansas City Royals,AL,92,70,0,KCR,Yes
+1978,Baltimore Orioles,AL,90,71,0,BAL,No
+1978,Philadelphia Phillies,NL,90,72,0,PHI,Yes
+1978,San Francisco Giants,NL,89,73,0,SFG,No
+1978,Pittsburgh Pirates,NL,88,73,0,PIT,No
+1978,California Angels,AL,87,75,0,CAL,No
+1978,Texas Rangers,AL,87,75,0,TEX,No
+1978,Detroit Tigers,AL,86,76,0,DET,No
+1978,San Diego Padres,NL,84,78,0,SDP,No
+1978,Chicago Cubs,NL,79,83,0,CHC,No
+1978,Montreal Expos,NL,76,86,0,MON,No
+1978,Houston Astros,NL,74,88,0,HOU,No
+1978,Minnesota Twins,AL,73,89,0,MIN,No
+1978,Chicago White Sox,AL,71,90,0,CHW,No
+1978,Atlanta Braves,NL,69,93,0,ATL,No
+1978,Cleveland Indians,AL,69,90,0,CLE,No
+1978,Oakland Athletics,AL,69,93,0,OAK,No
+1978,St. Louis Cardinals,NL,69,93,0,STL,No
+1978,New York Mets,NL,66,96,0,NYM,No
+1978,Toronto Blue Jays,AL,59,102,0,TOR,No
+1978,Seattle Mariners,AL,56,104,0,SEA,No
+1979,Baltimore Orioles,AL,102,57,0,BAL,Yes
+1979,Pittsburgh Pirates,NL,98,64,1,PIT,Yes
+1979,Milwaukee Brewers,AL,95,66,0,MIL,No
+1979,Montreal Expos,NL,95,65,0,MON,No
+1979,Boston Red Sox,AL,91,69,0,BOS,No
+1979,Cincinnati Reds,NL,90,71,0,CIN,Yes
+1979,Houston Astros,NL,89,73,0,HOU,No
+1979,New York Yankees,AL,89,71,0,NYY,No
+1979,California Angels,AL,88,74,0,CAL,Yes
+1979,St. Louis Cardinals,NL,86,76,1,STL,No
+1979,Detroit Tigers,AL,85,76,0,DET,No
+1979,Kansas City Royals,AL,85,77,0,KCR,No
+1979,Philadelphia Phillies,NL,84,78,1,PHI,No
+1979,Texas Rangers,AL,83,79,0,TEX,No
+1979,Minnesota Twins,AL,82,80,0,MIN,No
+1979,Cleveland Indians,AL,81,80,0,CLE,No
+1979,Chicago Cubs,NL,80,82,0,CHC,No
+1979,Los Angeles Dodgers,NL,79,83,0,LAD,No
+1979,Chicago White Sox,AL,73,87,0,CHW,No
+1979,San Francisco Giants,NL,71,91,0,SFG,No
+1979,San Diego Padres,NL,68,93,0,SDP,No
+1979,Seattle Mariners,AL,67,95,0,SEA,No
+1979,Atlanta Braves,NL,66,94,0,ATL,No
+1979,New York Mets,NL,63,99,1,NYM,No
+1979,Oakland Athletics,AL,54,108,0,OAK,No
+1979,Toronto Blue Jays,AL,53,109,0,TOR,No
+1980,New York Yankees,AL,103,59,0,NYY,Yes
+1980,Baltimore Orioles,AL,100,62,0,BAL,No
+1980,Kansas City Royals,AL,97,65,0,KCR,Yes
+1980,Houston Astros,NL,93,70,0,HOU,Yes
+1980,Los Angeles Dodgers,NL,92,71,0,LAD,No
+1980,Philadelphia Phillies,NL,91,71,0,PHI,Yes
+1980,Montreal Expos,NL,90,72,0,MON,No
+1980,Cincinnati Reds,NL,89,73,1,CIN,No
+1980,Milwaukee Brewers,AL,86,76,0,MIL,No
+1980,Detroit Tigers,AL,84,78,1,DET,No
+1980,Boston Red Sox,AL,83,77,0,BOS,No
+1980,Oakland Athletics,AL,83,79,0,OAK,No
+1980,Pittsburgh Pirates,NL,83,79,0,PIT,No
+1980,Atlanta Braves,NL,81,80,0,ATL,No
+1980,Cleveland Indians,AL,79,81,0,CLE,No
+1980,Minnesota Twins,AL,77,84,0,MIN,No
+1980,Texas Rangers,AL,76,85,2,TEX,No
+1980,San Francisco Giants,NL,75,86,0,SFG,No
+1980,St. Louis Cardinals,NL,74,88,0,STL,No
+1980,San Diego Padres,NL,73,89,1,SDP,No
+1980,Chicago White Sox,AL,70,90,2,CHW,No
+1980,New York Mets,NL,67,95,0,NYM,No
+1980,Toronto Blue Jays,AL,67,95,0,TOR,No
+1980,California Angels,AL,65,95,0,CAL,No
+1980,Chicago Cubs,NL,64,98,0,CHC,No
+1980,Seattle Mariners,AL,59,103,1,SEA,No
+1981,Cincinnati Reds,NL,66,42,0,CIN,No
+1981,Oakland Athletics,AL,64,45,0,OAK,Yes
+1981,Los Angeles Dodgers,NL,63,47,0,LAD,Yes
+1981,Milwaukee Brewers,AL,62,47,0,MIL,Yes
+1981,Houston Astros,NL,61,49,0,HOU,Yes
+1981,Detroit Tigers,AL,60,49,0,DET,No
+1981,Montreal Expos,NL,60,48,0,MON,Yes
+1981,Baltimore Orioles,AL,59,46,0,BAL,No
+1981,Boston Red Sox,AL,59,49,0,BOS,No
+1981,St. Louis Cardinals,NL,59,43,1,STL,No
+1981,Philadelphia Phillies,NL,59,48,0,PHI,Yes
+1981,New York Yankees,AL,59,48,0,NYY,Yes
+1981,Texas Rangers,AL,57,48,0,TEX,No
+1981,San Francisco Giants,NL,56,55,0,SFG,No
+1981,Chicago White Sox,AL,54,52,0,CHW,No
+1981,Cleveland Indians,AL,52,51,0,CLE,No
+1981,California Angels,AL,51,59,0,CAL,No
+1981,Atlanta Braves,NL,50,56,1,ATL,No
+1981,Kansas City Royals,AL,50,53,0,KCR,Yes
+1981,Pittsburgh Pirates,NL,46,56,1,PIT,No
+1981,Seattle Mariners,AL,44,65,1,SEA,No
+1981,Minnesota Twins,AL,41,68,1,MIN,No
+1981,New York Mets,NL,41,62,2,NYM,No
+1981,San Diego Padres,NL,41,69,0,SDP,No
+1981,Chicago Cubs,NL,38,65,3,CHC,No
+1981,Toronto Blue Jays,AL,37,69,0,TOR,No
+1982,Milwaukee Brewers,AL,95,67,1,MIL,Yes
+1982,Baltimore Orioles,AL,94,68,1,BAL,No
+1982,California Angels,AL,93,69,0,CAL,Yes
+1982,St. Louis Cardinals,NL,92,70,0,STL,Yes
+1982,Kansas City Royals,AL,90,72,0,KCR,No
+1982,Boston Red Sox,AL,89,73,0,BOS,No
+1982,Philadelphia Phillies,NL,89,73,0,PHI,No
+1982,Atlanta Braves,NL,89,73,0,ATL,Yes
+1982,Los Angeles Dodgers,NL,88,74,0,LAD,No
+1982,Chicago White Sox,AL,87,75,0,CHW,No
+1982,San Francisco Giants,NL,87,75,0,SFG,No
+1982,Montreal Expos,NL,86,76,0,MON,No
+1982,Pittsburgh Pirates,NL,84,78,0,PIT,No
+1982,Detroit Tigers,AL,83,79,0,DET,No
+1982,San Diego Padres,NL,81,81,0,SDP,No
+1982,New York Yankees,AL,79,83,0,NYY,No
+1982,Cleveland Indians,AL,78,84,0,CLE,No
+1982,Toronto Blue Jays,AL,78,84,0,TOR,No
+1982,Houston Astros,NL,77,85,0,HOU,No
+1982,Seattle Mariners,AL,76,86,0,SEA,No
+1982,Chicago Cubs,NL,73,89,0,CHC,No
+1982,Oakland Athletics,AL,68,94,0,OAK,No
+1982,New York Mets,NL,65,97,0,NYM,No
+1982,Texas Rangers,AL,64,98,0,TEX,No
+1982,Cincinnati Reds,NL,61,101,0,CIN,No
+1982,Minnesota Twins,AL,60,102,0,MIN,No
+1983,Chicago White Sox,AL,99,63,0,CHW,Yes
+1983,Baltimore Orioles,AL,98,64,0,BAL,Yes
+1983,Detroit Tigers,AL,92,70,0,DET,No
+1983,New York Yankees,AL,91,71,0,NYY,No
+1983,Los Angeles Dodgers,NL,91,71,1,LAD,Yes
+1983,Philadelphia Phillies,NL,90,72,1,PHI,Yes
+1983,Toronto Blue Jays,AL,89,73,0,TOR,No
+1983,Atlanta Braves,NL,88,74,0,ATL,No
+1983,Milwaukee Brewers,AL,87,75,0,MIL,No
+1983,Houston Astros,NL,85,77,0,HOU,No
+1983,Pittsburgh Pirates,NL,84,78,0,PIT,No
+1983,Montreal Expos,NL,82,80,1,MON,No
+1983,San Diego Padres,NL,81,81,1,SDP,No
+1983,Kansas City Royals,AL,79,83,1,KCR,No
+1983,San Francisco Giants,NL,79,83,0,SFG,No
+1983,St. Louis Cardinals,NL,79,83,0,STL,No
+1983,Boston Red Sox,AL,78,84,0,BOS,No
+1983,Texas Rangers,AL,77,85,1,TEX,No
+1983,Cincinnati Reds,NL,74,88,0,CIN,No
+1983,Oakland Athletics,AL,74,88,0,OAK,No
+1983,Chicago Cubs,NL,71,91,0,CHC,No
+1983,Cleveland Indians,AL,70,92,0,CLE,No
+1983,California Angels,AL,70,92,0,CAL,No
+1983,Minnesota Twins,AL,70,92,0,MIN,No
+1983,New York Mets,NL,68,94,0,NYM,No
+1983,Seattle Mariners,AL,60,102,0,SEA,No
+1984,Detroit Tigers,AL,104,58,0,DET,Yes
+1984,Chicago Cubs,NL,96,65,0,CHC,Yes
+1984,San Diego Padres,NL,92,70,0,SDP,Yes
+1984,New York Mets,NL,90,72,0,NYM,No
+1984,Toronto Blue Jays,AL,89,73,1,TOR,No
+1984,New York Yankees,AL,87,75,0,NYY,No
+1984,Boston Red Sox,AL,86,76,0,BOS,No
+1984,Baltimore Orioles,AL,85,77,0,BAL,No
+1984,St. Louis Cardinals,NL,84,78,0,STL,No
+1984,Kansas City Royals,AL,84,78,0,KCR,Yes
+1984,California Angels,AL,81,81,0,CAL,No
+1984,Minnesota Twins,AL,81,81,0,MIN,No
+1984,Philadelphia Phillies,NL,81,81,0,PHI,No
+1984,Atlanta Braves,NL,80,82,0,ATL,No
+1984,Houston Astros,NL,80,82,0,HOU,No
+1984,Los Angeles Dodgers,NL,79,83,0,LAD,No
+1984,Montreal Expos,NL,78,83,0,MON,No
+1984,Oakland Athletics,AL,77,85,0,OAK,No
+1984,Cleveland Indians,AL,75,87,1,CLE,No
+1984,Pittsburgh Pirates,NL,75,87,0,PIT,No
+1984,Chicago White Sox,AL,74,88,0,CHW,No
+1984,Seattle Mariners,AL,74,88,0,SEA,No
+1984,Cincinnati Reds,NL,70,92,0,CIN,No
+1984,Texas Rangers,AL,69,92,0,TEX,No
+1984,Milwaukee Brewers,AL,67,94,0,MIL,No
+1984,San Francisco Giants,NL,66,96,0,SFG,No
+1985,St. Louis Cardinals,NL,101,61,0,STL,Yes
+1985,Toronto Blue Jays,AL,99,62,0,TOR,Yes
+1985,New York Mets,NL,98,64,0,NYM,No
+1985,New York Yankees,AL,97,64,0,NYY,No
+1985,Los Angeles Dodgers,NL,95,67,0,LAD,Yes
+1985,Kansas City Royals,AL,91,71,0,KCR,Yes
+1985,California Angels,AL,90,72,0,CAL,No
+1985,Cincinnati Reds,NL,89,72,1,CIN,No
+1985,Chicago White Sox,AL,85,77,1,CHW,No
+1985,Detroit Tigers,AL,84,77,0,DET,No
+1985,Montreal Expos,NL,84,77,0,MON,No
+1985,Baltimore Orioles,AL,83,78,0,BAL,No
+1985,Houston Astros,NL,83,79,0,HOU,No
+1985,San Diego Padres,NL,83,79,0,SDP,No
+1985,Boston Red Sox,AL,81,81,1,BOS,No
+1985,Chicago Cubs,NL,77,84,1,CHC,No
+1985,Minnesota Twins,AL,77,85,0,MIN,No
+1985,Oakland Athletics,AL,77,85,0,OAK,No
+1985,Philadelphia Phillies,NL,75,87,0,PHI,No
+1985,Seattle Mariners,AL,74,88,0,SEA,No
+1985,Milwaukee Brewers,AL,71,90,0,MIL,No
+1985,Atlanta Braves,NL,66,96,0,ATL,No
+1985,San Francisco Giants,NL,62,100,0,SFG,No
+1985,Texas Rangers,AL,62,99,0,TEX,No
+1985,Cleveland Indians,AL,60,102,0,CLE,No
+1985,Pittsburgh Pirates,NL,57,104,0,PIT,No
+1986,New York Mets,NL,108,54,0,NYM,Yes
+1986,Houston Astros,NL,96,66,0,HOU,Yes
+1986,Boston Red Sox,AL,95,66,0,BOS,Yes
+1986,California Angels,AL,92,70,0,CAL,Yes
+1986,New York Yankees,AL,90,72,0,NYY,No
+1986,Detroit Tigers,AL,87,75,0,DET,No
+1986,Texas Rangers,AL,87,75,0,TEX,No
+1986,Cincinnati Reds,NL,86,76,0,CIN,No
+1986,Philadelphia Phillies,NL,86,75,0,PHI,No
+1986,Toronto Blue Jays,AL,86,76,1,TOR,No
+1986,Cleveland Indians,AL,84,78,1,CLE,No
+1986,San Francisco Giants,NL,83,79,0,SFG,No
+1986,St. Louis Cardinals,NL,79,82,0,STL,No
+1986,Montreal Expos,NL,78,83,0,MON,No
+1986,Milwaukee Brewers,AL,77,84,0,MIL,No
+1986,Kansas City Royals,AL,76,86,0,KCR,No
+1986,Oakland Athletics,AL,76,86,0,OAK,No
+1986,San Diego Padres,NL,74,88,0,SDP,No
+1986,Baltimore Orioles,AL,73,89,0,BAL,No
+1986,Los Angeles Dodgers,NL,73,89,0,LAD,No
+1986,Atlanta Braves,NL,72,89,0,ATL,No
+1986,Chicago White Sox,AL,72,90,0,CHW,No
+1986,Minnesota Twins,AL,71,91,0,MIN,No
+1986,Chicago Cubs,NL,70,90,0,CHC,No
+1986,Seattle Mariners,AL,67,95,0,SEA,No
+1986,Pittsburgh Pirates,NL,64,98,0,PIT,No
+1987,Detroit Tigers,AL,98,64,0,DET,Yes
+1987,Toronto Blue Jays,AL,96,66,0,TOR,No
+1987,St. Louis Cardinals,NL,95,67,0,STL,Yes
+1987,New York Mets,NL,92,70,0,NYM,No
+1987,Milwaukee Brewers,AL,91,71,0,MIL,No
+1987,Montreal Expos,NL,91,71,0,MON,No
+1987,San Francisco Giants,NL,90,72,0,SFG,Yes
+1987,New York Yankees,AL,89,73,0,NYY,No
+1987,Minnesota Twins,AL,85,77,0,MIN,Yes
+1987,Cincinnati Reds,NL,84,78,0,CIN,No
+1987,Kansas City Royals,AL,83,79,0,KCR,No
+1987,Oakland Athletics,AL,81,81,0,OAK,No
+1987,Philadelphia Phillies,NL,80,82,0,PHI,No
+1987,Pittsburgh Pirates,NL,80,82,0,PIT,No
+1987,Boston Red Sox,AL,78,84,0,BOS,No
+1987,Seattle Mariners,AL,78,84,0,SEA,No
+1987,Chicago White Sox,AL,77,85,0,CHW,No
+1987,Chicago Cubs,NL,76,85,0,CHC,No
+1987,Houston Astros,NL,76,86,0,HOU,No
+1987,California Angels,AL,75,87,0,CAL,No
+1987,Texas Rangers,AL,75,87,0,TEX,No
+1987,Los Angeles Dodgers,NL,73,89,0,LAD,No
+1987,Atlanta Braves,NL,69,92,0,ATL,No
+1987,Baltimore Orioles,AL,67,95,0,BAL,No
+1987,San Diego Padres,NL,65,97,0,SDP,No
+1987,Cleveland Indians,AL,61,101,0,CLE,No
+1988,Oakland Athletics,AL,104,58,0,OAK,Yes
+1988,New York Mets,NL,100,60,0,NYM,Yes
+1988,Los Angeles Dodgers,NL,94,67,1,LAD,Yes
+1988,Minnesota Twins,AL,91,71,0,MIN,No
+1988,Boston Red Sox,AL,89,73,0,BOS,Yes
+1988,Detroit Tigers,AL,88,74,0,DET,No
+1988,Cincinnati Reds,NL,87,74,0,CIN,No
+1988,Milwaukee Brewers,AL,87,75,0,MIL,No
+1988,Toronto Blue Jays,AL,87,75,0,TOR,No
+1988,New York Yankees,AL,85,76,0,NYY,No
+1988,Pittsburgh Pirates,NL,85,75,0,PIT,No
+1988,Kansas City Royals,AL,84,77,0,KCR,No
+1988,San Diego Padres,NL,83,78,0,SDP,No
+1988,San Francisco Giants,NL,83,79,0,SFG,No
+1988,Houston Astros,NL,82,80,0,HOU,No
+1988,Montreal Expos,NL,81,81,1,MON,No
+1988,Cleveland Indians,AL,78,84,0,CLE,No
+1988,Chicago Cubs,NL,77,85,1,CHC,No
+1988,St. Louis Cardinals,NL,76,86,0,STL,No
+1988,California Angels,AL,75,87,0,CAL,No
+1988,Chicago White Sox,AL,71,90,0,CHW,No
+1988,Texas Rangers,AL,70,91,0,TEX,No
+1988,Seattle Mariners,AL,68,93,0,SEA,No
+1988,Philadelphia Phillies,NL,65,96,1,PHI,No
+1988,Atlanta Braves,NL,54,106,0,ATL,No
+1988,Baltimore Orioles,AL,54,107,0,BAL,No
+1989,Oakland Athletics,AL,99,63,0,OAK,Yes
+1989,Chicago Cubs,NL,93,69,0,CHC,Yes
+1989,Kansas City Royals,AL,92,70,0,KCR,No
+1989,San Francisco Giants,NL,92,70,0,SFG,Yes
+1989,California Angels,AL,91,71,0,CAL,No
+1989,San Diego Padres,NL,89,73,0,SDP,No
+1989,Toronto Blue Jays,AL,89,73,0,TOR,Yes
+1989,Baltimore Orioles,AL,87,75,0,BAL,No
+1989,New York Mets,NL,87,75,0,NYM,No
+1989,Houston Astros,NL,86,76,0,HOU,No
+1989,St. Louis Cardinals,NL,86,76,2,STL,No
+1989,Boston Red Sox,AL,83,79,0,BOS,No
+1989,Texas Rangers,AL,83,79,0,TEX,No
+1989,Milwaukee Brewers,AL,81,81,0,MIL,No
+1989,Montreal Expos,NL,81,81,0,MON,No
+1989,Minnesota Twins,AL,80,82,0,MIN,No
+1989,Los Angeles Dodgers,NL,77,83,0,LAD,No
+1989,Cincinnati Reds,NL,75,87,0,CIN,No
+1989,New York Yankees,AL,74,87,0,NYY,No
+1989,Pittsburgh Pirates,NL,74,88,2,PIT,No
+1989,Cleveland Indians,AL,73,89,0,CLE,No
+1989,Seattle Mariners,AL,73,89,0,SEA,No
+1989,Chicago White Sox,AL,69,92,0,CHW,No
+1989,Philadelphia Phillies,NL,67,95,1,PHI,No
+1989,Atlanta Braves,NL,63,97,1,ATL,No
+1989,Detroit Tigers,AL,59,103,0,DET,No
+1990,Oakland Athletics,AL,103,59,0,OAK,Yes
+1990,Pittsburgh Pirates,NL,95,67,0,PIT,Yes
+1990,Chicago White Sox,AL,94,68,0,CHW,No
+1990,New York Mets,NL,91,71,0,NYM,No
+1990,Cincinnati Reds,NL,91,71,0,CIN,Yes
+1990,Boston Red Sox,AL,88,74,0,BOS,Yes
+1990,Los Angeles Dodgers,NL,86,76,0,LAD,No
+1990,Toronto Blue Jays,AL,86,76,0,TOR,No
+1990,San Francisco Giants,NL,85,77,0,SFG,No
+1990,Montreal Expos,NL,85,77,0,MON,No
+1990,Texas Rangers,AL,83,79,0,TEX,No
+1990,California Angels,AL,80,82,0,CAL,No
+1990,Detroit Tigers,AL,79,83,0,DET,No
+1990,Chicago Cubs,NL,77,85,0,CHC,No
+1990,Cleveland Indians,AL,77,85,0,CLE,No
+1990,Philadelphia Phillies,NL,77,85,0,PHI,No
+1990,Seattle Mariners,AL,77,85,0,SEA,No
+1990,Baltimore Orioles,AL,76,85,0,BAL,No
+1990,Houston Astros,NL,75,87,0,HOU,No
+1990,Kansas City Royals,AL,75,86,0,KCR,No
+1990,San Diego Padres,NL,75,87,0,SDP,No
+1990,Milwaukee Brewers,AL,74,88,0,MIL,No
+1990,Minnesota Twins,AL,74,88,0,MIN,No
+1990,St. Louis Cardinals,NL,70,92,0,STL,No
+1990,New York Yankees,AL,67,95,0,NYY,No
+1990,Atlanta Braves,NL,65,97,0,ATL,No
+1991,Pittsburgh Pirates,NL,98,64,0,PIT,Yes
+1991,Minnesota Twins,AL,95,67,0,MIN,Yes
+1991,Atlanta Braves,NL,94,68,0,ATL,Yes
+1991,Los Angeles Dodgers,NL,93,69,0,LAD,No
+1991,Toronto Blue Jays,AL,91,71,0,TOR,Yes
+1991,Chicago White Sox,AL,87,75,0,CHW,No
+1991,Texas Rangers,AL,85,77,0,TEX,No
+1991,Boston Red Sox,AL,84,78,0,BOS,No
+1991,Detroit Tigers,AL,84,78,0,DET,No
+1991,Oakland Athletics,AL,84,78,0,OAK,No
+1991,San Diego Padres,NL,84,78,0,SDP,No
+1991,St. Louis Cardinals,NL,84,78,0,STL,No
+1991,Milwaukee Brewers,AL,83,79,0,MIL,No
+1991,Seattle Mariners,AL,83,79,0,SEA,No
+1991,Kansas City Royals,AL,82,80,0,KCR,No
+1991,California Angels,AL,81,81,0,CAL,No
+1991,Philadelphia Phillies,NL,78,84,0,PHI,No
+1991,Chicago Cubs,NL,77,83,0,CHC,No
+1991,New York Mets,NL,77,84,0,NYM,No
+1991,San Francisco Giants,NL,75,87,0,SFG,No
+1991,Cincinnati Reds,NL,74,88,0,CIN,No
+1991,New York Yankees,AL,71,91,0,NYY,No
+1991,Montreal Expos,NL,71,90,0,MON,No
+1991,Baltimore Orioles,AL,67,95,0,BAL,No
+1991,Houston Astros,NL,65,97,0,HOU,No
+1991,Cleveland Indians,AL,57,105,0,CLE,No
+1992,Atlanta Braves,NL,98,64,0,ATL,Yes
+1992,Oakland Athletics,AL,96,66,0,OAK,Yes
+1992,Pittsburgh Pirates,NL,96,66,0,PIT,Yes
+1992,Toronto Blue Jays,AL,96,66,0,TOR,Yes
+1992,Milwaukee Brewers,AL,92,70,0,MIL,No
+1992,Cincinnati Reds,NL,90,72,0,CIN,No
+1992,Minnesota Twins,AL,90,72,0,MIN,No
+1992,Baltimore Orioles,AL,89,73,0,BAL,No
+1992,Montreal Expos,NL,87,75,0,MON,No
+1992,Chicago White Sox,AL,86,76,0,CHW,No
+1992,St. Louis Cardinals,NL,83,79,0,STL,No
+1992,San Diego Padres,NL,82,80,0,SDP,No
+1992,Houston Astros,NL,81,81,0,HOU,No
+1992,Chicago Cubs,NL,78,84,0,CHC,No
+1992,Texas Rangers,AL,77,85,0,TEX,No
+1992,Cleveland Indians,AL,76,86,0,CLE,No
+1992,New York Yankees,AL,76,86,0,NYY,No
+1992,Detroit Tigers,AL,75,87,0,DET,No
+1992,Boston Red Sox,AL,73,89,0,BOS,No
+1992,Kansas City Royals,AL,72,90,0,KCR,No
+1992,California Angels,AL,72,90,0,CAL,No
+1992,New York Mets,NL,72,90,0,NYM,No
+1992,San Francisco Giants,NL,72,90,0,SFG,No
+1992,Philadelphia Phillies,NL,70,92,0,PHI,No
+1992,Seattle Mariners,AL,64,98,0,SEA,No
+1992,Los Angeles Dodgers,NL,63,99,0,LAD,No
+1993,Atlanta Braves,NL,104,58,0,ATL,Yes
+1993,San Francisco Giants,NL,103,59,0,SFG,No
+1993,Philadelphia Phillies,NL,97,65,0,PHI,Yes
+1993,Toronto Blue Jays,AL,95,67,0,TOR,Yes
+1993,Montreal Expos,NL,94,68,1,MON,No
+1993,Chicago White Sox,AL,94,68,0,CHW,Yes
+1993,New York Yankees,AL,88,74,0,NYY,No
+1993,St. Louis Cardinals,NL,87,75,0,STL,No
+1993,Texas Rangers,AL,86,76,0,TEX,No
+1993,Baltimore Orioles,AL,85,77,0,BAL,No
+1993,Detroit Tigers,AL,85,77,0,DET,No
+1993,Houston Astros,NL,85,77,0,HOU,No
+1993,Chicago Cubs,NL,84,78,1,CHC,No
+1993,Kansas City Royals,AL,84,78,0,KCR,No
+1993,Seattle Mariners,AL,82,80,0,SEA,No
+1993,Los Angeles Dodgers,NL,81,81,0,LAD,No
+1993,Boston Red Sox,AL,80,82,0,BOS,No
+1993,Cleveland Indians,AL,76,86,0,CLE,No
+1993,Pittsburgh Pirates,NL,75,87,0,PIT,No
+1993,Cincinnati Reds,NL,73,89,0,CIN,No
+1993,California Angels,AL,71,91,0,CAL,No
+1993,Minnesota Twins,AL,71,91,0,MIN,No
+1993,Milwaukee Brewers,AL,69,93,0,MIL,No
+1993,Oakland Athletics,AL,68,94,0,OAK,No
+1993,Colorado Rockies,NL,67,95,0,COL,No
+1993,Florida Marlins,NL,64,98,0,FLA,No
+1993,San Diego Padres,NL,61,101,0,SDP,No
+1993,New York Mets,NL,59,103,0,NYM,No
+1994,Montreal Expos,NL,74,40,0,MON,No
+1994,New York Yankees,AL,70,43,0,NYY,No
+1994,Atlanta Braves,NL,68,46,0,ATL,No
+1994,Chicago White Sox,AL,67,46,0,CHW,No
+1994,Cincinnati Reds,NL,66,48,1,CIN,No
+1994,Cleveland Indians,AL,66,47,0,CLE,No
+1994,Houston Astros,NL,66,49,0,HOU,No
+1994,Kansas City Royals,AL,64,51,0,KCR,No
+1994,Baltimore Orioles,AL,63,49,0,BAL,No
+1994,Los Angeles Dodgers,NL,58,56,0,LAD,No
+1994,New York Mets,NL,55,58,0,NYM,No
+1994,San Francisco Giants,NL,55,60,0,SFG,No
+1994,Toronto Blue Jays,AL,55,60,0,TOR,No
+1994,Boston Red Sox,AL,54,61,0,BOS,No
+1994,Philadelphia Phillies,NL,54,61,0,PHI,No
+1994,Colorado Rockies,NL,53,64,0,COL,No
+1994,Detroit Tigers,AL,53,62,0,DET,No
+1994,Milwaukee Brewers,AL,53,62,0,MIL,No
+1994,Minnesota Twins,AL,53,60,0,MIN,No
+1994,Pittsburgh Pirates,NL,53,61,0,PIT,No
+1994,St. Louis Cardinals,NL,53,61,1,STL,No
+1994,Texas Rangers,AL,52,62,0,TEX,No
+1994,Florida Marlins,NL,51,64,0,FLA,No
+1994,Oakland Athletics,AL,51,63,0,OAK,No
+1994,Chicago Cubs,NL,49,64,0,CHC,No
+1994,Seattle Mariners,AL,49,63,0,SEA,No
+1994,California Angels,AL,47,68,0,CAL,No
+1994,San Diego Padres,NL,47,70,0,SDP,No
+1995,Cleveland Indians,AL,100,44,0,CLE,Yes
+1995,Atlanta Braves,NL,90,54,0,ATL,Yes
+1995,Boston Red Sox,AL,86,58,0,BOS,Yes
+1995,Cincinnati Reds,NL,85,59,0,CIN,Yes
+1995,Seattle Mariners,AL,79,66,0,SEA,Yes
+1995,New York Yankees,AL,79,65,1,NYY,Yes
+1995,California Angels,AL,78,67,0,CAL,No
+1995,Los Angeles Dodgers,NL,78,66,0,LAD,Yes
+1995,Colorado Rockies,NL,77,67,0,COL,Yes
+1995,Houston Astros,NL,76,68,0,HOU,No
+1995,Texas Rangers,AL,74,70,0,TEX,No
+1995,Chicago Cubs,NL,73,71,0,CHC,No
+1995,Baltimore Orioles,AL,71,73,0,BAL,No
+1995,Kansas City Royals,AL,70,74,0,KCR,No
+1995,San Diego Padres,NL,70,74,0,SDP,No
+1995,New York Mets,NL,69,75,0,NYM,No
+1995,Philadelphia Phillies,NL,69,75,0,PHI,No
+1995,Chicago White Sox,AL,68,76,1,CHW,No
+1995,Florida Marlins,NL,67,76,0,FLA,No
+1995,Oakland Athletics,AL,67,77,0,OAK,No
+1995,San Francisco Giants,NL,67,77,0,SFG,No
+1995,Montreal Expos,NL,66,78,0,MON,No
+1995,Milwaukee Brewers,AL,65,79,0,MIL,No
+1995,St. Louis Cardinals,NL,62,81,0,STL,No
+1995,Detroit Tigers,AL,60,84,0,DET,No
+1995,Pittsburgh Pirates,NL,58,86,0,PIT,No
+1995,Minnesota Twins,AL,56,88,0,MIN,No
+1995,Toronto Blue Jays,AL,56,88,0,TOR,No
+1996,Cleveland Indians,AL,99,62,0,CLE,Yes
+1996,Atlanta Braves,NL,96,66,0,ATL,Yes
+1996,New York Yankees,AL,92,70,0,NYY,Yes
+1996,San Diego Padres,NL,91,71,0,SDP,Yes
+1996,Los Angeles Dodgers,NL,90,72,0,LAD,Yes
+1996,Texas Rangers,AL,90,72,1,TEX,Yes
+1996,Montreal Expos,NL,88,74,0,MON,No
+1996,Baltimore Orioles,AL,88,74,1,BAL,Yes
+1996,St. Louis Cardinals,NL,88,74,0,STL,Yes
+1996,Boston Red Sox,AL,85,77,0,BOS,No
+1996,Chicago White Sox,AL,85,77,0,CHW,No
+1996,Seattle Mariners,AL,85,76,0,SEA,No
+1996,Colorado Rockies,NL,83,79,0,COL,No
+1996,Houston Astros,NL,82,80,0,HOU,No
+1996,Cincinnati Reds,NL,81,81,0,CIN,No
+1996,Florida Marlins,NL,80,82,0,FLA,No
+1996,Milwaukee Brewers,AL,80,82,0,MIL,No
+1996,Minnesota Twins,AL,78,84,0,MIN,No
+1996,Oakland Athletics,AL,78,84,0,OAK,No
+1996,Chicago Cubs,NL,76,86,0,CHC,No
+1996,Kansas City Royals,AL,75,86,0,KCR,No
+1996,Toronto Blue Jays,AL,74,88,0,TOR,No
+1996,Pittsburgh Pirates,NL,73,89,0,PIT,No
+1996,New York Mets,NL,71,91,0,NYM,No
+1996,California Angels,AL,70,91,0,CAL,No
+1996,San Francisco Giants,NL,68,94,0,SFG,No
+1996,Philadelphia Phillies,NL,67,95,0,PHI,No
+1996,Detroit Tigers,AL,53,109,0,DET,No
+1997,Atlanta Braves,NL,101,61,0,ATL,Yes
+1997,Baltimore Orioles,AL,98,64,0,BAL,Yes
+1997,New York Yankees,AL,96,66,0,NYY,Yes
+1997,Florida Marlins,NL,92,70,0,FLA,Yes
+1997,San Francisco Giants,NL,90,72,0,SFG,Yes
+1997,Seattle Mariners,AL,90,72,0,SEA,Yes
+1997,Los Angeles Dodgers,NL,88,74,0,LAD,No
+1997,New York Mets,NL,88,74,0,NYM,No
+1997,Cleveland Indians,AL,86,75,0,CLE,Yes
+1997,Anaheim Angels,AL,84,78,0,ANA,No
+1997,Houston Astros,NL,84,78,0,HOU,Yes
+1997,Colorado Rockies,NL,83,79,0,COL,No
+1997,Chicago White Sox,AL,80,81,0,CHW,No
+1997,Detroit Tigers,AL,79,83,0,DET,No
+1997,Pittsburgh Pirates,NL,79,83,0,PIT,No
+1997,Boston Red Sox,AL,78,84,0,BOS,No
+1997,Milwaukee Brewers,AL,78,83,0,MIL,No
+1997,Montreal Expos,NL,78,84,0,MON,No
+1997,Texas Rangers,AL,77,85,0,TEX,No
+1997,Cincinnati Reds,NL,76,86,0,CIN,No
+1997,San Diego Padres,NL,76,86,0,SDP,No
+1997,Toronto Blue Jays,AL,76,86,0,TOR,No
+1997,St. Louis Cardinals,NL,73,89,0,STL,No
+1997,Chicago Cubs,NL,68,94,0,CHC,No
+1997,Minnesota Twins,AL,68,94,0,MIN,No
+1997,Philadelphia Phillies,NL,68,94,0,PHI,No
+1997,Kansas City Royals,AL,67,94,0,KCR,No
+1997,Oakland Athletics,AL,65,97,0,OAK,No
+1998,New York Yankees,AL,114,48,0,NYY,Yes
+1998,Atlanta Braves,NL,106,56,0,ATL,Yes
+1998,Houston Astros,NL,102,60,0,HOU,Yes
+1998,San Diego Padres,NL,98,64,0,SDP,Yes
+1998,Boston Red Sox,AL,92,70,0,BOS,Yes
+1998,Chicago Cubs,NL,90,73,0,CHC,Yes
+1998,San Francisco Giants,NL,89,74,0,SFG,No
+1998,Cleveland Indians,AL,89,73,0,CLE,Yes
+1998,New York Mets,NL,88,74,0,NYM,No
+1998,Toronto Blue Jays,AL,88,74,1,TOR,No
+1998,Texas Rangers,AL,88,74,0,TEX,Yes
+1998,Anaheim Angels,AL,85,77,0,ANA,No
+1998,Los Angeles Dodgers,NL,83,79,0,LAD,No
+1998,St. Louis Cardinals,NL,83,79,1,STL,No
+1998,Chicago White Sox,AL,80,82,1,CHW,No
+1998,Baltimore Orioles,AL,79,83,0,BAL,No
+1998,Cincinnati Reds,NL,77,85,0,CIN,No
+1998,Colorado Rockies,NL,77,85,0,COL,No
+1998,Seattle Mariners,AL,76,85,0,SEA,No
+1998,Philadelphia Phillies,NL,75,87,0,PHI,No
+1998,Milwaukee Brewers,NL,74,88,0,MIL,No
+1998,Oakland Athletics,AL,74,88,0,OAK,No
+1998,Kansas City Royals,AL,72,89,0,KCR,No
+1998,Minnesota Twins,AL,70,92,0,MIN,No
+1998,Pittsburgh Pirates,NL,69,93,1,PIT,No
+1998,Arizona Diamondbacks,NL,65,97,0,ARI,No
+1998,Detroit Tigers,AL,65,97,0,DET,No
+1998,Montreal Expos,NL,65,97,0,MON,No
+1998,Tampa Bay Devil Rays,AL,63,99,0,TBD,No
+1998,Florida Marlins,NL,54,108,0,FLA,No
+1999,Atlanta Braves,NL,103,59,0,ATL,Yes
+1999,Arizona Diamondbacks,NL,100,62,0,ARI,Yes
+1999,New York Yankees,AL,98,64,0,NYY,Yes
+1999,Houston Astros,NL,97,65,0,HOU,Yes
+1999,Cleveland Indians,AL,97,65,0,CLE,Yes
+1999,New York Mets,NL,97,66,0,NYM,Yes
+1999,Cincinnati Reds,NL,96,67,0,CIN,No
+1999,Texas Rangers,AL,95,67,0,TEX,Yes
+1999,Boston Red Sox,AL,94,68,0,BOS,Yes
+1999,Oakland Athletics,AL,87,75,0,OAK,No
+1999,San Francisco Giants,NL,86,76,0,SFG,No
+1999,Toronto Blue Jays,AL,84,78,0,TOR,No
+1999,Seattle Mariners,AL,79,83,0,SEA,No
+1999,Baltimore Orioles,AL,78,84,0,BAL,No
+1999,Pittsburgh Pirates,NL,78,83,0,PIT,No
+1999,Los Angeles Dodgers,NL,77,85,0,LAD,No
+1999,Philadelphia Phillies,NL,77,85,0,PHI,No
+1999,Chicago White Sox,AL,75,86,1,CHW,No
+1999,St. Louis Cardinals,NL,75,86,0,STL,No
+1999,Milwaukee Brewers,NL,74,87,0,MIL,No
+1999,San Diego Padres,NL,74,88,0,SDP,No
+1999,Colorado Rockies,NL,72,90,0,COL,No
+1999,Anaheim Angels,AL,70,92,0,ANA,No
+1999,Detroit Tigers,AL,69,92,0,DET,No
+1999,Tampa Bay Devil Rays,AL,69,93,0,TBD,No
+1999,Montreal Expos,NL,68,94,0,MON,No
+1999,Chicago Cubs,NL,67,95,0,CHC,No
+1999,Kansas City Royals,AL,64,97,0,KCR,No
+1999,Florida Marlins,NL,64,98,0,FLA,No
+1999,Minnesota Twins,AL,63,97,1,MIN,No
+2000,San Francisco Giants,NL,97,65,0,SFG,Yes
+2000,Atlanta Braves,NL,95,67,0,ATL,Yes
+2000,Chicago White Sox,AL,95,67,0,CHW,Yes
+2000,St. Louis Cardinals,NL,95,67,0,STL,Yes
+2000,New York Mets,NL,94,68,0,NYM,Yes
+2000,Seattle Mariners,AL,91,71,0,SEA,Yes
+2000,Oakland Athletics,AL,91,70,0,OAK,Yes
+2000,Cleveland Indians,AL,90,72,0,CLE,No
+2000,New York Yankees,AL,87,74,0,NYY,Yes
+2000,Los Angeles Dodgers,NL,86,76,0,LAD,No
+2000,Arizona Diamondbacks,NL,85,77,0,ARI,No
+2000,Boston Red Sox,AL,85,77,0,BOS,No
+2000,Cincinnati Reds,NL,85,77,1,CIN,No
+2000,Toronto Blue Jays,AL,83,79,0,TOR,No
+2000,Colorado Rockies,NL,82,80,0,COL,No
+2000,Anaheim Angels,AL,82,80,0,ANA,No
+2000,Detroit Tigers,AL,79,83,0,DET,No
+2000,Florida Marlins,NL,79,82,0,FLA,No
+2000,Kansas City Royals,AL,77,85,0,KCR,No
+2000,San Diego Padres,NL,76,86,0,SDP,No
+2000,Baltimore Orioles,AL,74,88,0,BAL,No
+2000,Milwaukee Brewers,NL,73,89,1,MIL,No
+2000,Houston Astros,NL,72,90,0,HOU,No
+2000,Texas Rangers,AL,71,91,0,TEX,No
+2000,Minnesota Twins,AL,69,93,0,MIN,No
+2000,Pittsburgh Pirates,NL,69,93,0,PIT,No
+2000,Tampa Bay Devil Rays,AL,69,92,0,TBD,No
+2000,Montreal Expos,NL,67,95,0,MON,No
+2000,Chicago Cubs,NL,65,97,0,CHC,No
+2000,Philadelphia Phillies,NL,65,97,0,PHI,No
+2001,Seattle Mariners,AL,116,46,0,SEA,Yes
+2001,Oakland Athletics,AL,102,60,0,OAK,Yes
+2001,New York Yankees,AL,95,65,1,NYY,Yes
+2001,Houston Astros,NL,93,69,0,HOU,Yes
+2001,St. Louis Cardinals,NL,93,69,0,STL,Yes
+2001,Arizona Diamondbacks,NL,92,70,0,ARI,Yes
+2001,Cleveland Indians,AL,91,71,0,CLE,Yes
+2001,San Francisco Giants,NL,90,72,0,SFG,No
+2001,Chicago Cubs,NL,88,74,0,CHC,No
+2001,Atlanta Braves,NL,88,74,0,ATL,Yes
+2001,Los Angeles Dodgers,NL,86,76,0,LAD,No
+2001,Philadelphia Phillies,NL,86,76,0,PHI,No
+2001,Minnesota Twins,AL,85,77,0,MIN,No
+2001,Chicago White Sox,AL,83,79,0,CHW,No
+2001,Boston Red Sox,AL,82,79,0,BOS,No
+2001,New York Mets,NL,82,80,0,NYM,No
+2001,Toronto Blue Jays,AL,80,82,0,TOR,No
+2001,San Diego Padres,NL,79,83,0,SDP,No
+2001,Florida Marlins,NL,76,86,0,FLA,No
+2001,Anaheim Angels,AL,75,87,0,ANA,No
+2001,Colorado Rockies,NL,73,89,0,COL,No
+2001,Texas Rangers,AL,73,89,0,TEX,No
+2001,Milwaukee Brewers,NL,68,94,0,MIL,No
+2001,Montreal Expos,NL,68,94,0,MON,No
+2001,Cincinnati Reds,NL,66,96,0,CIN,No
+2001,Detroit Tigers,AL,66,96,0,DET,No
+2001,Kansas City Royals,AL,65,97,0,KCR,No
+2001,Baltimore Orioles,AL,63,98,1,BAL,No
+2001,Pittsburgh Pirates,NL,62,100,0,PIT,No
+2001,Tampa Bay Devil Rays,AL,62,100,0,TBD,No
+2002,New York Yankees,AL,103,58,0,NYY,Yes
+2002,Oakland Athletics,AL,103,59,0,OAK,Yes
+2002,Atlanta Braves,NL,101,59,1,ATL,Yes
+2002,Anaheim Angels,AL,99,63,0,ANA,Yes
+2002,Arizona Diamondbacks,NL,98,64,0,ARI,Yes
+2002,St. Louis Cardinals,NL,97,65,0,STL,Yes
+2002,San Francisco Giants,NL,95,66,1,SFG,Yes
+2002,Minnesota Twins,AL,94,67,0,MIN,Yes
+2002,Boston Red Sox,AL,93,69,0,BOS,No
+2002,Seattle Mariners,AL,93,69,0,SEA,No
+2002,Los Angeles Dodgers,NL,92,70,0,LAD,No
+2002,Houston Astros,NL,84,78,0,HOU,No
+2002,Montreal Expos,NL,83,79,0,MON,No
+2002,Chicago White Sox,AL,81,81,0,CHW,No
+2002,Philadelphia Phillies,NL,80,81,0,PHI,No
+2002,Florida Marlins,NL,79,83,0,FLA,No
+2002,Cincinnati Reds,NL,78,84,0,CIN,No
+2002,Toronto Blue Jays,AL,78,84,0,TOR,No
+2002,New York Mets,NL,75,86,0,NYM,No
+2002,Cleveland Indians,AL,74,88,0,CLE,No
+2002,Colorado Rockies,NL,73,89,0,COL,No
+2002,Pittsburgh Pirates,NL,72,89,0,PIT,No
+2002,Texas Rangers,AL,72,90,0,TEX,No
+2002,Baltimore Orioles,AL,67,95,0,BAL,No
+2002,Chicago Cubs,NL,67,95,0,CHC,No
+2002,San Diego Padres,NL,66,96,0,SDP,No
+2002,Kansas City Royals,AL,62,100,0,KCR,No
+2002,Milwaukee Brewers,NL,56,106,0,MIL,No
+2002,Detroit Tigers,AL,55,106,0,DET,No
+2002,Tampa Bay Devil Rays,AL,55,106,0,TBD,No
+2003,Atlanta Braves,NL,101,61,0,ATL,Yes
+2003,New York Yankees,AL,101,61,1,NYY,Yes
+2003,San Francisco Giants,NL,100,61,0,SFG,Yes
+2003,Oakland Athletics,AL,96,66,0,OAK,Yes
+2003,Boston Red Sox,AL,95,67,0,BOS,Yes
+2003,Seattle Mariners,AL,93,69,0,SEA,No
+2003,Florida Marlins,NL,91,71,0,FLA,Yes
+2003,Minnesota Twins,AL,90,72,0,MIN,Yes
+2003,Chicago Cubs,NL,88,74,0,CHC,Yes
+2003,Houston Astros,NL,87,75,0,HOU,No
+2003,Chicago White Sox,AL,86,76,0,CHW,No
+2003,Philadelphia Phillies,NL,86,76,0,PHI,No
+2003,Toronto Blue Jays,AL,86,76,0,TOR,No
+2003,Los Angeles Dodgers,NL,85,77,0,LAD,No
+2003,St. Louis Cardinals,NL,85,77,0,STL,No
+2003,Arizona Diamondbacks,NL,84,78,0,ARI,No
+2003,Kansas City Royals,AL,83,79,0,KCR,No
+2003,Montreal Expos,NL,83,79,0,MON,No
+2003,Anaheim Angels,AL,77,85,0,ANA,No
+2003,Pittsburgh Pirates,NL,75,87,0,PIT,No
+2003,Colorado Rockies,NL,74,88,0,COL,No
+2003,Baltimore Orioles,AL,71,91,1,BAL,No
+2003,Texas Rangers,AL,71,91,0,TEX,No
+2003,Cincinnati Reds,NL,69,93,0,CIN,No
+2003,Cleveland Indians,AL,68,94,0,CLE,No
+2003,Milwaukee Brewers,NL,68,94,0,MIL,No
+2003,New York Mets,NL,66,95,0,NYM,No
+2003,San Diego Padres,NL,64,98,0,SDP,No
+2003,Tampa Bay Devil Rays,AL,63,99,0,TBD,No
+2003,Detroit Tigers,AL,43,119,0,DET,No
+2004,St. Louis Cardinals,NL,105,57,0,STL,Yes
+2004,New York Yankees,AL,101,61,0,NYY,Yes
+2004,Boston Red Sox,AL,98,64,0,BOS,Yes
+2004,Atlanta Braves,NL,96,66,0,ATL,Yes
+2004,Los Angeles Dodgers,NL,93,69,0,LAD,Yes
+2004,Anaheim Angels,AL,92,70,0,ANA,Yes
+2004,Minnesota Twins,AL,92,70,0,MIN,Yes
+2004,Houston Astros,NL,92,70,0,HOU,Yes
+2004,Oakland Athletics,AL,91,71,0,OAK,No
+2004,San Francisco Giants,NL,91,71,0,SFG,No
+2004,Chicago Cubs,NL,89,73,0,CHC,No
+2004,Texas Rangers,AL,89,73,0,TEX,No
+2004,San Diego Padres,NL,87,75,0,SDP,No
+2004,Philadelphia Phillies,NL,86,76,0,PHI,No
+2004,Chicago White Sox,AL,83,79,0,CHW,No
+2004,Florida Marlins,NL,83,79,0,FLA,No
+2004,Cleveland Indians,AL,80,82,0,CLE,No
+2004,Baltimore Orioles,AL,78,84,0,BAL,No
+2004,Cincinnati Reds,NL,76,86,0,CIN,No
+2004,Detroit Tigers,AL,72,90,0,DET,No
+2004,Pittsburgh Pirates,NL,72,89,0,PIT,No
+2004,New York Mets,NL,71,91,0,NYM,No
+2004,Tampa Bay Devil Rays,AL,70,91,0,TBD,No
+2004,Colorado Rockies,NL,68,94,0,COL,No
+2004,Milwaukee Brewers,NL,67,94,0,MIL,No
+2004,Toronto Blue Jays,AL,67,94,0,TOR,No
+2004,Montreal Expos,NL,67,95,0,MON,No
+2004,Seattle Mariners,AL,63,99,0,SEA,No
+2004,Kansas City Royals,AL,58,104,0,KCR,No
+2004,Arizona Diamondbacks,NL,51,111,0,ARI,No
+2005,St. Louis Cardinals,NL,100,62,0,STL,Yes
+2005,Chicago White Sox,AL,99,63,0,CHW,Yes
+2005,Los Angeles Angels of Anaheim,AL,95,67,0,LAA,Yes
+2005,Boston Red Sox,AL,95,67,0,BOS,Yes
+2005,New York Yankees,AL,95,67,0,NYY,Yes
+2005,Cleveland Indians,AL,93,69,0,CLE,No
+2005,Atlanta Braves,NL,90,72,0,ATL,Yes
+2005,Houston Astros,NL,89,73,1,HOU,Yes
+2005,Oakland Athletics,AL,88,74,0,OAK,No
+2005,Philadelphia Phillies,NL,88,74,0,PHI,No
+2005,Florida Marlins,NL,83,79,0,FLA,No
+2005,Minnesota Twins,AL,83,79,0,MIN,No
+2005,New York Mets,NL,83,79,0,NYM,No
+2005,San Diego Padres,NL,82,80,0,SDP,Yes
+2005,Milwaukee Brewers,NL,81,81,0,MIL,No
+2005,Washington Nationals,NL,81,81,0,WSN,No
+2005,Toronto Blue Jays,AL,80,82,0,TOR,No
+2005,Chicago Cubs,NL,79,83,0,CHC,No
+2005,Texas Rangers,AL,79,83,0,TEX,No
+2005,Arizona Diamondbacks,NL,77,85,0,ARI,No
+2005,San Francisco Giants,NL,75,87,0,SFG,No
+2005,Baltimore Orioles,AL,74,88,0,BAL,No
+2005,Cincinnati Reds,NL,73,89,1,CIN,No
+2005,Detroit Tigers,AL,71,91,0,DET,No
+2005,Los Angeles Dodgers,NL,71,91,0,LAD,No
+2005,Seattle Mariners,AL,69,93,0,SEA,No
+2005,Colorado Rockies,NL,67,95,0,COL,No
+2005,Pittsburgh Pirates,NL,67,95,0,PIT,No
+2005,Tampa Bay Devil Rays,AL,67,95,0,TBD,No
+2005,Kansas City Royals,AL,56,106,0,KCR,No
+2006,New York Yankees,AL,97,65,0,NYY,Yes
+2006,New York Mets,NL,97,65,0,NYM,Yes
+2006,Minnesota Twins,AL,96,66,0,MIN,Yes
+2006,Detroit Tigers,AL,95,67,0,DET,Yes
+2006,Oakland Athletics,AL,93,69,0,OAK,Yes
+2006,Chicago White Sox,AL,90,72,0,CHW,No
+2006,Los Angeles Angels of Anaheim,AL,89,73,0,LAA,No
+2006,Los Angeles Dodgers,NL,88,74,0,LAD,Yes
+2006,San Diego Padres,NL,88,74,0,SDP,Yes
+2006,Toronto Blue Jays,AL,87,75,0,TOR,No
+2006,Boston Red Sox,AL,86,76,0,BOS,No
+2006,Philadelphia Phillies,NL,85,77,0,PHI,No
+2006,St. Louis Cardinals,NL,83,78,0,STL,Yes
+2006,Houston Astros,NL,82,80,0,HOU,No
+2006,Cincinnati Reds,NL,80,82,0,CIN,No
+2006,Texas Rangers,AL,80,82,0,TEX,No
+2006,Atlanta Braves,NL,79,83,0,ATL,No
+2006,Cleveland Indians,AL,78,84,0,CLE,No
+2006,Florida Marlins,NL,78,84,0,FLA,No
+2006,Seattle Mariners,AL,78,84,0,SEA,No
+2006,Arizona Diamondbacks,NL,76,86,0,ARI,No
+2006,Colorado Rockies,NL,76,86,0,COL,No
+2006,San Francisco Giants,NL,76,85,0,SFG,No
+2006,Milwaukee Brewers,NL,75,87,0,MIL,No
+2006,Washington Nationals,NL,71,91,0,WSN,No
+2006,Baltimore Orioles,AL,70,92,0,BAL,No
+2006,Pittsburgh Pirates,NL,67,95,0,PIT,No
+2006,Chicago Cubs,NL,66,96,0,CHC,No
+2006,Kansas City Royals,AL,62,100,0,KCR,No
+2006,Tampa Bay Devil Rays,AL,61,101,0,TBD,No
+2007,Cleveland Indians,AL,96,66,0,CLE,Yes
+2007,Boston Red Sox,AL,96,66,0,BOS,Yes
+2007,Los Angeles Angels of Anaheim,AL,94,68,0,LAA,Yes
+2007,New York Yankees,AL,94,68,0,NYY,Yes
+2007,Arizona Diamondbacks,NL,90,72,0,ARI,Yes
+2007,Colorado Rockies,NL,90,73,0,COL,Yes
+2007,San Diego Padres,NL,89,74,0,SDP,No
+2007,Philadelphia Phillies,NL,89,73,0,PHI,Yes
+2007,Detroit Tigers,AL,88,74,0,DET,No
+2007,New York Mets,NL,88,74,0,NYM,No
+2007,Seattle Mariners,AL,88,74,0,SEA,No
+2007,Chicago Cubs,NL,85,77,0,CHC,Yes
+2007,Atlanta Braves,NL,84,78,0,ATL,No
+2007,Milwaukee Brewers,NL,83,79,0,MIL,No
+2007,Toronto Blue Jays,AL,83,79,0,TOR,No
+2007,Los Angeles Dodgers,NL,82,80,0,LAD,No
+2007,Minnesota Twins,AL,79,83,0,MIN,No
+2007,St. Louis Cardinals,NL,78,84,0,STL,No
+2007,Oakland Athletics,AL,76,86,0,OAK,No
+2007,Texas Rangers,AL,75,87,0,TEX,No
+2007,Houston Astros,NL,73,89,0,HOU,No
+2007,Washington Nationals,NL,73,89,0,WSN,No
+2007,Chicago White Sox,AL,72,90,0,CHW,No
+2007,Cincinnati Reds,NL,72,90,0,CIN,No
+2007,Florida Marlins,NL,71,91,0,FLA,No
+2007,San Francisco Giants,NL,71,91,0,SFG,No
+2007,Baltimore Orioles,AL,69,93,0,BAL,No
+2007,Kansas City Royals,AL,69,93,0,KCR,No
+2007,Pittsburgh Pirates,NL,68,94,0,PIT,No
+2007,Tampa Bay Devil Rays,AL,66,96,0,TBD,No
+2008,Los Angeles Angels of Anaheim,AL,100,62,0,LAA,Yes
+2008,Chicago Cubs,NL,97,64,0,CHC,Yes
+2008,Tampa Bay Rays,AL,97,65,0,TBR,Yes
+2008,Boston Red Sox,AL,95,67,0,BOS,Yes
+2008,Philadelphia Phillies,NL,92,70,0,PHI,Yes
+2008,Milwaukee Brewers,NL,90,72,0,MIL,Yes
+2008,New York Mets,NL,89,73,0,NYM,No
+2008,New York Yankees,AL,89,73,0,NYY,No
+2008,Chicago White Sox,AL,89,74,0,CHW,Yes
+2008,Minnesota Twins,AL,88,75,0,MIN,No
+2008,Houston Astros,NL,86,75,0,HOU,No
+2008,St. Louis Cardinals,NL,86,76,0,STL,No
+2008,Toronto Blue Jays,AL,86,76,0,TOR,No
+2008,Florida Marlins,NL,84,77,0,FLA,No
+2008,Los Angeles Dodgers,NL,84,78,0,LAD,Yes
+2008,Arizona Diamondbacks,NL,82,80,0,ARI,No
+2008,Cleveland Indians,AL,81,81,0,CLE,No
+2008,Texas Rangers,AL,79,83,0,TEX,No
+2008,Kansas City Royals,AL,75,87,0,KCR,No
+2008,Oakland Athletics,AL,75,86,0,OAK,No
+2008,Cincinnati Reds,NL,74,88,0,CIN,No
+2008,Colorado Rockies,NL,74,88,0,COL,No
+2008,Detroit Tigers,AL,74,88,0,DET,No
+2008,Atlanta Braves,NL,72,90,0,ATL,No
+2008,San Francisco Giants,NL,72,90,0,SFG,No
+2008,Baltimore Orioles,AL,68,93,0,BAL,No
+2008,Pittsburgh Pirates,NL,67,95,0,PIT,No
+2008,San Diego Padres,NL,63,99,0,SDP,No
+2008,Seattle Mariners,AL,61,101,0,SEA,No
+2008,Washington Nationals,NL,59,102,0,WSN,No
+2009,New York Yankees,AL,103,59,0,NYY,Yes
+2009,Los Angeles Angels of Anaheim,AL,97,65,0,LAA,Yes
+2009,Boston Red Sox,AL,95,67,0,BOS,Yes
+2009,Los Angeles Dodgers,NL,95,67,0,LAD,Yes
+2009,Philadelphia Phillies,NL,93,69,0,PHI,Yes
+2009,Colorado Rockies,NL,92,70,0,COL,Yes
+2009,St. Louis Cardinals,NL,91,71,0,STL,Yes
+2009,San Francisco Giants,NL,88,74,0,SFG,No
+2009,Florida Marlins,NL,87,75,0,FLA,No
+2009,Texas Rangers,AL,87,75,0,TEX,No
+2009,Minnesota Twins,AL,87,76,0,MIN,Yes
+2009,Atlanta Braves,NL,86,76,0,ATL,No
+2009,Detroit Tigers,AL,86,77,0,DET,No
+2009,Seattle Mariners,AL,85,77,0,SEA,No
+2009,Tampa Bay Rays,AL,84,78,0,TBR,No
+2009,Chicago Cubs,NL,83,78,0,CHC,No
+2009,Milwaukee Brewers,NL,80,82,0,MIL,No
+2009,Chicago White Sox,AL,79,83,0,CHW,No
+2009,Cincinnati Reds,NL,78,84,0,CIN,No
+2009,Oakland Athletics,AL,75,87,0,OAK,No
+2009,San Diego Padres,NL,75,87,0,SDP,No
+2009,Toronto Blue Jays,AL,75,87,0,TOR,No
+2009,Houston Astros,NL,74,88,0,HOU,No
+2009,Arizona Diamondbacks,NL,70,92,0,ARI,No
+2009,New York Mets,NL,70,92,0,NYM,No
+2009,Cleveland Indians,AL,65,97,0,CLE,No
+2009,Kansas City Royals,AL,65,97,0,KCR,No
+2009,Baltimore Orioles,AL,64,98,0,BAL,No
+2009,Pittsburgh Pirates,NL,62,99,0,PIT,No
+2009,Washington Nationals,NL,59,103,0,WSN,No
+2010,Philadelphia Phillies,NL,97,65,0,PHI,Yes
+2010,Tampa Bay Rays,AL,96,66,0,TBR,Yes
+2010,New York Yankees,AL,95,67,0,NYY,Yes
+2010,Minnesota Twins,AL,94,68,0,MIN,Yes
+2010,San Francisco Giants,NL,92,70,0,SFG,Yes
+2010,Cincinnati Reds,NL,91,71,0,CIN,Yes
+2010,Atlanta Braves,NL,91,71,0,ATL,Yes
+2010,San Diego Padres,NL,90,72,0,SDP,No
+2010,Texas Rangers,AL,90,72,0,TEX,Yes
+2010,Boston Red Sox,AL,89,73,0,BOS,No
+2010,Chicago White Sox,AL,88,74,0,CHW,No
+2010,St. Louis Cardinals,NL,86,76,0,STL,No
+2010,Toronto Blue Jays,AL,85,77,0,TOR,No
+2010,Colorado Rockies,NL,83,79,0,COL,No
+2010,Detroit Tigers,AL,81,81,0,DET,No
+2010,Oakland Athletics,AL,81,81,0,OAK,No
+2010,Los Angeles Angels of Anaheim,AL,80,82,0,LAA,No
+2010,Los Angeles Dodgers,NL,80,82,0,LAD,No
+2010,Florida Marlins,NL,80,82,0,FLA,No
+2010,New York Mets,NL,79,83,0,NYM,No
+2010,Milwaukee Brewers,NL,77,85,0,MIL,No
+2010,Houston Astros,NL,76,86,0,HOU,No
+2010,Chicago Cubs,NL,75,87,0,CHC,No
+2010,Cleveland Indians,AL,69,93,0,CLE,No
+2010,Washington Nationals,NL,69,93,0,WSN,No
+2010,Kansas City Royals,AL,67,95,0,KCR,No
+2010,Baltimore Orioles,AL,66,96,0,BAL,No
+2010,Arizona Diamondbacks,NL,65,97,0,ARI,No
+2010,Seattle Mariners,AL,61,101,0,SEA,No
+2010,Pittsburgh Pirates,NL,57,105,0,PIT,No
+2011,Philadelphia Phillies,NL,102,60,0,PHI,Yes
+2011,New York Yankees,AL,97,65,0,NYY,Yes
+2011,Milwaukee Brewers,NL,96,66,0,MIL,Yes
+2011,Texas Rangers,AL,96,66,0,TEX,Yes
+2011,Detroit Tigers,AL,95,67,0,DET,Yes
+2011,Arizona Diamondbacks,NL,94,68,0,ARI,Yes
+2011,Tampa Bay Rays,AL,91,71,0,TBR,Yes
+2011,Boston Red Sox,AL,90,72,0,BOS,No
+2011,St. Louis Cardinals,NL,90,72,0,STL,Yes
+2011,Atlanta Braves,NL,89,73,0,ATL,No
+2011,Los Angeles Angels of Anaheim,AL,86,76,0,LAA,No
+2011,San Francisco Giants,NL,86,76,0,SFG,No
+2011,Los Angeles Dodgers,NL,82,79,0,LAD,No
+2011,Toronto Blue Jays,AL,81,81,0,TOR,No
+2011,Cleveland Indians,AL,80,82,0,CLE,No
+2011,Washington Nationals,NL,80,81,0,WSN,No
+2011,Chicago White Sox,AL,79,83,0,CHW,No
+2011,Cincinnati Reds,NL,79,83,0,CIN,No
+2011,New York Mets,NL,77,85,0,NYM,No
+2011,Oakland Athletics,AL,74,88,0,OAK,No
+2011,Colorado Rockies,NL,73,89,0,COL,No
+2011,Florida Marlins,NL,72,90,0,FLA,No
+2011,Pittsburgh Pirates,NL,72,90,0,PIT,No
+2011,Chicago Cubs,NL,71,91,0,CHC,No
+2011,Kansas City Royals,AL,71,91,0,KCR,No
+2011,San Diego Padres,NL,71,91,0,SDP,No
+2011,Baltimore Orioles,AL,69,93,0,BAL,No
+2011,Seattle Mariners,AL,67,95,0,SEA,No
+2011,Minnesota Twins,AL,63,99,0,MIN,No
+2011,Houston Astros,NL,56,106,0,HOU,No
+2012,Washington Nationals,NL,98,64,0,WSN,Yes
+2012,Cincinnati Reds,NL,97,65,0,CIN,Yes
+2012,New York Yankees,AL,95,67,0,NYY,Yes
+2012,Oakland Athletics,AL,94,68,0,OAK,Yes
+2012,Atlanta Braves,NL,94,68,0,ATL,Yes
+2012,San Francisco Giants,NL,94,68,0,SFG,Yes
+2012,Texas Rangers,AL,93,69,0,TEX,Yes
+2012,Baltimore Orioles,AL,93,69,0,BAL,Yes
+2012,Tampa Bay Rays,AL,90,72,0,TBR,No
+2012,Los Angeles Angels of Anaheim,AL,89,73,0,LAA,No
+2012,St. Louis Cardinals,NL,88,74,0,STL,Yes
+2012,Detroit Tigers,AL,88,74,0,DET,Yes
+2012,Los Angeles Dodgers,NL,86,76,0,LAD,No
+2012,Chicago White Sox,AL,85,77,0,CHW,No
+2012,Milwaukee Brewers,NL,83,79,0,MIL,No
+2012,Arizona Diamondbacks,NL,81,81,0,ARI,No
+2012,Philadelphia Phillies,NL,81,81,0,PHI,No
+2012,Pittsburgh Pirates,NL,79,83,0,PIT,No
+2012,San Diego Padres,NL,76,86,0,SDP,No
+2012,Seattle Mariners,AL,75,87,0,SEA,No
+2012,New York Mets,NL,74,88,0,NYM,No
+2012,Toronto Blue Jays,AL,73,89,0,TOR,No
+2012,Kansas City Royals,AL,72,90,0,KCR,No
+2012,Boston Red Sox,AL,69,93,0,BOS,No
+2012,Miami Marlins,NL,69,93,0,MIA,No
+2012,Cleveland Indians,AL,68,94,0,CLE,No
+2012,Minnesota Twins,AL,66,96,0,MIN,No
+2012,Colorado Rockies,NL,64,98,0,COL,No
+2012,Chicago Cubs,NL,61,101,0,CHC,No
+2012,Houston Astros,NL,55,107,0,HOU,No
+2013,St. Louis Cardinals,NL,97,65,0,STL,Yes
+2013,Boston Red Sox,AL,97,65,0,BOS,Yes
+2013,Atlanta Braves,NL,96,66,0,ATL,Yes
+2013,Oakland Athletics,AL,96,66,0,OAK,Yes
+2013,Pittsburgh Pirates,NL,94,68,0,PIT,Yes
+2013,Detroit Tigers,AL,93,69,0,DET,Yes
+2013,Cleveland Indians,AL,92,70,0,CLE,Yes
+2013,Tampa Bay Rays,AL,92,71,0,TBR,Yes
+2013,Los Angeles Dodgers,NL,92,70,0,LAD,Yes
+2013,Texas Rangers,AL,91,72,0,TEX,No
+2013,Cincinnati Reds,NL,90,72,0,CIN,Yes
+2013,Kansas City Royals,AL,86,76,0,KCR,No
+2013,Washington Nationals,NL,86,76,0,WSN,No
+2013,Baltimore Orioles,AL,85,77,0,BAL,No
+2013,New York Yankees,AL,85,77,0,NYY,No
+2013,Arizona Diamondbacks,NL,81,81,0,ARI,No
+2013,Los Angeles Angels of Anaheim,AL,78,84,0,LAA,No
+2013,San Diego Padres,NL,76,86,0,SDP,No
+2013,San Francisco Giants,NL,76,86,0,SFG,No
+2013,Colorado Rockies,NL,74,88,0,COL,No
+2013,Milwaukee Brewers,NL,74,88,0,MIL,No
+2013,New York Mets,NL,74,88,0,NYM,No
+2013,Toronto Blue Jays,AL,74,88,0,TOR,No
+2013,Philadelphia Phillies,NL,73,89,0,PHI,No
+2013,Seattle Mariners,AL,71,91,0,SEA,No
+2013,Chicago Cubs,NL,66,96,0,CHC,No
+2013,Minnesota Twins,AL,66,96,0,MIN,No
+2013,Chicago White Sox,AL,63,99,0,CHW,No
+2013,Miami Marlins,NL,62,100,0,MIA,No
+2013,Houston Astros,AL,51,111,0,HOU,No
+2014,Los Angeles Angels of Anaheim,AL,98,64,0,LAA,Yes
+2014,Baltimore Orioles,AL,96,66,0,BAL,Yes
+2014,Washington Nationals,NL,96,66,0,WSN,Yes
+2014,Los Angeles Dodgers,NL,94,68,0,LAD,Yes
+2014,Detroit Tigers,AL,90,72,0,DET,Yes
+2014,St. Louis Cardinals,NL,90,72,0,STL,Yes
+2014,Kansas City Royals,AL,89,73,0,KCR,Yes
+2014,Oakland Athletics,AL,88,74,0,OAK,Yes
+2014,Pittsburgh Pirates,NL,88,74,0,PIT,Yes
+2014,San Francisco Giants,NL,88,74,0,SFG,Yes
+2014,Seattle Mariners,AL,87,75,0,SEA,No
+2014,Cleveland Indians,AL,85,77,0,CLE,No
+2014,New York Yankees,AL,84,78,0,NYY,No
+2014,Toronto Blue Jays,AL,83,79,0,TOR,No
+2014,Milwaukee Brewers,NL,82,80,0,MIL,No
+2014,Atlanta Braves,NL,79,83,0,ATL,No
+2014,New York Mets,NL,79,83,0,NYM,No
+2014,Miami Marlins,NL,77,85,0,MIA,No
+2014,San Diego Padres,NL,77,85,0,SDP,No
+2014,Tampa Bay Rays,AL,77,85,0,TBR,No
+2014,Cincinnati Reds,NL,76,86,0,CIN,No
+2014,Chicago Cubs,NL,73,89,0,CHC,No
+2014,Chicago White Sox,AL,73,89,0,CHW,No
+2014,Philadelphia Phillies,NL,73,89,0,PHI,No
+2014,Boston Red Sox,AL,71,91,0,BOS,No
+2014,Houston Astros,AL,70,92,0,HOU,No
+2014,Minnesota Twins,AL,70,92,0,MIN,No
+2014,Texas Rangers,AL,67,95,0,TEX,No
+2014,Colorado Rockies,NL,66,96,0,COL,No
+2014,Arizona Diamondbacks,NL,64,98,0,ARI,No
+2015,St. Louis Cardinals,NL,100,62,0,STL,Yes
+2015,Pittsburgh Pirates,NL,98,64,0,PIT,Yes
+2015,Chicago Cubs,NL,97,65,0,CHC,Yes
+2015,Kansas City Royals,AL,95,67,0,KCR,Yes
+2015,Toronto Blue Jays,AL,93,69,0,TOR,Yes
+2015,Los Angeles Dodgers,NL,92,70,0,LAD,Yes
+2015,New York Mets,NL,90,72,0,NYM,Yes
+2015,Texas Rangers,AL,88,74,0,TEX,Yes
+2015,New York Yankees,AL,87,75,0,NYY,Yes
+2015,Houston Astros,AL,86,76,0,HOU,Yes
+2015,Los Angeles Angels of Anaheim,AL,85,77,0,LAA,No
+2015,San Francisco Giants,NL,84,78,0,SFG,No
+2015,Minnesota Twins,AL,83,79,0,MIN,No
+2015,Washington Nationals,NL,83,79,0,WSN,No
+2015,Baltimore Orioles,AL,81,81,0,BAL,No
+2015,Cleveland Indians,AL,81,80,0,CLE,No
+2015,Tampa Bay Rays,AL,80,82,0,TBR,No
+2015,Arizona Diamondbacks,NL,79,83,0,ARI,No
+2015,Boston Red Sox,AL,78,84,0,BOS,No
+2015,Chicago White Sox,AL,76,86,0,CHW,No
+2015,Seattle Mariners,AL,76,86,0,SEA,No
+2015,Detroit Tigers,AL,74,87,0,DET,No
+2015,San Diego Padres,NL,74,88,0,SDP,No
+2015,Miami Marlins,NL,71,91,0,MIA,No
+2015,Colorado Rockies,NL,68,94,0,COL,No
+2015,Milwaukee Brewers,NL,68,94,0,MIL,No
+2015,Oakland Athletics,AL,68,94,0,OAK,No
+2015,Atlanta Braves,NL,67,95,0,ATL,No
+2015,Cincinnati Reds,NL,64,98,0,CIN,No
+2015,Philadelphia Phillies,NL,63,99,0,PHI,No
+2016,Chicago Cubs,NL,103,58,1,CHC,Yes
+2016,Texas Rangers,AL,95,67,0,TEX,Yes
+2016,Washington Nationals,NL,95,67,0,WSN,Yes
+2016,Cleveland Indians,AL,94,67,0,CLE,Yes
+2016,Boston Red Sox,AL,93,69,0,BOS,Yes
+2016,Los Angeles Dodgers,NL,91,71,0,LAD,Yes
+2016,Toronto Blue Jays,AL,89,73,0,TOR,Yes
+2016,Baltimore Orioles,AL,89,73,0,BAL,Yes
+2016,San Francisco Giants,NL,87,75,0,SFG,Yes
+2016,New York Mets,NL,87,75,0,NYM,Yes
+2016,Detroit Tigers,AL,86,75,0,DET,No
+2016,Seattle Mariners,AL,86,76,0,SEA,No
+2016,St. Louis Cardinals,NL,86,76,0,STL,No
+2016,Houston Astros,AL,84,78,0,HOU,No
+2016,New York Yankees,AL,84,78,0,NYY,No
+2016,Kansas City Royals,AL,81,81,0,KCR,No
+2016,Miami Marlins,NL,79,82,0,MIA,No
+2016,Chicago White Sox,AL,78,84,0,CHW,No
+2016,Pittsburgh Pirates,NL,78,83,1,PIT,No
+2016,Colorado Rockies,NL,75,87,0,COL,No
+2016,Los Angeles Angels of Anaheim,AL,74,88,0,LAA,No
+2016,Milwaukee Brewers,NL,73,89,0,MIL,No
+2016,Philadelphia Phillies,NL,71,91,0,PHI,No
+2016,Arizona Diamondbacks,NL,69,93,0,ARI,No
+2016,Oakland Athletics,AL,69,93,0,OAK,No
+2016,Atlanta Braves,NL,68,93,0,ATL,No
+2016,Cincinnati Reds,NL,68,94,0,CIN,No
+2016,San Diego Padres,NL,68,94,0,SDP,No
+2016,Tampa Bay Rays,AL,68,94,0,TBR,No
+2016,Minnesota Twins,AL,59,103,0,MIN,No
+2017,LAD,NL,104,58,0,LAD,Yes
+2017,CLE,AL,102,60,0,CLE,Yes
+2017,HOU,AL,101,61,0,HOU,Yes
+2017,WSN,NL,97,65,0,WSN,Yes
+2017,BOS,AL,93,69,0,BOS,Yes
+2017,ARI,NL,93,69,0,ARI,Yes
+2017,CHC,NL,92,70,0,CHC,Yes
+2017,NYY,AL,91,71,0,NYY,Yes
+2017,COL,NL,87,75,0,COL,Yes
+2017,MIL,NL,86,76,0,MIL,No
+2017,MIN,AL,85,77,0,MIN,Yes
+2017,STL,NL,83,79,0,STL,No
+2017,LAA,AL,80,82,0,LAA,No
+2017,TBR,AL,80,82,0,TBR,No
+2017,KCR,AL,80,82,0,KCR,No
+2017,SEA,AL,78,84,0,SEA,No
+2017,TEX,AL,78,84,0,TEX,No
+2017,MIA,NL,77,85,0,MIA,No
+2017,TOR,AL,76,86,0,TOR,No
+2017,PIT,NL,75,87,0,PIT,No
+2017,BAL,AL,75,87,0,BAL,No
+2017,OAK,AL,75,87,0,OAK,No
+2017,ATL,NL,72,90,0,ATL,No
+2017,SDP,NL,71,91,0,SDP,No
+2017,NYM,NL,70,92,0,NYM,No
+2017,CIN,NL,68,94,0,CIN,No
+2017,CHW,AL,67,95,0,CHW,No
+2017,PHI,NL,66,96,0,PHI,No
+2017,SFG,NL,64,98,0,SFG,No
+2017,DET,AL,64,98,0,DET,No
+2018,BOS,AL,108,54,0,BOS,Yes
+2018,HOU,AL,103,59,0,HOU,Yes
+2018,NYY,AL,100,62,0,NYY,Yes
+2018,OAK,AL,97,65,0,OAK,Yes
+2018,MIL,NL,96,67,0,MIL,Yes
+2018,CHC,NL,95,68,0,CHC,Yes
+2018,LAD,NL,92,71,0,LAD,Yes
+2018,CLE,AL,91,71,0,CLE,Yes
+2018,COL,NL,91,72,0,COL,Yes
+2018,TBR,AL,90,72,0,TBR,No
+2018,ATL,NL,90,72,0,ATL,Yes
+2018,SEA,AL,89,73,0,SEA,No
+2018,STL,NL,88,74,0,STL,No
+2018,PIT,NL,82,79,0,PIT,No
+2018,WSN,NL,82,80,0,WSN,No
+2018,ARI,NL,82,80,0,ARI,No
+2018,PHI,NL,80,82,0,PHI,No
+2018,LAA,AL,80,82,0,LAA,No
+2018,MIN,AL,78,84,0,MIN,No
+2018,NYM,NL,77,85,0,NYM,No
+2018,SFG,NL,73,89,0,SFG,No
+2018,TOR,AL,73,89,0,TOR,No
+2018,CIN,NL,67,95,0,CIN,No
+2018,TEX,AL,67,95,0,TEX,No
+2018,SDP,NL,66,96,0,SDP,No
+2018,DET,AL,64,98,0,DET,No
+2018,MIA,NL,63,98,0,MIA,No
+2018,CHW,AL,62,100,0,CHW,No
+2018,KCR,AL,58,104,0,KCR,No
+2018,BAL,AL,47,115,0,BAL,No
+2019,HOU,AL,107,55,0,HOU,Yes
+2019,LAD,NL,106,56,0,LAD,Yes
+2019,NYY,AL,103,59,0,NYY,Yes
+2019,MIN,AL,101,61,0,MIN,Yes
+2019,ATL,NL,97,65,0,ATL,Yes
+2019,OAK,AL,97,65,0,OAK,Yes
+2019,TBR,AL,96,66,0,TBR,Yes
+2019,CLE,AL,93,69,0,CLE,No
+2019,WSN,NL,93,69,0,WSN,Yes
+2019,STL,NL,91,71,0,STL,Yes
+2019,MIL,NL,89,73,0,MIL,Yes
+2019,NYM,NL,86,76,0,NYM,No
+2019,ARI,NL,85,77,0,ARI,No
+2019,BOS,AL,84,78,0,BOS,No
+2019,CHC,NL,84,78,0,CHC,No
+2019,PHI,NL,81,81,0,PHI,No
+2019,TEX,AL,78,84,0,TEX,No
+2019,SFG,NL,77,85,0,SFG,No
+2019,CIN,NL,75,87,0,CIN,No
+2019,CHW,AL,72,89,0,CHW,No
+2019,LAA,AL,72,90,0,LAA,No
+2019,COL,NL,71,91,0,COL,No
+2019,SDP,NL,70,92,0,SDP,No
+2019,PIT,NL,69,93,0,PIT,No
+2019,SEA,AL,68,94,0,SEA,No
+2019,TOR,AL,67,95,0,TOR,No
+2019,KCR,AL,59,103,0,KCR,No
+2019,MIA,NL,57,105,0,MIA,No
+2019,BAL,AL,54,108,0,BAL,No
+2019,DET,AL,47,114,0,DET,No
