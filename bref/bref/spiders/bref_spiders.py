@@ -45,10 +45,13 @@ class BrefSpider(Spider):
             end_url = '/td'
 
             rows = response.xpath(base_url)
+            count = 1
             for row in rows:
                 item = BrefItem()
                 item['year'] = response.meta['year']
                 item['league'] = league
+                item['voting_place'] = int(row.xpath('./th/text()').get())
+                item['team'] = row.xpath('./th[0]/text()').extract_first()
                 item['name'] = row.xpath('./td[1]').extract_first().split('csk="')[-1].split('"')[0]
                 item['team'] = row.xpath('./td[2]/text()').extract_first()
                 item['points'] = row.xpath('./td[3]/text()').extract_first()

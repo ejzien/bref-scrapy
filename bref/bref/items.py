@@ -10,6 +10,7 @@ class BrefItem(scrapy.Item):
     year = scrapy.Field()
     name = scrapy.Field()
     team = scrapy.Field()
+    voting_place = scrapy.Field()
     points = scrapy.Field()
     first_place_votes = scrapy.Field()
     vote_share = scrapy.Field()
